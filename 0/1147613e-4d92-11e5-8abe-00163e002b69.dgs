@@ -1,0 +1,252 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>一个简单多面体的面都是三角形，顶点数V=6，则它的面数为______个．-数学-魔方格</title>
+    <meta name="renderer" content="webkit" />
+    <link id="favicon" href="/logo.ico" rel="icon" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="一个简单多面体的面都是三角形，顶点数V=6，则它的面数为______个．-数学-魔方格" />
+    <meta name="keywords" content="一个简单多面体的面都是三角形，顶点数V=6，则它的面数为______个．-数学-魔方格" />
+    <link href="/css/style1/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style1/forqdetail1.css" rel="stylesheet" type="text/css" />
+    <link href="http://bdimg.share.baidu.com/static/css/bdsstyle.css?cdnversion=20130704"
+        rel="stylesheet" type="text/css">
+
+    <script src="http://bdimg.share.baidu.com/static/js/logger.js?cdnversion=382066"></script>
+
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+
+</head>
+<body>
+    <div class="head">
+        <a class="goback1" href="javascript:void(0)" id="gohome_cl_1"></a>
+        <ul id="menu_daohang" class="menu">
+            <a href="javascript:void(0)" id="gohome_cl_2">首页</a> <span class="current">试题专页</span>
+        </ul>
+        <ul class="user_but" id="main_user_info">
+            <li id="gohome_reg_1">注册</li>
+            <li id="gohome_login_1">登录</li>
+        </ul>
+    </div>
+    <div class="bgcolorshow">
+        <!--为了兼容占位-->
+    </div>
+    <div class="content">
+        <div class="nagetivebanner">
+            <div class="teach_note">
+                <div id="teach_notetxt" class="teach_notepic">
+                </div>
+            </div>
+            <div id="teach_detail" class="teach_detail">
+                <span id="teach_detail1"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail2"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail3"></span>
+            </div>
+        </div>
+        <div class="nagetivebanner1">
+            <div class="seotop">
+                <span class="seotops">当前位置：<a href="http://www.mofangge.com" id="gohome_hr_1">魔方格</a>
+                    ＞<a href="http://www.mofangge.com/qlist/shuxue/" title="数学">数学</a>＞<a href="http://www.mofangge.com/qlist/shuxue/565/" title="球与正方体、长方体、四面体组合">球与正方体..</a>＞一个简单多面体的面都是三角形，顶点数V=6，则它的面数为______个..</span>
+            </div>
+        </div>
+        <div style="float: left; width: 720px;">
+            <div class="q_mokuai" id="q_indexkuai1">
+                <div class="q_indextitle" id="q_indexkuai11">
+                    <div class="q_indextitle1" id="q_indextitle1">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai2">
+                <div class="q_mktitle" id="q_indexkuai21">
+                    题文</div>
+                <div class="q_content" id="q_indexkuai22">
+                    <div class="q_bot" id="q_indexkuai221">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><span ></span>一个简单多面体的面都是三角形，顶点数V=6，则它的面数为______个．</TD></TR></TBODY></TABLE>
+                        <div class="provider" id="q_indexkuai2211">
+                            <div class="splitline">
+                            </div>
+                            <div class="right rightDiv" id="q_indexkuai22111">
+                                <span>题型：填空题</span><span>难度：中档</span><span>来源：不详</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai3">
+                <div class="q_mktitle" id="q_indextitle4">
+                    答案</div>
+                <div class="q_content" id="q_indexkuai32">
+                    <div class="q_bot" id="q_indexkuai321">
+                        <TABLE style="WORD-BREAK: break-all" width=650 ><TBODY><TR><TD>∵已知多面体的每个面有三条边，每相邻两条边重合为一条棱，<br>∴棱数E=<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black">3</td></tr><tr><td>2</td></tr></table>F</span>，代入公式V+F-E=2，得F=2V-4．<br>∵V=6，∴F=8，E=12，<br>即多面体的面数F为8，棱数E为12．<br>故答案为8．</TD></TR></TBODY></TABLE>
+                        <div class="right beShare" id="q_indexkuai3211">
+                            <span class="share_note">马上分享给同学</span>
+                            <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
+                                <a class="bds_qzone"></a><a class="bds_tieba"></a><a class="bds_hi"></a><a class="bds_sqq">
+                                </a><span class="bds_more"></span><a class="shareCount"></a>
+                            </div>
+
+                            <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=523656"></script>
+
+                            <script type="text/javascript" id="bdshell_js"></script>
+
+                            <script type="text/javascript">
+                                document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                            </script>
+
+                            <!-- Baidu Button END -->
+                        </div>
+                        <div class="provider" id="q_indexkuai3212">
+                            <div class="splitline">
+                            </div>
+                            <ul class="qditaltools" id="ques_tools">
+                                <li><a class="tools_jc" id="qdebug">揪错</a></li>
+                                <li><a class="tools_sc" id="b2tocollect">收藏</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="ad_center">
+
+               <!-- <script type="text/javascript">                    BAIDU_CLB_fillSlot("762612");</script>-->
+
+            </div>
+            <div class="q_mokuai" id="q_indexkuai4">
+                <div class="q_indextitle" id="q_indexkuai41">
+                    <div class="q_indextitle2" id="q_indextitle2">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai5">
+                <div class="q_content" id="q_indexkuai51">
+                    <div class="q_bot" id="q_indexkuai511">
+                        <div class="SecTotal">
+                            据魔方格专家权威分析，试题“一个简单多面体的面都是三角形，顶点数V=6，则它的面数为______个..”主要考查你对&nbsp;&nbsp;<span id="seclist"><span class="secname">球与正方体、长方体、四面体组合</span></span>&nbsp;&nbsp;等考点的理解。关于这些考点的“档案”如下：</div>
+                        <div class="linote">
+                            现在没空？<span class="btn" onclick="addfavorite()">点击收藏</span>，以后再看。</div>
+                        <div class="linote">
+                            因为篇幅有限，只列出部分考点，详细请访问<a class="btn" href="http://www.mofangge.com" target="_blank"
+                                id="gohome_hr_2">魔方格学习社区</a>。</div>
+                    </div>
+                    <div class="secchkdiv"  id="q_indexkuai512">
+                        <div class="secchkPanel" id="secchkPanel">
+                            <span class="CheckedPanel" id="panel565" title="球与正方体、长方体、四面体组合">球与正方体、长方体、四面体组合</span>
+                            <div class="clearfix">
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 20px; display: block; width: 300px;">
+                    </div>
+                    <div class="q_bot" id="secinfoPanel">
+                        <div class="q_bot" id="secInfo_565"><div class="secinfo">考点名称：<span class="secname">球与正方体、长方体、四面体组合</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>球与正方体的组合体： </STRONG></P>
+<P>正方体的内切球的直径是正方体的棱长，正方体的棱切球的直径是正方体的面对角线长， 正方体的外接球的直径是正方体的体对角线长. </P>
+<P><STRONG>球与长方体的组合体：</STRONG></P>
+<P>长方体的外接球的直径是长方体的体对角线长. </P>
+<P><STRONG>球与正四面体的组合体： </STRONG></P>
+<P>棱长为a的正四面体的内切球的半径为<IMG style="FILTER: none" border=0 src="http://pic1.mofangge.com/upload/secpic/201110/20111028110803001.gif" align=middle>，外接球的半径为<IMG style="FILTER: none" border=0 src="http://pic1.mofangge.com/upload/secpic/201110/20111028110822001.gif" align=middle>。 <BR></P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>球与其他几何体的接切问题举例如下：</STRONG></P>
+<P>球的半径均为R，正方体、四面体、长方体的棱均为a，则R与a之间的关系：<BR> （1）球与正四面体的顶点接：（如右图所示）<BR><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/2013121919473057980024.jpg">&nbsp;<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/2013121919473260770379.jpg"> <BR>（2）球与正四面体的面切：<BR><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/2013121919473304410291.jpg">&nbsp;<BR><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/201312191947333872690.jpg">&nbsp;<BR><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/201312191947338089303.jpg">&nbsp;<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/2013121919473504141436.jpg"> <BR></P><!--StartFragment -->
+<DIV>&nbsp;</DIV></div></li></ul></div>
+                        <div class="seccopyright">
+                            以上内容为魔方格学习社区（www.mofangge.com）原创内容，未经允许不得转载！</div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai"  id="q_indexkuai6">
+                <div class="q_indextitle" id="q_indexkuai61"> 
+                    <div class="q_indextitle3" id="q_indextitle3">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai7">
+                <div class="q_mktitle" id="q_indexkuai71">
+                    发现相似题</div>
+                <div class="q_content" id="q_indexkuai72">
+                    <div class="q_sameline" id="q_indexkuai721">
+                        与<span>“一个简单多面体的面都是三角形，顶点数V=6，则它的面数为______个..”</span>考查相似的试题有：</div>
+                    <div class="q_bot" id="q_indexkuai722">
+                        <!-- $xiangsiqidlist$ -->
+                        <table border="0" cellpadding="1" class="nearQues" style="line-height: 24px;">
+                            <thead>
+                                <tr>
+                                    <th width="15%">
+                                        试题ID
+                                    </th>
+                                    <th>
+                                        试题题文
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>327559</td><td><a href="http://www.mofangge.com/html/qDetail/02/g0/201310/pjd1g002327559.html">下列各组几何体中是多面体的一组是（）A．三棱柱、四棱台、球、圆锥..</a></td></tr><tr><td>244510</td><td><a href="http://www.mofangge.com/html/qDetail/02/g2/201101/bj55g202244510.html">一个正方体的顶点都在球面上，它的棱长为2cm，则球的半径是（）。</a></td></tr><tr><td>327901</td><td><a href="http://www.mofangge.com/html/qDetail/02/g0/201310/qzrcg002327901.html">下列说法中正确的是（）A．以直角三角形的一边为轴旋转所得的旋转体..</a></td></tr><tr><td>244621</td><td><a href="http://www.mofangge.com/html/qDetail/02/g1/201101/aqghg102244621.html">一个正方体的各顶点均在同一球的球面上，若该正方体的棱长为2，则..</a></td></tr><tr><td>246647</td><td><a href="http://www.mofangge.com/html/qDetail/02/g2/201104/9di0g202246647.html">一个正方体的顶点都在球面上，它的棱长为2cm，则球的半径是[]A．1..</a></td></tr><tr><td>251055</td><td><a href="http://www.mofangge.com/html/qDetail/02/g1/201106/uwc3g102251055.html">已知，棱长都相等的正三棱锥内接于一个球，某学生画出四个过球心..</a></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="q_right">
+            <!--<script type="text/javascript">BAIDU_CLB_fillSlot("762611");</script>-->
+            <div id="container_ext">
+            </div>
+            <!--<div class="Extra_right" id="Extra_right">
+            <div class="Extra_right1">
+                    <div class="div1" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_3">
+                        <div class="image1">
+                        </div>
+                    </div>
+                    <div class="div2" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_4">
+                    </div>
+                    <div class="div1" onclick="addfavorite()">
+                        <div class="image2">
+                        </div>
+                    </div>
+                    <div class="div2" id="keep_detail" onclick="addfavorite()">
+                    </div>
+                    <div class="div4">
+                        <div class="image3">
+                        </div>
+                        <div class="div3">
+                        </div>
+                        <div id="turn_weixin">
+                        </div>
+                        <p class="dttaildes">
+                            扫一扫，有惊喜</p>
+                    </div>
+                    <div class="div6">
+                        <iframe src="http://open.qzone.qq.com/like?url=http%3A%2F%2Fuser.qzone.qq.com%2F17175515&type=button_num&width=400&height=30&style=2 
+
+" allowtransparency="true" scrolling="no" border="0" frameborder="0" style="width: 400px; height: 30px; border: none;
+                            overflow: hidden;"></iframe>
+                            <iframe id="review" height="24" marginheight="0" src="http://follow.v.t.qq.com/index.php?c=follow&amp;a=quick&amp;appkey=801507580&amp;sign=bab9dd3a&amp;v=2&amp;name=mofangge520&amp;style=5&amp;t=1400310722678&amp;f=0" frameborder="0" width="125" allowtransparency="" marginwidth="0"></iframe>
+                        <p>
+                           <img src="/css/style1/forqdetail/threejt.png" width="54px" height="21px" style="vertical-align:middle;"> 关注QQ空间<br>
+                            学习秘籍，尽在此地</p>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+     </div>
+    <div class="copyright">
+        <div id="MFG_Features">“魔方格学习社区”各栏目介绍之--试题搜索：千万道试题，涵盖中小学十二学年九大学科，绝无仅有的学习领地，访问www.mofangge.com，只会让你更多的惊讶。</div><script type="text/javascript" src="/js/comm/mfgconfig.js"></script>
+        © 2014 <a href="http://www.mofangge.com" style="color: White">魔方格</a> 版权所有
+        <span id="thispage_lastlog_time"> 最后访问时间：2015-08-30 20:47:34</span>
+    </div>
+</body>
+
+<script src="/js/inc/mootools-core.js" type="text/javascript"></script>
+
+<script src="/js/comm/comm.js" type="text/javascript"></script>
+
+<script src="/js/comm/mfg_debug.js" type="text/javascript"></script>
+
+<script src="/js/comm/Ques_comm.js" type="text/javascript"></script>
+
+<script src="/js/app/qdetail/qdetail1.js?v=20150130" type="text/javascript"></script>
+
+</html>

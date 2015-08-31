@@ -1,0 +1,280 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>边长为L的正方形线框abcd在磁感应强度为B的匀强磁场中绕轴OO′匀速转动．初始时刻线框平面与磁场垂直，如图所示．经过t时间，线框转过120°．求：（1）线框转动周期和线框转过120°时-高二物理-魔方格</title>
+    <meta name="renderer" content="webkit" />
+    <link id="favicon" href="/logo.ico" rel="icon" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="边长为L的正方形线框abcd在磁感应强度为B的匀强磁场中绕轴OO′匀速转动．初始时刻线框平面与磁场垂直，如图所示．经过t时间，线框转过120°．求：（1）线框转动周期和线框转过120°时-高二物理-魔方格" />
+    <meta name="keywords" content="边长为L的正方形线框abcd在磁感应强度为B的匀强磁场中绕轴OO′匀速转动．初始时刻线框平面与磁场垂直，如图所示．经过t时间，线框转过120°．求：（1）线框转动周期和线框转过120°时-高二物理-魔方格" />
+    <link href="/css/style1/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style1/forqdetail1.css" rel="stylesheet" type="text/css" />
+    <link href="http://bdimg.share.baidu.com/static/css/bdsstyle.css?cdnversion=20130704"
+        rel="stylesheet" type="text/css">
+
+    <script src="http://bdimg.share.baidu.com/static/js/logger.js?cdnversion=382066"></script>
+
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+
+</head>
+<body>
+    <div class="head">
+        <a class="goback1" href="javascript:void(0)" id="gohome_cl_1"></a>
+        <ul id="menu_daohang" class="menu">
+            <a href="javascript:void(0)" id="gohome_cl_2">首页</a> <span class="current">试题专页</span>
+        </ul>
+        <ul class="user_but" id="main_user_info">
+            <li id="gohome_reg_1">注册</li>
+            <li id="gohome_login_1">登录</li>
+        </ul>
+    </div>
+    <div class="bgcolorshow">
+        <!--为了兼容占位-->
+    </div>
+    <div class="content">
+        <div class="nagetivebanner">
+            <div class="teach_note">
+                <div id="teach_notetxt" class="teach_notepic">
+                </div>
+            </div>
+            <div id="teach_detail" class="teach_detail">
+                <span id="teach_detail1"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail2"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail3"></span>
+            </div>
+        </div>
+        <div class="nagetivebanner1">
+            <div class="seotop">
+                <span class="seotops">当前位置：<a href="http://www.mofangge.com" id="gohome_hr_1">魔方格</a>
+                    ＞<a href="http://www.mofangge.com/qlist/wuli/" title="物理">物理</a>＞<a href="http://www.mofangge.com/qlist/wuli/576/" title="交变电流的周期和频率">交变电流的..</a>＞边长为L的正方形线框abcd在磁感应强度为B的匀强磁场中绕轴OO′匀速..</span>
+            </div>
+        </div>
+        <div style="float: left; width: 720px;">
+            <div class="q_mokuai" id="q_indexkuai1">
+                <div class="q_indextitle" id="q_indexkuai11">
+                    <div class="q_indextitle1" id="q_indextitle1">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai2">
+                <div class="q_mktitle" id="q_indexkuai21">
+                    题文</div>
+                <div class="q_content" id="q_indexkuai22">
+                    <div class="q_bot" id="q_indexkuai221">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><span ></span>边长为L的正方形线框abcd在磁感应强度为B的匀强磁场中绕轴OO′匀速转动．初始时刻线框平面与磁场垂直，如图所示．经过t时间，线框转过120°．求：<br>（1）线框转动周期和线框转过120°时感应电动势的瞬时值；<br>（2）线框内感应电动势在t时间内的平均值；<br>（3）若线框电阻为r，小灯泡电阻为R，计算小灯泡的电功率．<br/><img alt="" src="http://pic2.mofangge.com/upload/papers//20140611/2014061110023780311163.png" ></TD></TR></TBODY></TABLE>
+                        <div class="provider" id="q_indexkuai2211">
+                            <div class="splitline">
+                            </div>
+                            <div class="right rightDiv" id="q_indexkuai22111">
+                                <span>题型：问答题</span><span>难度：中档</span><span>来源：不详</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai3">
+                <div class="q_mktitle" id="q_indextitle4">
+                    答案</div>
+                <div class="q_content" id="q_indexkuai32">
+                    <div class="q_bot" id="q_indexkuai321">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD>（1）整个过程中只有CD边切割磁感线，经过时间t，线框转过120<sup>0</sup>角，说明周期T=3t，<br>电动势瞬时值 E<sub>2</sub>=NB<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black">2π</td></tr><tr><td>3t</td></tr></table></span>L2sin120°<br>解得E<sub>2</sub>=<span dealflag="1"  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%"><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;"><tr><td ><div style="width:6px;background: url('http://pic2.mofangge.com/upload/papers//20140611/20140611100237849125.png') repeat-y; height: 1px;overflow: hidden" muststretch="v"></div></div></div><div style="width:6px;background: url('http://pic2.mofangge.com/upload/papers//20140611/20140611100237881184.png') no-repeat; height: 7px; overflow: hidden"></div></div></div></td><td style="padding:0;padding-left: 2px; border-top: black 1px solid;line-height:normal">3</td></tr></table>πB<span><span>L</span><span style="vertical-align:super;font-size:90%">2</span></span></td></tr><tr><td>3t</td></tr></table></span><br>（2）设初始位置穿过线框平面的磁通量为正值，则转过120<sup>0</sup>度角时穿过线框平面的磁通量为负值，根据法拉第电磁感应定律<br>电动势的平均值为 E<sub>1</sub>=N<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%">B<span><span>L</span><span style="vertical-align:super;font-size:90%">2</span></span>+B<span><span>L</span><span style="vertical-align:super;font-size:90%">2</span></span>cos120°</td></tr><tr><td>t</td></tr></table></span>=<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%">3B<span><span>L</span><span style="vertical-align:super;font-size:90%">2</span></span></td></tr><tr><td>2t</td></tr></table></span><br>（3）电动势的最大值：<span  mathtag="math" ><span><span>E</span><span style="vertical-align:sub;font-size:90%">m</span></span>=NBSω=<table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%">2πB<span><span>L</span><span style="vertical-align:super;font-size:90%">2</span></span></td></tr><tr><td>3t</td></tr></table></span>，<br>回路中的电流有效值为：<span dealflag="1"  mathtag="math" >I=<table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%"><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%"><span><span>E</span><span style="vertical-align:sub;font-size:90%">m</span></span></td></tr><tr><td ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;"><tr><td ><div style="width:6px;background: url('http://pic2.mofangge.com/upload/papers//20140611/20140611100237849125.png') repeat-y; height: 1px;overflow: hidden" muststretch="v"></div></div></div><div style="width:6px;background: url('http://pic2.mofangge.com/upload/papers//20140611/20140611100237881184.png') no-repeat; height: 7px; overflow: hidden"></div></div></div></td><td style="padding:0;padding-left: 2px; border-top: black 1px solid;line-height:normal">2</td></tr></table></td></tr></table></td></tr><tr><td>R+r</td></tr></table></span><br>小灯泡的电功率：P=I<sup>2</sup>R=<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%">2<span><span>π</span><span style="vertical-align:super;font-size:90%">2</span></span><span><span>B</span><span style="vertical-align:super;font-size:90%">2</span></span><span><span>L</span><span style="vertical-align:super;font-size:90%">4</span></span>R</td></tr><tr><td >9(R+r<span><span>)</span><span style="vertical-align:super;font-size:90%">2</span></span><span><span>t</span><span style="vertical-align:super;font-size:90%">2</span></span></td></tr></table></span><br>答：（1）线框转动周期和线框转过120°时感应电动势的瞬时值<span dealflag="1"  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%"><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;"><tr><td ><div style="width:6px;background: url('http://pic2.mofangge.com/upload/papers//20140611/20140611100237849125.png') repeat-y; height: 1px;overflow: hidden" muststretch="v"></div></div></div><div style="width:6px;background: url('http://pic2.mofangge.com/upload/papers//20140611/20140611100237881184.png') no-repeat; height: 7px; overflow: hidden"></div></div></div></td><td style="padding:0;padding-left: 2px; border-top: black 1px solid;line-height:normal">3</td></tr></table>πB<span><span>L</span><span style="vertical-align:super;font-size:90%">2</span></span></td></tr><tr><td>3t</td></tr></table></span>；<br>（2）线框内感应电动势在t时间内的平均值<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%">3B<span><span>L</span><span style="vertical-align:super;font-size:90%">2</span></span></td></tr><tr><td>2t</td></tr></table></span>；<br>（3）若线框电阻为r，小灯泡电阻为R，计算小灯泡的电功率<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%">2<span><span>π</span><span style="vertical-align:super;font-size:90%">2</span></span><span><span>B</span><span style="vertical-align:super;font-size:90%">2</span></span><span><span>L</span><span style="vertical-align:super;font-size:90%">4</span></span>R</td></tr><tr><td >9(R+r<span><span>)</span><span style="vertical-align:super;font-size:90%">2</span></span><span><span>t</span><span style="vertical-align:super;font-size:90%">2</span></span></td></tr></table></span>．</TD></TR></TBODY></TABLE>
+                        <div class="right beShare" id="q_indexkuai3211">
+                            <span class="share_note">马上分享给同学</span>
+                            <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
+                                <a class="bds_qzone"></a><a class="bds_tieba"></a><a class="bds_hi"></a><a class="bds_sqq">
+                                </a><span class="bds_more"></span><a class="shareCount"></a>
+                            </div>
+
+                            <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=523656"></script>
+
+                            <script type="text/javascript" id="bdshell_js"></script>
+
+                            <script type="text/javascript">
+                                document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                            </script>
+
+                            <!-- Baidu Button END -->
+                        </div>
+                        <div class="provider" id="q_indexkuai3212">
+                            <div class="splitline">
+                            </div>
+                            <ul class="qditaltools" id="ques_tools">
+                                <li><a class="tools_jc" id="qdebug">揪错</a></li>
+                                <li><a class="tools_sc" id="b2tocollect">收藏</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="ad_center">
+
+               <!-- <script type="text/javascript">                    BAIDU_CLB_fillSlot("762612");</script>-->
+
+            </div>
+            <div class="q_mokuai" id="q_indexkuai4">
+                <div class="q_indextitle" id="q_indexkuai41">
+                    <div class="q_indextitle2" id="q_indextitle2">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai5">
+                <div class="q_content" id="q_indexkuai51">
+                    <div class="q_bot" id="q_indexkuai511">
+                        <div class="SecTotal">
+                            据魔方格专家权威分析，试题“边长为L的正方形线框abcd在磁感应强度为B的匀强磁场中绕轴OO′匀速..”主要考查你对&nbsp;&nbsp;<span id="seclist"><span class="secname">交变电流的周期和频率</span>，<span class="secname">交变电流的最大值、有效值、瞬时值和平均值</span></span>&nbsp;&nbsp;等考点的理解。关于这些考点的“档案”如下：</div>
+                        <div class="linote">
+                            现在没空？<span class="btn" onclick="addfavorite()">点击收藏</span>，以后再看。</div>
+                        <div class="linote">
+                            因为篇幅有限，只列出部分考点，详细请访问<a class="btn" href="http://www.mofangge.com" target="_blank"
+                                id="gohome_hr_2">魔方格学习社区</a>。</div>
+                    </div>
+                    <div class="secchkdiv"  id="q_indexkuai512">
+                        <div class="secchkPanel" id="secchkPanel">
+                            <span class="CheckedPanel" id="panel576" title="交变电流的周期和频率">交变电流的周期和频率</span><span class="unCheckPanel" id="panel577" title="交变电流的最大值、有效值、瞬时值和平均值" >交变电流的最大值、有效值、瞬时值和平均值</span>
+                            <div class="clearfix">
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 20px; display: block; width: 300px;">
+                    </div>
+                    <div class="q_bot" id="secinfoPanel">
+                        <div class="q_bot" id="secInfo_576"><div class="secinfo">考点名称：<span class="secname">交变电流的周期和频率</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><STRONG>交变电流的周期和频率：<BR><BR></STRONG>1、周期T：交流电完成一次周期性变化所需的时间。在一个周期内，交流电的方向变化两次。 <BR>2、频率f：交流电在1s内完成周期性变化的次数。角频率：ω=2π/T=2πf。 </div></li><li><div class="splitline"></div><div  class="notes"><STRONG>描述交变电流的物理量：<BR></STRONG><BR><IMG style="WIDTH: 436px; HEIGHT: 393px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131231/2013123116274217398849.png"></div></li></ul></div><div class="q_bot" style="display:none"  id="secInfo_577"><div class="secinfo">考点名称：<span class="secname">交变电流的最大值、有效值、瞬时值和平均值</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>交变电流的物理量：</STRONG><BR><BR>
+<TABLE style="BORDER-BOTTOM-STYLE: solid; BORDER-RIGHT-STYLE: solid; BORDER-COLLAPSE: collapse; BORDER-TOP-STYLE: solid; BORDER-LEFT-STYLE: solid; WORD-BREAK: break-all" border=1 cellSpacing=0 borderColor=infotext cellPadding=0 width=600 bgColor=highlighttext>
+<TBODY>
+<TR>
+<TD rowSpan=3>峰值（最大值）</TD>
+<TD>概念</TD>
+<TD>峰值是指最大的瞬时值，通常用<IMG style="WIDTH: 68px; HEIGHT: 20px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20140103/201401031059012361244.png">表示</TD></TR>
+<TR>
+<TD>获得方法</TD>
+<TD>最大值可由图像获得，可由瞬时值表达式i <IMG style="WIDTH: 265px; HEIGHT: 23px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20140103/201401031059013303426.png">获得，也可通过关系式<IMG style="WIDTH: 185px; HEIGHT: 19px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20140103/201401031059017982596.png"><IMG style="WIDTH: 107px; HEIGHT: 41px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20140103/201401031059025782225.png">来计算</TD></TR>
+<TR>
+<TD>应用环境</TD>
+<TD>当考虑某些电学元件(电容器、晶体管等) 的击穿电压(耐压值)时，指的是交变电流的最大值</TD></TR>
+<TR>
+<TD rowSpan=4>有效值</TD>
+<TD>概念</TD>
+<TD>有效值是根据电流的热效应定义的一个等效概念：让交变电流与恒定电流分别通过大小相同的电阻，如果它们在一个周期内产生的热量相等，而这个恒定电流是I、电压是U，我们就把I、U叫做这个交流电的有效值。有效值通常用大写字母I、U、E表示</TD></TR>
+<TR>
+<TD>获得方法</TD>
+<TD>对于正弦式交变电流有：<BR><IMG style="WIDTH: 125px; HEIGHT: 141px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20140103/201401031059026876668.png"><BR>对于非正弦式交变电流，可利用有效值的定义来计算其有效值<BR>对纯电阻电路以下各式仍成立<BR><IMG style="WIDTH: 119px; HEIGHT: 38px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20140103/201401031059027492112.png"></TD></TR>
+<TR>
+<TD>应用环境</TD>
+<TD>当计算某时间内的功率、产生的热量、电流做的功等问题时需使用有效值</TD></TR>
+<TR>
+<TD>备注</TD>
+<TD>①提到交变电流，在没有特别说明时都是指有效值。 <BR>②交流电气设备上，标出的额定电压、额定电流都是有效值。 <BR>③交流电表显示的示数是有效值。 <BR>④计算电功、电热时需用有效值。 <BR>⑤保险丝的熔断电流是指有效值。 <BR>⑥在半个周期的整数倍时间内有最大值，最大值等于有效值的<IMG style="WIDTH: 21px; HEIGHT: 19px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20140103/20140103105902827634.png">倍。 <BR>⑦四分之一周期内峰值等于有效值√2倍的条件是计时起点对应的瞬时值为零或峰值。 <BR>⑧小于四分之一周期内有效值不等于峰值的<IMG style="WIDTH: 19px; HEIGHT: 40px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20140103/20140103105902890837.png"></TD></TR>
+<TR>
+<TD rowSpan=3>平均值</TD>
+<TD>概念</TD>
+<TD>交变电流的电学量对时间的平均，通常用符号<IMG style="WIDTH: 44px; HEIGHT: 22px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20140103/20140103105903248972.png">表示</TD></TR>
+<TR>
+<TD>获得方法</TD>
+<TD><IMG style="WIDTH: 64px; HEIGHT: 64px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20140103/201401031059034042630.png"><BR>对于纯电阻电路：<IMG style="WIDTH: 110px; HEIGHT: 40px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20140103/201401031059038572389.png"></TD></TR>
+<TR>
+<TD>应用环境</TD>
+<TD>在计算某段时间内通过导体横截面的电荷量时需用平均值</TD></TR></TBODY></TABLE></P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>知识拓展： <BR></STRONG><BR>1．交变电流的平均值和最大值的联系闭合线圈绕垂直于匀强磁场的转动轴匀速转动时，可产生正、余弦交变电流，以电动势为例，二者联系如下表所示：<BR><IMG style="WIDTH: 437px; HEIGHT: 583px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131231/2013123116384550290791.png"><BR>2. 几种典型电流的有效性：<BR><IMG style="WIDTH: 434px; HEIGHT: 405px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131231/2013123116384609562966.png"><BR>3. 中性面：<BR><IMG style="WIDTH: 433px; HEIGHT: 185px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131231/2013123116384681335128.png"></P></div></li></ul></div>
+                        <div class="seccopyright">
+                            以上内容为魔方格学习社区（www.mofangge.com）原创内容，未经允许不得转载！</div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai"  id="q_indexkuai6">
+                <div class="q_indextitle" id="q_indexkuai61"> 
+                    <div class="q_indextitle3" id="q_indextitle3">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai7">
+                <div class="q_mktitle" id="q_indexkuai71">
+                    发现相似题</div>
+                <div class="q_content" id="q_indexkuai72">
+                    <div class="q_sameline" id="q_indexkuai721">
+                        与<span>“边长为L的正方形线框abcd在磁感应强度为B的匀强磁场中绕轴OO′匀速..”</span>考查相似的试题有：</div>
+                    <div class="q_bot" id="q_indexkuai722">
+                        <!-- $xiangsiqidlist$ -->
+                        <table border="0" cellpadding="1" class="nearQues" style="line-height: 24px;">
+                            <thead>
+                                <tr>
+                                    <th width="15%">
+                                        试题ID
+                                    </th>
+                                    <th>
+                                        试题题文
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>159140</td><td><a href="http://www.mofangge.com/html/qDetail/04/g0/201310/nj4ag004159140.html">一矩形线圈绕垂直磁场方向的轴在匀强磁场中转动，产生的交变电动..</a></td></tr><tr><td>160173</td><td><a href="http://www.mofangge.com/html/qDetail/04/g0/201310/4bhcg004160173.html">一交流电压的图象如图所示，将该交流电压加在一阻值为22Ω的电阻两..</a></td></tr><tr><td>209184</td><td><a href="http://www.mofangge.com/html/qDetail/04/g0/201311/9x6zg004209184.html">如图所示，在磁感应强度B=0.2T的水平匀强磁场中，有一边长为L=1..</a></td></tr><tr><td>292662</td><td><a href="http://www.mofangge.com/html/qDetail/04/g2/201406/wbf0g204292662.html">理想变压器正常工作时，原线圈一侧与副线圈一侧保持不变的物理量..</a></td></tr><tr><td>148261</td><td><a href="http://www.mofangge.com/html/qDetail/04/g0/201310/nk2wg004148261.html">一种自行车车头灯如图1，是通过自行车带动小型发电机供电的．图2是..</a></td></tr><tr><td>172680</td><td><a href="http://www.mofangge.com/html/qDetail/04/g0/201310/4jpig004172680.html">某交流电源的电动势与时间呈正弦函数关系如图所示，此电源与一个..</a></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="q_right">
+            <!--<script type="text/javascript">BAIDU_CLB_fillSlot("762611");</script>-->
+            <div id="container_ext">
+            </div>
+            <!--<div class="Extra_right" id="Extra_right">
+            <div class="Extra_right1">
+                    <div class="div1" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_3">
+                        <div class="image1">
+                        </div>
+                    </div>
+                    <div class="div2" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_4">
+                    </div>
+                    <div class="div1" onclick="addfavorite()">
+                        <div class="image2">
+                        </div>
+                    </div>
+                    <div class="div2" id="keep_detail" onclick="addfavorite()">
+                    </div>
+                    <div class="div4">
+                        <div class="image3">
+                        </div>
+                        <div class="div3">
+                        </div>
+                        <div id="turn_weixin">
+                        </div>
+                        <p class="dttaildes">
+                            扫一扫，有惊喜</p>
+                    </div>
+                    <div class="div6">
+                        <iframe src="http://open.qzone.qq.com/like?url=http%3A%2F%2Fuser.qzone.qq.com%2F17175515&type=button_num&width=400&height=30&style=2 
+
+" allowtransparency="true" scrolling="no" border="0" frameborder="0" style="width: 400px; height: 30px; border: none;
+                            overflow: hidden;"></iframe>
+                            <iframe id="review" height="24" marginheight="0" src="http://follow.v.t.qq.com/index.php?c=follow&amp;a=quick&amp;appkey=801507580&amp;sign=bab9dd3a&amp;v=2&amp;name=mofangge520&amp;style=5&amp;t=1400310722678&amp;f=0" frameborder="0" width="125" allowtransparency="" marginwidth="0"></iframe>
+                        <p>
+                           <img src="/css/style1/forqdetail/threejt.png" width="54px" height="21px" style="vertical-align:middle;"> 关注QQ空间<br>
+                            学习秘籍，尽在此地</p>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+     </div>
+    <div class="copyright">
+        <div id="MFG_Features">“魔方格学习社区”各栏目介绍之--考点百科：涵盖中小学十二学年九大学科所有的考点百科知识，定义类、定理类、导图类、特性类、点拨类，应有尽有，绝对是你的课前预习好帮手，前往www.mofangge.com，垂手可得。</div><script type="text/javascript" src="/js/comm/mfgconfig.js"></script>
+        © 2014 <a href="http://www.mofangge.com" style="color: White">魔方格</a> 版权所有
+        <span id="thispage_lastlog_time"> 最后访问时间：2015-08-31 13:25:33</span>
+    </div>
+</body>
+
+<script src="/js/inc/mootools-core.js" type="text/javascript"></script>
+
+<script src="/js/comm/comm.js" type="text/javascript"></script>
+
+<script src="/js/comm/mfg_debug.js" type="text/javascript"></script>
+
+<script src="/js/comm/Ques_comm.js" type="text/javascript"></script>
+
+<script src="/js/app/qdetail/qdetail1.js?v=20150130" type="text/javascript"></script>
+
+</html>

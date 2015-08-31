@@ -1,0 +1,264 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>设Sn为数列{an}的前n项和（n=1，2，3，……）。按如下方式定义数列{an}：a1=m（m∈N*），对任意k∈N*，k＞1，设ak为满足0≤ak≤k-1的整数，且k整除Sk，（Ⅰ）当m=9时，试给出{an}的前6项；（-高三数学-魔方格</title>
+    <meta name="renderer" content="webkit" />
+    <link id="favicon" href="/logo.ico" rel="icon" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="设Sn为数列{an}的前n项和（n=1，2，3，……）。按如下方式定义数列{an}：a1=m（m∈N*），对任意k∈N*，k＞1，设ak为满足0≤ak≤k-1的整数，且k整除Sk，（Ⅰ）当m=9时，试给出{an}的前6项；（-高三数学-魔方格" />
+    <meta name="keywords" content="设Sn为数列{an}的前n项和（n=1，2，3，……）。按如下方式定义数列{an}：a1=m（m∈N*），对任意k∈N*，k＞1，设ak为满足0≤ak≤k-1的整数，且k整除Sk，（Ⅰ）当m=9时，试给出{an}的前6项；（-高三数学-魔方格" />
+    <link href="/css/style1/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style1/forqdetail1.css" rel="stylesheet" type="text/css" />
+    <link href="http://bdimg.share.baidu.com/static/css/bdsstyle.css?cdnversion=20130704"
+        rel="stylesheet" type="text/css">
+
+    <script src="http://bdimg.share.baidu.com/static/js/logger.js?cdnversion=382066"></script>
+
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+
+</head>
+<body>
+    <div class="head">
+        <a class="goback1" href="javascript:void(0)" id="gohome_cl_1"></a>
+        <ul id="menu_daohang" class="menu">
+            <a href="javascript:void(0)" id="gohome_cl_2">首页</a> <span class="current">试题专页</span>
+        </ul>
+        <ul class="user_but" id="main_user_info">
+            <li id="gohome_reg_1">注册</li>
+            <li id="gohome_login_1">登录</li>
+        </ul>
+    </div>
+    <div class="bgcolorshow">
+        <!--为了兼容占位-->
+    </div>
+    <div class="content">
+        <div class="nagetivebanner">
+            <div class="teach_note">
+                <div id="teach_notetxt" class="teach_notepic">
+                </div>
+            </div>
+            <div id="teach_detail" class="teach_detail">
+                <span id="teach_detail1"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail2"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail3"></span>
+            </div>
+        </div>
+        <div class="nagetivebanner1">
+            <div class="seotop">
+                <span class="seotops">当前位置：<a href="http://www.mofangge.com" id="gohome_hr_1">魔方格</a>
+                    ＞<a href="http://www.mofangge.com/qlist/shuxue/" title="数学">数学</a>＞<a href="http://www.mofangge.com/qlist/shuxue/539/" title="常数数列">常数数列</a>＞设Sn为数列{an}的前n项和（n=1，2，3，……）。按如下方式定义数列{a..</span>
+            </div>
+        </div>
+        <div style="float: left; width: 720px;">
+            <div class="q_mokuai" id="q_indexkuai1">
+                <div class="q_indextitle" id="q_indexkuai11">
+                    <div class="q_indextitle1" id="q_indextitle1">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai2">
+                <div class="q_mktitle" id="q_indexkuai21">
+                    题文</div>
+                <div class="q_content" id="q_indexkuai22">
+                    <div class="q_bot" id="q_indexkuai221">
+                        <TABLE style="WORD-BREAK: break-all"  cellSpacing=0 width=650>
+<TBODY>
+<TR>
+<TD>设S<SUB>n</SUB>为数列{a<SUB>n</SUB>}的前n项和（n=1，2，3，……）。按如下方式定义数列 {a<SUB>n</SUB>}：a<SUB>1</SUB>=m（m∈N*），对任意k∈N*，k＞1，设a<SUB>k</SUB>为满足0≤a<SUB>k</SUB>≤k-1的整数，且k整除S<SUB>k</SUB>，<BR>（Ⅰ）当m=9时，试给出{a<SUB>n</SUB>}的前6项；<BR>（Ⅱ）证明：k∈N*，有<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120316/201203161033194251053.gif">；<BR>（Ⅲ）证明：对任意的m，数列{a<SUB>n</SUB>} 必从某项起成为常数列。 </TD></TR></TBODY></TABLE>
+                        <div class="provider" id="q_indexkuai2211">
+                            <div class="splitline">
+                            </div>
+                            <div class="right rightDiv" id="q_indexkuai22111">
+                                <span>题型：解答题</span><span>难度：中档</span><span>来源：浙江省月考题</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai3">
+                <div class="q_mktitle" id="q_indextitle4">
+                    答案</div>
+                <div class="q_content" id="q_indexkuai32">
+                    <div class="q_bot" id="q_indexkuai321">
+                        <TABLE style="WORD-BREAK: break-all"  cellSpacing=0 width=650>
+<TBODY>
+<TR>
+<TD>解：（Ⅰ）m=9时，数列为9，1，2，0，3，3，3，3，<BR>即前六项为9，1，2，0，3，3。<BR>（Ⅱ）<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120316/201203161033194321448.gif">；<BR>&nbsp;（Ⅲ）<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120316/201203161033194461159.gif">，<BR>由（Ⅱ）可得<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120316/201203161033194551054.gif">，<BR><IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120316/20120316103319461977.gif">为定值且<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120316/20120316103319473914.gif">单调不增，<BR>∴数列<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120316/201203161033194791002.gif">必将从某项起变为常数，<BR>不妨设从l项起<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120316/20120316103319473914.gif">为常数，则<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120316/201203161050045011019.gif">，<BR>于是<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120316/201203161050045081259.gif">，<BR>所以<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120316/201203161050045131308.gif">，<BR>所以{a<SUB>n</SUB>}当n≥l+1时成为常数列。</TD></TR></TBODY></TABLE>
+                        <div class="right beShare" id="q_indexkuai3211">
+                            <span class="share_note">马上分享给同学</span>
+                            <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
+                                <a class="bds_qzone"></a><a class="bds_tieba"></a><a class="bds_hi"></a><a class="bds_sqq">
+                                </a><span class="bds_more"></span><a class="shareCount"></a>
+                            </div>
+
+                            <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=523656"></script>
+
+                            <script type="text/javascript" id="bdshell_js"></script>
+
+                            <script type="text/javascript">
+                                document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                            </script>
+
+                            <!-- Baidu Button END -->
+                        </div>
+                        <div class="provider" id="q_indexkuai3212">
+                            <div class="splitline">
+                            </div>
+                            <ul class="qditaltools" id="ques_tools">
+                                <li><a class="tools_jc" id="qdebug">揪错</a></li>
+                                <li><a class="tools_sc" id="b2tocollect">收藏</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="ad_center">
+
+               <!-- <script type="text/javascript">                    BAIDU_CLB_fillSlot("762612");</script>-->
+
+            </div>
+            <div class="q_mokuai" id="q_indexkuai4">
+                <div class="q_indextitle" id="q_indexkuai41">
+                    <div class="q_indextitle2" id="q_indextitle2">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai5">
+                <div class="q_content" id="q_indexkuai51">
+                    <div class="q_bot" id="q_indexkuai511">
+                        <div class="SecTotal">
+                            据魔方格专家权威分析，试题“设Sn为数列{an}的前n项和（n=1，2，3，……）。按如下方式定义数列{a..”主要考查你对&nbsp;&nbsp;<span id="seclist"><span class="secname">常数数列</span>，<span class="secname">一般数列的项</span>，<span class="secname">反证法与放缩法</span></span>&nbsp;&nbsp;等考点的理解。关于这些考点的“档案”如下：</div>
+                        <div class="linote">
+                            现在没空？<span class="btn" onclick="addfavorite()">点击收藏</span>，以后再看。</div>
+                        <div class="linote">
+                            因为篇幅有限，只列出部分考点，详细请访问<a class="btn" href="http://www.mofangge.com" target="_blank"
+                                id="gohome_hr_2">魔方格学习社区</a>。</div>
+                    </div>
+                    <div class="secchkdiv"  id="q_indexkuai512">
+                        <div class="secchkPanel" id="secchkPanel">
+                            <span class="CheckedPanel" id="panel539" title="常数数列">常数数列</span><span class="unCheckPanel" id="panel537" title="一般数列的项" >一般数列的项</span><span class="unCheckPanel" id="panel560" title="反证法与放缩法" >反证法与放缩法</span>
+                            <div class="clearfix">
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 20px; display: block; width: 300px;">
+                    </div>
+                    <div class="q_bot" id="secinfoPanel">
+                        <div class="q_bot" id="secInfo_539"><div class="secinfo">考点名称：<span class="secname">常数数列</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>常数列的定义：</STRONG></P>
+<P>各项相等的数列叫做常数列。</P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>构造常数数列巧求数列的通项公式：</STRONG></P>
+<P>非零常数列既是公比为1的等比数列也是公差为0的等差数列。在数列{a<SUB>n</SUB>}中，若a<SUB>n+1</SUB>=a<SUB>n</SUB>,则数列{a<SUB>n</SUB>}为常数列，其通项公式为a<SUB>n</SUB>=a<SUB>1</SUB>。在求某些递推数列的通项公式时，若能构造出一个新的常数列，便能简捷地求出通项公式。</P></div></li></ul></div><div class="q_bot" style="display:none"  id="secInfo_537"><div class="secinfo">考点名称：<span class="secname">一般数列的项</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>一般数列的项的定义：</STRONG></P>
+<P>数列中的每一个数叫做这个数列的项。</P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>数列项的性质：</STRONG></P>
+<P>①数列的项具有有序性，一个数列不仅与构成数列的“数”有关，而且与这些数的排列顺序有关，注意与集合中元素的无序性区分开来，；<BR>②数列的项具有可重复性，数列中的数可重复出现，这也要与集合中元素的互异性区分开来：<BR>③注意a<SUB>n</SUB>与{a<SUB>n</SUB>}的区别：a<SUB>n</SUB>表示数列{a<SUB>n</SUB>}的第n 项，而{a<SUB>n</SUB>}表示数列a<SUB>1</SUB>，a<SUB>2</SUB>，…，a<SUB>n</SUB>，…，</P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>方法提炼：</STRONG></P>
+<P>1.数列最大项、最小项、数列有界性问题可借助数列的单调性来解决，判断单调性时常用（1）作差法；（2）作差法；（3）结合函数图像等方法；<BR>2.若求最大项a<SUB>n</SUB>,则a<SUB>n</SUB>满足a<SUB>n≥</SUB>a<SUB>n+1</SUB>且a<SUB>n≥</SUB>a<SUB>n-1；</SUB>若求最小项a<SUB>n</SUB>,则a<SUB>n</SUB>满足a<SUB>n≤</SUB>a<SUB>n+1</SUB>且a<SUB>n</SUB><SUB>≤</SUB>a<SUB>n-1。</SUB></P></div></li></ul></div><div class="q_bot" style="display:none"  id="secInfo_560"><div class="secinfo">考点名称：<span class="secname">反证法与放缩法</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>反证法的定义：</STRONG></P>
+<P>有些不等式无法利用题设的已知条件直接证明，我们可以用间接的方法——反证法去证明，即通过否定原结论——导出矛盾——从而达到肯定原结论的目的。 </P>
+<P><STRONG>放缩法的定义：</STRONG></P>
+<P>把原不等式放大或缩小成一个恰好可以化简的形式，比较常用的方法是把分母或分子适当放大或缩小（减去或加上一个正数）使不等式简化易证。 <BR></P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>反证法证题的步骤：</STRONG></P>
+<P>若A成立，求证B成立。<BR>共分三步：<BR>（1）提出与结论相反的假设；如负数的反面是非负数，正数的反面是非正数即0和负数；<BR>（2）从假设出发，经过推理，得出矛盾；（必须由假设出发进行推理否则不是反证法或证错）；<BR>（3）由矛盾判定假设不正确，从而肯定命题的结论正确.矛盾：与定义、公理、定理、公式、性质等一切已有的结论矛盾甚至自相矛盾。<BR>反证法是一种间接证明命题的基本方法。在证明一个数学命题时，如果运用直接证明法比较困难或难以证明时，可运用反证法进行证明。</P>
+<P><STRONG>放缩法的意义：</STRONG></P>
+<P>放缩法理论依据是不等式的传递性：若,a&lt;b,b&lt;c，则a&lt;c.</P>
+<P><STRONG>放缩法的操作：</STRONG></P>
+<P>若求证P&lt;Q，先证P&lt;P<SUB>1</SUB>&lt;P<SUB>2</SUB>&lt;…&lt;P<SUB>n</SUB>,再证恰有P<SUB>n</SUB>&lt;Q.<BR>需注意：（1）只有同方向才可以放缩，反方向不可。<BR>（2）不能放（缩）得太大（小），否则不会有最后的P<SUB>n</SUB>&lt;Q.</P></div></li></ul></div>
+                        <div class="seccopyright">
+                            以上内容为魔方格学习社区（www.mofangge.com）原创内容，未经允许不得转载！</div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai"  id="q_indexkuai6">
+                <div class="q_indextitle" id="q_indexkuai61"> 
+                    <div class="q_indextitle3" id="q_indextitle3">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai7">
+                <div class="q_mktitle" id="q_indexkuai71">
+                    发现相似题</div>
+                <div class="q_content" id="q_indexkuai72">
+                    <div class="q_sameline" id="q_indexkuai721">
+                        与<span>“设Sn为数列{an}的前n项和（n=1，2，3，……）。按如下方式定义数列{a..”</span>考查相似的试题有：</div>
+                    <div class="q_bot" id="q_indexkuai722">
+                        <!-- $xiangsiqidlist$ -->
+                        <table border="0" cellpadding="1" class="nearQues" style="line-height: 24px;">
+                            <thead>
+                                <tr>
+                                    <th width="15%">
+                                        试题ID
+                                    </th>
+                                    <th>
+                                        试题题文
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>269655</td><td><a href="http://www.mofangge.com/html/qDetail/02/g3/201202/rrzsg302269655.html">已知An（an，bn）（n∈N*）是曲线y=ex上的点，a1=a，Sn是数列{an}的前..</a></td></tr><tr><td>268881</td><td><a href="http://www.mofangge.com/html/qDetail/02/g2/201112/ms38g202268881.html">下列叙述正确的是[]A．数列1，3，5，7与7，5，3，1是相同的数列B．..</a></td></tr><tr><td>249180</td><td><a href="http://www.mofangge.com/html/qDetail/02/g3/201105/pe8hg302249180.html">数列{an}满足：an+1=3an-3an2，n=1，2，3，…。（Ⅰ）若数列{an}为常数..</a></td></tr><tr><td>254088</td><td><a href="http://www.mofangge.com/html/qDetail/02/g2/201108/k9lag202254088.html">已知Sk表示数列{ak}的前k项和，且Sk+Sk+1=ak+1(k∈N*），那么此数列..</a></td></tr><tr><td>272727</td><td><a href="http://www.mofangge.com/html/qDetail/02/g3/201203/gqn2g302272727.html">设Sn为数列{an}的前n项和（n=1，2，3，……）。按如下方式定义数列{a..</a></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="q_right">
+            <!--<script type="text/javascript">BAIDU_CLB_fillSlot("762611");</script>-->
+            <div id="container_ext">
+            </div>
+            <!--<div class="Extra_right" id="Extra_right">
+            <div class="Extra_right1">
+                    <div class="div1" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_3">
+                        <div class="image1">
+                        </div>
+                    </div>
+                    <div class="div2" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_4">
+                    </div>
+                    <div class="div1" onclick="addfavorite()">
+                        <div class="image2">
+                        </div>
+                    </div>
+                    <div class="div2" id="keep_detail" onclick="addfavorite()">
+                    </div>
+                    <div class="div4">
+                        <div class="image3">
+                        </div>
+                        <div class="div3">
+                        </div>
+                        <div id="turn_weixin">
+                        </div>
+                        <p class="dttaildes">
+                            扫一扫，有惊喜</p>
+                    </div>
+                    <div class="div6">
+                        <iframe src="http://open.qzone.qq.com/like?url=http%3A%2F%2Fuser.qzone.qq.com%2F17175515&type=button_num&width=400&height=30&style=2 
+
+" allowtransparency="true" scrolling="no" border="0" frameborder="0" style="width: 400px; height: 30px; border: none;
+                            overflow: hidden;"></iframe>
+                            <iframe id="review" height="24" marginheight="0" src="http://follow.v.t.qq.com/index.php?c=follow&amp;a=quick&amp;appkey=801507580&amp;sign=bab9dd3a&amp;v=2&amp;name=mofangge520&amp;style=5&amp;t=1400310722678&amp;f=0" frameborder="0" width="125" allowtransparency="" marginwidth="0"></iframe>
+                        <p>
+                           <img src="/css/style1/forqdetail/threejt.png" width="54px" height="21px" style="vertical-align:middle;"> 关注QQ空间<br>
+                            学习秘籍，尽在此地</p>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+     </div>
+    <div class="copyright">
+        <div id="MFG_Features">“魔方格学习社区”各栏目介绍之--试题搜索：千万道试题，涵盖中小学十二学年九大学科，绝无仅有的学习领地，访问www.mofangge.com，只会让你更多的惊讶。</div><script type="text/javascript" src="/js/comm/mfgconfig.js"></script>
+        © 2014 <a href="http://www.mofangge.com" style="color: White">魔方格</a> 版权所有
+        <span id="thispage_lastlog_time"> 最后访问时间：2015-08-30 20:42:30</span>
+    </div>
+</body>
+
+<script src="/js/inc/mootools-core.js" type="text/javascript"></script>
+
+<script src="/js/comm/comm.js" type="text/javascript"></script>
+
+<script src="/js/comm/mfg_debug.js" type="text/javascript"></script>
+
+<script src="/js/comm/Ques_comm.js" type="text/javascript"></script>
+
+<script src="/js/app/qdetail/qdetail1.js?v=20150130" type="text/javascript"></script>
+
+</html>

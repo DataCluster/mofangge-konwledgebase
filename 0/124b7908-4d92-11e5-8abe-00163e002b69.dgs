@@ -1,0 +1,247 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>在四棱锥中，底面为矩形，，，，，分别为的中点．(1)求证：；(2)求证：平面；-高二数学-魔方格</title>
+    <meta name="renderer" content="webkit" />
+    <link id="favicon" href="/logo.ico" rel="icon" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="在四棱锥中，底面为矩形，，，，，分别为的中点．(1)求证：；(2)求证：平面；-高二数学-魔方格" />
+    <meta name="keywords" content="在四棱锥中，底面为矩形，，，，，分别为的中点．(1)求证：；(2)求证：平面；-高二数学-魔方格" />
+    <link href="/css/style1/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style1/forqdetail1.css" rel="stylesheet" type="text/css" />
+    <link href="http://bdimg.share.baidu.com/static/css/bdsstyle.css?cdnversion=20130704"
+        rel="stylesheet" type="text/css">
+
+    <script src="http://bdimg.share.baidu.com/static/js/logger.js?cdnversion=382066"></script>
+
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+
+</head>
+<body>
+    <div class="head">
+        <a class="goback1" href="javascript:void(0)" id="gohome_cl_1"></a>
+        <ul id="menu_daohang" class="menu">
+            <a href="javascript:void(0)" id="gohome_cl_2">首页</a> <span class="current">试题专页</span>
+        </ul>
+        <ul class="user_but" id="main_user_info">
+            <li id="gohome_reg_1">注册</li>
+            <li id="gohome_login_1">登录</li>
+        </ul>
+    </div>
+    <div class="bgcolorshow">
+        <!--为了兼容占位-->
+    </div>
+    <div class="content">
+        <div class="nagetivebanner">
+            <div class="teach_note">
+                <div id="teach_notetxt" class="teach_notepic">
+                </div>
+            </div>
+            <div id="teach_detail" class="teach_detail">
+                <span id="teach_detail1"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail2"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail3"></span>
+            </div>
+        </div>
+        <div class="nagetivebanner1">
+            <div class="seotop">
+                <span class="seotops">当前位置：<a href="http://www.mofangge.com" id="gohome_hr_1">魔方格</a>
+                    ＞<a href="http://www.mofangge.com/qlist/shuxue/" title="数学">数学</a>＞<a href="http://www.mofangge.com/qlist/shuxue/605/" title="用向量证明线线、线面、面面的垂直、平行关系">用向量证明..</a>＞在四棱锥中，底面为矩形，，，，，分别为的中点．(1)求证：；(2)求..</span>
+            </div>
+        </div>
+        <div style="float: left; width: 720px;">
+            <div class="q_mokuai" id="q_indexkuai1">
+                <div class="q_indextitle" id="q_indexkuai11">
+                    <div class="q_indextitle1" id="q_indextitle1">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai2">
+                <div class="q_mktitle" id="q_indexkuai21">
+                    题文</div>
+                <div class="q_content" id="q_indexkuai22">
+                    <div class="q_bot" id="q_indexkuai221">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><div>在四棱锥<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233453604.png" style="vertical-align:middle;" />中，底面<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233468534.png" style="vertical-align:middle;" />为矩形，<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233484728.png" style="vertical-align:middle;" />，<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233515432.png" style="vertical-align:middle;" />，<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233531495.png" style="vertical-align:middle;" />，<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233546521.png" style="vertical-align:middle;" />，<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233562440.png" style="vertical-align:middle;" />分别为<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233578549.png" style="vertical-align:middle;" />的中点．<br />(1) 求证：<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233609557.png" style="vertical-align:middle;" />；<br />(2) 求证：<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233624471.png" style="vertical-align:middle;" />平面<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233640448.png" style="vertical-align:middle;" />；<br /><img src="http://pic2.mofangge.com/upload/papers//20140824/201408240602336561952.png" style="vertical-align:middle;" /></div></TD></TR></TBODY></TABLE>
+                        <div class="provider" id="q_indexkuai2211">
+                            <div class="splitline">
+                            </div>
+                            <div class="right rightDiv" id="q_indexkuai22111">
+                                <span>题型：解答题</span><span>难度：中档</span><span>来源：不详</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai3">
+                <div class="q_mktitle" id="q_indextitle4">
+                    答案</div>
+                <div class="q_content" id="q_indexkuai32">
+                    <div class="q_bot" id="q_indexkuai321">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><div>(1)见解析；(2)见解析.</div></TD></TR></TBODY></TABLE><TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><div><br />试题分析：（1）欲证线线垂直往往通过证明线面垂直（即证明其中一条线垂直于另一条所在平面）；（2）欲证线面平行，需在平面内寻找一条直线，并证此线平行于另一直线.此题也可以采用空间向量证明，即证明<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233671407.png" style="vertical-align:middle;" />的方向向量垂直于平面<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233640448.png" style="vertical-align:middle;" />的法向量<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233718297.png" style="vertical-align:middle;" />即可.<br />试题解析：（1）证明：<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233734235.png" style="vertical-align:middle;" />底面<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233468534.png" style="vertical-align:middle;" />为矩形&nbsp;<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233765553.png" style="vertical-align:middle;" /><br /><img src="http://pic2.mofangge.com/upload/papers//20140824/201408240602337801071.png" style="vertical-align:middle;" /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233796521.png" style="vertical-align:middle;" /><br /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233827635.png" style="vertical-align:middle;" /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233858685.png" style="vertical-align:middle;" /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233890756.png" style="vertical-align:middle;" />&nbsp;<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233921573.png" style="vertical-align:middle;" /><br /><img src="http://pic2.mofangge.com/upload/papers//20140824/201408240602339361914.png" style="vertical-align:middle;" /><br />（2）证明：取<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233952527.png" style="vertical-align:middle;" />，连接<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233983535.png" style="vertical-align:middle;" /><br /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060233999961.png" style="vertical-align:middle;" /><br /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060234014418.png" style="vertical-align:middle;" /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060234046264.png" style="vertical-align:middle;" /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060234061535.png" style="vertical-align:middle;" />,<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060234077400.png" style="vertical-align:middle;" /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060234046264.png" style="vertical-align:middle;" /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060234061535.png" style="vertical-align:middle;" /><br /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060234014418.png" style="vertical-align:middle;" /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060234046264.png" style="vertical-align:middle;" /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060234077400.png" style="vertical-align:middle;" /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060234186724.png" style="vertical-align:middle;" />是平行四边形，<br /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060234202426.png" style="vertical-align:middle;" />//<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060234233396.png" style="vertical-align:middle;" />，<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060234248663.png" style="vertical-align:middle;" />，<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060234264746.png" style="vertical-align:middle;" /><br /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060234202426.png" style="vertical-align:middle;" />//<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060234389530.png" style="vertical-align:middle;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div></TD></TR></TBODY></TABLE>
+                        <div class="right beShare" id="q_indexkuai3211">
+                            <span class="share_note">马上分享给同学</span>
+                            <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
+                                <a class="bds_qzone"></a><a class="bds_tieba"></a><a class="bds_hi"></a><a class="bds_sqq">
+                                </a><span class="bds_more"></span><a class="shareCount"></a>
+                            </div>
+
+                            <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=523656"></script>
+
+                            <script type="text/javascript" id="bdshell_js"></script>
+
+                            <script type="text/javascript">
+                                document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                            </script>
+
+                            <!-- Baidu Button END -->
+                        </div>
+                        <div class="provider" id="q_indexkuai3212">
+                            <div class="splitline">
+                            </div>
+                            <ul class="qditaltools" id="ques_tools">
+                                <li><a class="tools_jc" id="qdebug">揪错</a></li>
+                                <li><a class="tools_sc" id="b2tocollect">收藏</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="ad_center">
+
+               <!-- <script type="text/javascript">                    BAIDU_CLB_fillSlot("762612");</script>-->
+
+            </div>
+            <div class="q_mokuai" id="q_indexkuai4">
+                <div class="q_indextitle" id="q_indexkuai41">
+                    <div class="q_indextitle2" id="q_indextitle2">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai5">
+                <div class="q_content" id="q_indexkuai51">
+                    <div class="q_bot" id="q_indexkuai511">
+                        <div class="SecTotal">
+                            据魔方格专家权威分析，试题“在四棱锥中，底面为矩形，，，，，分别为的中点．(1)求证：；(2)求..”主要考查你对&nbsp;&nbsp;<span id="seclist"><span class="secname">用向量证明线线、线面、面面的垂直、平行关系</span></span>&nbsp;&nbsp;等考点的理解。关于这些考点的“档案”如下：</div>
+                        <div class="linote">
+                            现在没空？<span class="btn" onclick="addfavorite()">点击收藏</span>，以后再看。</div>
+                        <div class="linote">
+                            因为篇幅有限，只列出部分考点，详细请访问<a class="btn" href="http://www.mofangge.com" target="_blank"
+                                id="gohome_hr_2">魔方格学习社区</a>。</div>
+                    </div>
+                    <div class="secchkdiv"  id="q_indexkuai512">
+                        <div class="secchkPanel" id="secchkPanel">
+                            <span class="CheckedPanel" id="panel605" title="用向量证明线线、线面、面面的垂直、平行关系">用向量证明线线、线面、面面的垂直、平行关系</span>
+                            <div class="clearfix">
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 20px; display: block; width: 300px;">
+                    </div>
+                    <div class="q_bot" id="secinfoPanel">
+                        <div class="q_bot" id="secInfo_605"><div class="secinfo">考点名称：<span class="secname">用向量证明线线、线面、面面的垂直、平行关系</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>用向量证明线线、线面、面面的垂直、平行关系：</STRONG></P>
+<P>设直线l，m的方向向量为<EM><STRONG>a</STRONG>，<STRONG>b</STRONG></EM>，平面α，β的法向量为<EM><STRONG>u</STRONG>，<STRONG>v</STRONG></EM>，则 <BR>（1）线线平行l∥m <IMG style="HEIGHT: 14px; WIDTH: 22px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/02/20120829/20120829115510086253.png"><STRONG><EM>a</EM></STRONG>∥<STRONG><EM>b</EM></STRONG> <IMG style="HEIGHT: 14px; WIDTH: 22px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/02/20120829/20120829115510102253.png"><EM><STRONG>a</STRONG>=k<STRONG>b</STRONG></EM>； <BR>（2）线面平行l∥α <IMG style="HEIGHT: 14px; WIDTH: 22px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/02/20120829/20120829115510119253.png"><STRONG><EM>a</EM></STRONG>⊥<STRONG><EM>u</EM></STRONG> <IMG style="HEIGHT: 14px; WIDTH: 22px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/02/20120829/20120829115510138253.png"><EM><STRONG>a·</STRONG><STRONG>u</STRONG></EM>=0； <BR>（3）线面垂直l⊥α<IMG style="HEIGHT: 14px; WIDTH: 22px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/02/20120829/20120829115510155253.png"> <STRONG><EM>a</EM></STRONG>∥<STRONG><EM>u</EM> <IMG style="HEIGHT: 14px; WIDTH: 22px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/02/20120829/20120829115510173253.png"><EM>a</EM></STRONG><EM>=k<STRONG>u</STRONG></EM>； <BR>（4）面面平行α∥β <IMG style="HEIGHT: 14px; WIDTH: 22px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/02/20120829/20120829115510190253.png"><STRONG><EM>u</EM></STRONG>∥<STRONG><EM>v</EM><IMG style="HEIGHT: 14px; WIDTH: 22px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/02/20120829/20120829115510207253.png"></STRONG> <EM><STRONG>u</STRONG>=k<STRONG>v</STRONG></EM>； <BR>（5）面面垂直α⊥β<IMG style="HEIGHT: 14px; WIDTH: 22px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/02/20120829/20120829115510247253.png"> <STRONG><EM>u</EM></STRONG>⊥<STRONG><EM>v</EM><IMG style="HEIGHT: 14px; WIDTH: 22px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/02/20120829/20120829115510264253.png"></STRONG> <EM><STRONG>u·</STRONG><STRONG>v</STRONG></EM>=0。<BR><BR></P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>证明平行的其他方法：</STRONG></P>
+<P>①根据线面平行的判定定理：（平面外）与平面内的一条直线平行，那么这条直线和这个平面平行”，要证明一条直线和一个平面平行，也可以在平面内找一个向量与已知直线的方向向量是共线向量；<BR>②根据共面向量定理可知，如果一个向量和两个不共线的向量是共面向量，那么这个向量与这两个不共线向量确定的平面必定平行，因此要证明一条直线和一个平面平行，只要证明这条直线的方向向量能够用平面内两个不共线向量线性表示即可．</P></div></li></ul></div>
+                        <div class="seccopyright">
+                            以上内容为魔方格学习社区（www.mofangge.com）原创内容，未经允许不得转载！</div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai"  id="q_indexkuai6">
+                <div class="q_indextitle" id="q_indexkuai61"> 
+                    <div class="q_indextitle3" id="q_indextitle3">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai7">
+                <div class="q_mktitle" id="q_indexkuai71">
+                    发现相似题</div>
+                <div class="q_content" id="q_indexkuai72">
+                    <div class="q_sameline" id="q_indexkuai721">
+                        与<span>“在四棱锥中，底面为矩形，，，，，分别为的中点．(1)求证：；(2)求..”</span>考查相似的试题有：</div>
+                    <div class="q_bot" id="q_indexkuai722">
+                        <!-- $xiangsiqidlist$ -->
+                        <table border="0" cellpadding="1" class="nearQues" style="line-height: 24px;">
+                            <thead>
+                                <tr>
+                                    <th width="15%">
+                                        试题ID
+                                    </th>
+                                    <th>
+                                        试题题文
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>817523</td><td><a href="http://www.mofangge.com/html/qDetail/02/g3/201408/2e4jg302817523.html">已知，是两个不同的平面，m，n是两条不同的直线，则下列正确的是..</a></td></tr><tr><td>832441</td><td><a href="http://www.mofangge.com/html/qDetail/02/g3/201408/rxdhg302832441.html">矩形中，⊥面，，上的点，且⊥面，、交于点.（1）求证：⊥；（2）求证：/..</a></td></tr><tr><td>820487</td><td><a href="http://www.mofangge.com/html/qDetail/02/g1/201408/s7nng102820487.html">如图，为多面体，平面与平面垂直，点在线段上，△OAB，,△，△，△都..</a></td></tr><tr><td>862243</td><td><a href="http://www.mofangge.com/html/qDetail/02/g3/201408/5vd3g302862243.html">如图，在直三棱柱中，，．(Ⅰ)求证：平面；(Ⅱ)若为的中点，求与平面..</a></td></tr><tr><td>859646</td><td><a href="http://www.mofangge.com/html/qDetail/02/g2/201408/9rmrg202859646.html">关于直线以及平面，给出下列命题：①若，，则②若，，则③若且，则④若..</a></td></tr><tr><td>788858</td><td><a href="http://www.mofangge.com/html/qDetail/02/g2/201408/n31xg202788858.html">两条异面直线在同一个平面内的射影一定是（）A．两条相交直线B．两条..</a></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="q_right">
+            <!--<script type="text/javascript">BAIDU_CLB_fillSlot("762611");</script>-->
+            <div id="container_ext">
+            </div>
+            <!--<div class="Extra_right" id="Extra_right">
+            <div class="Extra_right1">
+                    <div class="div1" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_3">
+                        <div class="image1">
+                        </div>
+                    </div>
+                    <div class="div2" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_4">
+                    </div>
+                    <div class="div1" onclick="addfavorite()">
+                        <div class="image2">
+                        </div>
+                    </div>
+                    <div class="div2" id="keep_detail" onclick="addfavorite()">
+                    </div>
+                    <div class="div4">
+                        <div class="image3">
+                        </div>
+                        <div class="div3">
+                        </div>
+                        <div id="turn_weixin">
+                        </div>
+                        <p class="dttaildes">
+                            扫一扫，有惊喜</p>
+                    </div>
+                    <div class="div6">
+                        <iframe src="http://open.qzone.qq.com/like?url=http%3A%2F%2Fuser.qzone.qq.com%2F17175515&type=button_num&width=400&height=30&style=2 
+
+" allowtransparency="true" scrolling="no" border="0" frameborder="0" style="width: 400px; height: 30px; border: none;
+                            overflow: hidden;"></iframe>
+                            <iframe id="review" height="24" marginheight="0" src="http://follow.v.t.qq.com/index.php?c=follow&amp;a=quick&amp;appkey=801507580&amp;sign=bab9dd3a&amp;v=2&amp;name=mofangge520&amp;style=5&amp;t=1400310722678&amp;f=0" frameborder="0" width="125" allowtransparency="" marginwidth="0"></iframe>
+                        <p>
+                           <img src="/css/style1/forqdetail/threejt.png" width="54px" height="21px" style="vertical-align:middle;"> 关注QQ空间<br>
+                            学习秘籍，尽在此地</p>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+     </div>
+    <div class="copyright">
+        <div id="MFG_Features">“魔方格学习社区”各栏目介绍之--试题搜索：千万道试题，涵盖中小学十二学年九大学科，绝无仅有的学习领地，访问www.mofangge.com，只会让你更多的惊讶。</div><script type="text/javascript" src="/js/comm/mfgconfig.js"></script>
+        © 2014 <a href="http://www.mofangge.com" style="color: White">魔方格</a> 版权所有
+        <span id="thispage_lastlog_time"> 最后访问时间：2015-08-30 22:45:29</span>
+    </div>
+</body>
+
+<script src="/js/inc/mootools-core.js" type="text/javascript"></script>
+
+<script src="/js/comm/comm.js" type="text/javascript"></script>
+
+<script src="/js/comm/mfg_debug.js" type="text/javascript"></script>
+
+<script src="/js/comm/Ques_comm.js" type="text/javascript"></script>
+
+<script src="/js/app/qdetail/qdetail1.js?v=20150130" type="text/javascript"></script>
+
+</html>

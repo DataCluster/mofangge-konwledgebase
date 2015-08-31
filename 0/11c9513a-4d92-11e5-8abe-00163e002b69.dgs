@@ -1,0 +1,281 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>在棱长为α的正方体ABCD-A1B1C1D1中，设M、N、E、F分别是棱A1B1、A1D1、C1D1、B1C1的中点．（1）求证：E、F、B、D四点共面；（2）求证：平面AMN∥平面EFDB；（3）求平面AMN和平面BFED间-高一数学-魔方格</title>
+    <meta name="renderer" content="webkit" />
+    <link id="favicon" href="/logo.ico" rel="icon" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="在棱长为α的正方体ABCD-A1B1C1D1中，设M、N、E、F分别是棱A1B1、A1D1、C1D1、B1C1的中点．（1）求证：E、F、B、D四点共面；（2）求证：平面AMN∥平面EFDB；（3）求平面AMN和平面BFED间-高一数学-魔方格" />
+    <meta name="keywords" content="在棱长为α的正方体ABCD-A1B1C1D1中，设M、N、E、F分别是棱A1B1、A1D1、C1D1、B1C1的中点．（1）求证：E、F、B、D四点共面；（2）求证：平面AMN∥平面EFDB；（3）求平面AMN和平面BFED间-高一数学-魔方格" />
+    <link href="/css/style1/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style1/forqdetail1.css" rel="stylesheet" type="text/css" />
+    <link href="http://bdimg.share.baidu.com/static/css/bdsstyle.css?cdnversion=20130704"
+        rel="stylesheet" type="text/css">
+
+    <script src="http://bdimg.share.baidu.com/static/js/logger.js?cdnversion=382066"></script>
+
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+
+</head>
+<body>
+    <div class="head">
+        <a class="goback1" href="javascript:void(0)" id="gohome_cl_1"></a>
+        <ul id="menu_daohang" class="menu">
+            <a href="javascript:void(0)" id="gohome_cl_2">首页</a> <span class="current">试题专页</span>
+        </ul>
+        <ul class="user_but" id="main_user_info">
+            <li id="gohome_reg_1">注册</li>
+            <li id="gohome_login_1">登录</li>
+        </ul>
+    </div>
+    <div class="bgcolorshow">
+        <!--为了兼容占位-->
+    </div>
+    <div class="content">
+        <div class="nagetivebanner">
+            <div class="teach_note">
+                <div id="teach_notetxt" class="teach_notepic">
+                </div>
+            </div>
+            <div id="teach_detail" class="teach_detail">
+                <span id="teach_detail1"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail2"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail3"></span>
+            </div>
+        </div>
+        <div class="nagetivebanner1">
+            <div class="seotop">
+                <span class="seotops">当前位置：<a href="http://www.mofangge.com" id="gohome_hr_1">魔方格</a>
+                    ＞<a href="http://www.mofangge.com/qlist/shuxue/" title="数学">数学</a>＞<a href="http://www.mofangge.com/qlist/shuxue/583/" title="平行平面间的距离">平行平面间..</a>＞在棱长为α的正方体ABCD-A1B1C1D1中，设M、N、E、F分别是棱A1B1、..</span>
+            </div>
+        </div>
+        <div style="float: left; width: 720px;">
+            <div class="q_mokuai" id="q_indexkuai1">
+                <div class="q_indextitle" id="q_indexkuai11">
+                    <div class="q_indextitle1" id="q_indextitle1">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai2">
+                <div class="q_mktitle" id="q_indexkuai21">
+                    题文</div>
+                <div class="q_content" id="q_indexkuai22">
+                    <div class="q_bot" id="q_indexkuai221">
+                        <TABLE style="WORD-BREAK: break-all"  cellSpacing=0 width=650>
+<TBODY>
+<TR>
+<TD>在棱长为α的正方体ABCD- A<SUB>1</SUB>B<SUB>1</SUB>C<SUB>1</SUB>D<SUB>1</SUB>中，设M、N、E、F分别是棱A<SUB>1</SUB>B<SUB>1</SUB>、A<SUB>1</SUB>D<SUB>1</SUB>、C<SUB>1</SUB>D<SUB>1</SUB>、B<SUB>1</SUB>C<SUB>1</SUB>的中点．<BR>（1）求证：E、F、B、D四点共面；<BR>（2）求证：平面AMN∥平面EFDB； <BR>（3）求平面AMN和平面BFED间的距离． </TD></TR></TBODY></TABLE>
+                        <div class="provider" id="q_indexkuai2211">
+                            <div class="splitline">
+                            </div>
+                            <div class="right rightDiv" id="q_indexkuai22111">
+                                <span>题型：解答题</span><span>难度：偏难</span><span>来源：同步题       </span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai3">
+                <div class="q_mktitle" id="q_indextitle4">
+                    答案</div>
+                <div class="q_content" id="q_indexkuai32">
+                    <div class="q_bot" id="q_indexkuai321">
+                        <TABLE style="WORD-BREAK: break-all" cellSpacing=0 width=650 >
+<TBODY>
+<TR>
+<TD>（1）证明：<IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/201106281540100891004.gif" border=0>，而E、F分别是<IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/20110628154010120908.gif" border=0>、<IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/20110628154010136907.gif" border=0>的中点，<BR>∴<IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/201106281540103081163.gif" border=0>，<BR>∴E、F、B、D四点共面． </TD>
+<TD></TD></TR>
+<TR>
+<TD>（2）证明：连结AC交BD于O点，连结A′C′，交MN、EF于G、K，<BR>连结AG、OK，<BR><IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/201106281540103861069.gif" border=0>，<IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/201106281540103861052.gif" border=0>，<BR>∴<IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/201106281540104021036.gif" border=0>，<BR>又<IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/201106281540104801038.gif" border=0>且<IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/201106281540104801038.gif" border=0>，<BR>∴<IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/20110628154010542970.gif" border=0>，∴四边形AOKG为平行四边形 ，∴AG∥OK，<BR> ∴AG∥平面BEFD，<BR>又<IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/201106281540105421161.gif" border=0>，<BR>∴MN∥平面BFED，<BR>∴平面AMN∥平面BFED． <BR>（3）解：过G作GH⊥OK于H，则GH即为所求，<BR><IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/201106281540105581099.gif" border=0>， <BR>∴<IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/201106281540105891103.gif" border=0>，<BR>又<IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/201106281540105891024.gif" border=0>，<BR>∴<IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/201106281540106051044.gif" border=0>，<BR>又<IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/201106281540106051111.gif" border=0>，<BR>∴<IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/20110628154010620943.gif" border=0>∽△GHK，∴<IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/201106281540106521078.gif" border=0>，<BR>又∵<IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/201106281540106521152.gif" border=0>，∴<IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/201106281540106671041.gif" border=0>，<BR>又 ∵<IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/201106281540106671158.gif" border=0>，<IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/20110628154010699937.gif" border=0>，<BR>∴<IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/201106281540106991468.gif" border=0>，<BR>所以，平面AMN与平面BFED之间距离为<IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/20110628154010777910.gif" border=0>。 </TD>
+<TD><IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20110628/201106281540107923587.gif" border=0></TD></TR></TBODY></TABLE>
+                        <div class="right beShare" id="q_indexkuai3211">
+                            <span class="share_note">马上分享给同学</span>
+                            <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
+                                <a class="bds_qzone"></a><a class="bds_tieba"></a><a class="bds_hi"></a><a class="bds_sqq">
+                                </a><span class="bds_more"></span><a class="shareCount"></a>
+                            </div>
+
+                            <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=523656"></script>
+
+                            <script type="text/javascript" id="bdshell_js"></script>
+
+                            <script type="text/javascript">
+                                document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                            </script>
+
+                            <!-- Baidu Button END -->
+                        </div>
+                        <div class="provider" id="q_indexkuai3212">
+                            <div class="splitline">
+                            </div>
+                            <ul class="qditaltools" id="ques_tools">
+                                <li><a class="tools_jc" id="qdebug">揪错</a></li>
+                                <li><a class="tools_sc" id="b2tocollect">收藏</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="ad_center">
+
+               <!-- <script type="text/javascript">                    BAIDU_CLB_fillSlot("762612");</script>-->
+
+            </div>
+            <div class="q_mokuai" id="q_indexkuai4">
+                <div class="q_indextitle" id="q_indexkuai41">
+                    <div class="q_indextitle2" id="q_indextitle2">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai5">
+                <div class="q_content" id="q_indexkuai51">
+                    <div class="q_bot" id="q_indexkuai511">
+                        <div class="SecTotal">
+                            据魔方格专家权威分析，试题“在棱长为α的正方体ABCD-A1B1C1D1中，设M、N、E、F分别是棱A1B1、..”主要考查你对&nbsp;&nbsp;<span id="seclist"><span class="secname">平行平面间的距离</span>，<span class="secname">平面的基本性质</span>，<span class="secname">平面与平面平行的判定与性质</span></span>&nbsp;&nbsp;等考点的理解。关于这些考点的“档案”如下：</div>
+                        <div class="linote">
+                            现在没空？<span class="btn" onclick="addfavorite()">点击收藏</span>，以后再看。</div>
+                        <div class="linote">
+                            因为篇幅有限，只列出部分考点，详细请访问<a class="btn" href="http://www.mofangge.com" target="_blank"
+                                id="gohome_hr_2">魔方格学习社区</a>。</div>
+                    </div>
+                    <div class="secchkdiv"  id="q_indexkuai512">
+                        <div class="secchkPanel" id="secchkPanel">
+                            <span class="CheckedPanel" id="panel583" title="平行平面间的距离">平行平面间的距离</span><span class="unCheckPanel" id="panel573" title="平面的基本性质" >平面的基本性质</span><span class="unCheckPanel" id="panel586" title="平面与平面平行的判定与性质" >平面与平面平行的判定与性质</span>
+                            <div class="clearfix">
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 20px; display: block; width: 300px;">
+                    </div>
+                    <div class="q_bot" id="secinfoPanel">
+                        <div class="q_bot" id="secInfo_583"><div class="secinfo">考点名称：<span class="secname">平行平面间的距离</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>两个平行平面的公垂线：</STRONG></P>
+<P>和两个平行平面都垂直的直线叫做这两个平行平面的公垂线； </P>
+<P><STRONG>两个平行平面的公垂线段：</STRONG></P>
+<P>两个平行平面的公垂线夹在两个平行平面之间的线段叫公垂线段； </P>
+<P><STRONG>两平行平面之间的距离：</STRONG></P>
+<P>公垂线段的长度叫做这两个平行平面的距离。 <BR></P></div></li></ul></div><div class="q_bot" style="display:none"  id="secInfo_573"><div class="secinfo">考点名称：<span class="secname">平面的基本性质</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>平面的概念：</STRONG></P>
+<P>平面是无限伸展的； </P>
+<P><STRONG>平面的表示：</STRONG></P>
+<P>通常用希腊字母α、β、γ表示，如平面α（通常写在一个锐角内）；也可以用两个相对顶点的字母来表示，如平面BC。 </P>
+<P><STRONG>平面的画法：</STRONG></P>
+<P>①通常把水平的平面画成锐角为45。，横边长等于其邻边长2倍的平行四边形，如图1所示．②如果一个平面被另一个平面挡住，则被遮挡的部分用虚线画出来，如图2所示，<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131218/2013121810525589011268.jpg"></P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>平面的性质：</STRONG> </P>
+<P>（1）公理1：如果一条直线的两点在一个平面内，那么这条直线在这个平面内。 <BR>用符号语言表示公理1：<IMG style="FILTER: none" border=0 src="http://pic1.mofangge.com/upload/secpic/201110/20111028111739001.gif" align=middle>。 <BR>应用：判断直线是否在平面内 <BR>（2）公理2：过不在同一条直线上的三点，有且只有一个平面。 <BR>推论：一直线和直线外一点确定一平面；两相交直线确定一平面；两平行直线确定一平面。 <BR>公理2及其推论作用：它是空间内确定平面的依据。 <BR>（3）公理3：如果两个不重合的平面有一个公共点，那么它们有且只有一条过该点的公共直线。 <BR>符号语言：P∈α，且P∈β<IMG style="HEIGHT: 14px; WIDTH: 23px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/02/20120829/20120829094154914241.png">α∩β=l，且P∈l。 <BR>公理3的作用：①它是判定两个平面相交的方法； <BR>②它说明两个平面的交线与两个平面公共点之间的关系：交线必过公共点； <BR>③它可以判断点在直线上，即证若干个点共线的重要依据。 <BR></P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>立体几何问题的重要方法：</STRONG></P>
+<P>根据平面的基本性质，把空间图形转化为平面图形来解决，这是立体几何中解决问题的重要思想方法．通常要解决以下四类问题：<BR>(l)证明空间三点共线问题：证明这类问题一般根据公理3证明这些点都在两个平面的交线上，即先确定出某两个点在某两个平面上，再证明第三个点既在第一个平面内，又在第二个平面内，当然必在两平面的交线上．<BR>(2)证明空间三线共点问题：证明这类问题一般根据公理l和公理3，把其中一条直线作为分别通过其余丽条直线的两个平面的交线，然后证明两条直线的交点在此直线上．<BR>(3)证明空间点共面问题：可根据公理2，先取三点（不共线的三点）确定一个平面，再证其他各点都在这个平面内．<BR>(4)证明空间直线共面问题一般根据公理2及推论，先取两条（相交或平行）直线确定一个平面，再证其余直线在这个平面内，或者由这些直线中取适当的两条确定若干个平面，再一一确定这些平面重合．</P>
+<P><STRONG>基本性质2及其三个推论可以用来证明点、线共面，证明此类问题，常用的方法有：</STRONG></P>
+<P>①纳入法：先利用基本性质2及其三个推论证明某些点和直线在一个确定的平面内，再证明其余的点和直线也在这个确定的平面内．<BR>②同一法：先利用基本性质2及其三个推论证明某些点和直线在一个确定的平面内，另一些点和直线在另外一个确定的平面内，……，最后证明这些平面重合．<BR>③反证法：可以假设这些点和直线不在同一个平面内，然后通过推理，找出矛盾，从而否定假设，肯定结论.</P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>点线面位置关系的符号语言如下表：</STRONG></P><!--StartFragment -->
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/2013121920304101055030.jpg"> </DIV></div></li></ul></div><div class="q_bot" style="display:none"  id="secInfo_586"><div class="secinfo">考点名称：<span class="secname">平面与平面平行的判定与性质</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>面面平行的定义：</STRONG></P>
+<P>如果两个平面无公共点，则称这两个平面平行。</P>
+<P><STRONG>图形表示：</STRONG></P><!--StartFragment -->
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/201312192254029437939.jpg"> </DIV></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>面面平行的判定定理：</STRONG></P>
+<P>（1）如果一个平面内的两条相交直线与另一个平面平行，那么这两个平面平行； （线面平行<IMG border=0 src="http://pic1.mofangge.com/upload/secpic/201110/20111028112433001.gif">面面平行）， <BR>（2）如果一个平面内有两条相交直线分别平行于另一平面内的两条直线，那么这两个平面平行。（线线平行<IMG border=0 src="http://pic1.mofangge.com/upload/secpic/201110/20111028112451001.gif">面面平行）， <BR>（3）垂直于同一条直线的两个平面平行。<BR>（4）平行于同一个平面的两个平面平行。</P>
+<P><STRONG>符号语言：<BR></STRONG>（1）<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/201312192301505704680.jpg"> ；（3）<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/201312192301508512440.jpg"> ；（4）<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/201312192301511002674.jpg"> </P>
+<P><STRONG>面面平行的性质定理：</STRONG></P>
+<P>（1）如果两个平行平面同时与第三个平面相交，那么它们的交线平行。 （面面平行<IMG border=0 src="http://pic1.mofangge.com/upload/secpic/201110/20111028112438001.gif">线线平行） <BR>（2）如果两个平面平行，那么某一个平面内的直线与另一个平面平行。 （面面平行<IMG border=0 src="http://pic1.mofangge.com/upload/secpic/201110/20111028112442001.gif">线面平行）<BR>（3）如果两个平行平面中有一个平面垂直于一条直线，那么另一个平面也垂直于这条直线。</P>
+<P><STRONG>符号语言：<BR></STRONG>（1）<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/201312192301513654175.jpg"> ；（2）<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/201312192301516312643.jpg"> ；（3）<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/201312192301518652643.jpg"> </P></div></li><li><div class="splitline"></div><div  class="notes"><!--StartFragment -->
+<DIV><STRONG>线线平行、线面平行、面面平行间的关系：</STRONG></DIV>
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/2013121923015259822237.jpg"> <BR>由于三者之间相互沟通、相互联系，因此立体几何问题的解决往往一题多解（证）。</DIV></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>证明面面平行的常用方法：</STRONG></P>
+<P>(1)反证法，即<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/201312192312582512452.jpg"><BR>(2)判定定理或推论，即<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/201312192312585012866.jpg"><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/201312192312587192228.jpg"> <BR>(3)“垂直于同一直线的两个平面平行”这一性质，即<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/201312192312589532285.jpg">&nbsp;<BR>(4)向量法，两个平面的法向量平行，则这两个平面平行。</P></div></li></ul></div>
+                        <div class="seccopyright">
+                            以上内容为魔方格学习社区（www.mofangge.com）原创内容，未经允许不得转载！</div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai"  id="q_indexkuai6">
+                <div class="q_indextitle" id="q_indexkuai61"> 
+                    <div class="q_indextitle3" id="q_indextitle3">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai7">
+                <div class="q_mktitle" id="q_indexkuai71">
+                    发现相似题</div>
+                <div class="q_content" id="q_indexkuai72">
+                    <div class="q_sameline" id="q_indexkuai721">
+                        与<span>“在棱长为α的正方体ABCD-A1B1C1D1中，设M、N、E、F分别是棱A1B1、..”</span>考查相似的试题有：</div>
+                    <div class="q_bot" id="q_indexkuai722">
+                        <!-- $xiangsiqidlist$ -->
+                        <table border="0" cellpadding="1" class="nearQues" style="line-height: 24px;">
+                            <thead>
+                                <tr>
+                                    <th width="15%">
+                                        试题ID
+                                    </th>
+                                    <th>
+                                        试题题文
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>302993</td><td><a href="http://www.mofangge.com/html/qDetail/02/g3/201210/lljng302302993.html">设m，n是两条不同的直线，α，β是两个不同的平面，下列正确命题序..</a></td></tr><tr><td>251719</td><td><a href="http://www.mofangge.com/html/qDetail/02/g1/201106/kgsbg102251719.html">在棱长为α的正方体ABCD-A1B1C1D1中，设M、N、E、F分别是棱A1B1、..</a></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="q_right">
+            <!--<script type="text/javascript">BAIDU_CLB_fillSlot("762611");</script>-->
+            <div id="container_ext">
+            </div>
+            <!--<div class="Extra_right" id="Extra_right">
+            <div class="Extra_right1">
+                    <div class="div1" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_3">
+                        <div class="image1">
+                        </div>
+                    </div>
+                    <div class="div2" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_4">
+                    </div>
+                    <div class="div1" onclick="addfavorite()">
+                        <div class="image2">
+                        </div>
+                    </div>
+                    <div class="div2" id="keep_detail" onclick="addfavorite()">
+                    </div>
+                    <div class="div4">
+                        <div class="image3">
+                        </div>
+                        <div class="div3">
+                        </div>
+                        <div id="turn_weixin">
+                        </div>
+                        <p class="dttaildes">
+                            扫一扫，有惊喜</p>
+                    </div>
+                    <div class="div6">
+                        <iframe src="http://open.qzone.qq.com/like?url=http%3A%2F%2Fuser.qzone.qq.com%2F17175515&type=button_num&width=400&height=30&style=2 
+
+" allowtransparency="true" scrolling="no" border="0" frameborder="0" style="width: 400px; height: 30px; border: none;
+                            overflow: hidden;"></iframe>
+                            <iframe id="review" height="24" marginheight="0" src="http://follow.v.t.qq.com/index.php?c=follow&amp;a=quick&amp;appkey=801507580&amp;sign=bab9dd3a&amp;v=2&amp;name=mofangge520&amp;style=5&amp;t=1400310722678&amp;f=0" frameborder="0" width="125" allowtransparency="" marginwidth="0"></iframe>
+                        <p>
+                           <img src="/css/style1/forqdetail/threejt.png" width="54px" height="21px" style="vertical-align:middle;"> 关注QQ空间<br>
+                            学习秘籍，尽在此地</p>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+     </div>
+    <div class="copyright">
+        <div id="MFG_Features">“魔方格学习社区”各栏目介绍之--试题搜索：千万道试题，涵盖中小学十二学年九大学科，绝无仅有的学习领地，访问www.mofangge.com，只会让你更多的惊讶。</div><script type="text/javascript" src="/js/comm/mfgconfig.js"></script>
+        © 2014 <a href="http://www.mofangge.com" style="color: White">魔方格</a> 版权所有
+        <span id="thispage_lastlog_time"> 最后访问时间：2015-08-30 22:40:52</span>
+    </div>
+</body>
+
+<script src="/js/inc/mootools-core.js" type="text/javascript"></script>
+
+<script src="/js/comm/comm.js" type="text/javascript"></script>
+
+<script src="/js/comm/mfg_debug.js" type="text/javascript"></script>
+
+<script src="/js/comm/Ques_comm.js" type="text/javascript"></script>
+
+<script src="/js/app/qdetail/qdetail1.js?v=20150130" type="text/javascript"></script>
+
+</html>

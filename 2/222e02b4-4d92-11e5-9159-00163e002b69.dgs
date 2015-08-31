@@ -1,0 +1,262 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>质量为2kg的小球从高为20m的塔顶由静止开始下落，所受的空气阻力不变，小球着地的速度为16m/s，试（1）求小球下落的时间t；（2）小球受到空气阻力的大小。（取g=10m/s2）-高一物理-魔方格</title>
+    <meta name="renderer" content="webkit" />
+    <link id="favicon" href="/logo.ico" rel="icon" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="质量为2kg的小球从高为20m的塔顶由静止开始下落，所受的空气阻力不变，小球着地的速度为16m/s，试（1）求小球下落的时间t；（2）小球受到空气阻力的大小。（取g=10m/s2）-高一物理-魔方格" />
+    <meta name="keywords" content="质量为2kg的小球从高为20m的塔顶由静止开始下落，所受的空气阻力不变，小球着地的速度为16m/s，试（1）求小球下落的时间t；（2）小球受到空气阻力的大小。（取g=10m/s2）-高一物理-魔方格" />
+    <link href="/css/style1/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style1/forqdetail1.css" rel="stylesheet" type="text/css" />
+    <link href="http://bdimg.share.baidu.com/static/css/bdsstyle.css?cdnversion=20130704"
+        rel="stylesheet" type="text/css">
+
+    <script src="http://bdimg.share.baidu.com/static/js/logger.js?cdnversion=382066"></script>
+
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+
+</head>
+<body>
+    <div class="head">
+        <a class="goback1" href="javascript:void(0)" id="gohome_cl_1"></a>
+        <ul id="menu_daohang" class="menu">
+            <a href="javascript:void(0)" id="gohome_cl_2">首页</a> <span class="current">试题专页</span>
+        </ul>
+        <ul class="user_but" id="main_user_info">
+            <li id="gohome_reg_1">注册</li>
+            <li id="gohome_login_1">登录</li>
+        </ul>
+    </div>
+    <div class="bgcolorshow">
+        <!--为了兼容占位-->
+    </div>
+    <div class="content">
+        <div class="nagetivebanner">
+            <div class="teach_note">
+                <div id="teach_notetxt" class="teach_notepic">
+                </div>
+            </div>
+            <div id="teach_detail" class="teach_detail">
+                <span id="teach_detail1"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail2"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail3"></span>
+            </div>
+        </div>
+        <div class="nagetivebanner1">
+            <div class="seotop">
+                <span class="seotops">当前位置：<a href="http://www.mofangge.com" id="gohome_hr_1">魔方格</a>
+                    ＞<a href="http://www.mofangge.com/qlist/wuli/" title="物理">物理</a>＞<a href="http://www.mofangge.com/qlist/wuli/415/" title="从运动情况确定受力">从运动情况..</a>＞质量为2kg的小球从高为20m的塔顶由静止开始下落，所受的空气阻力..</span>
+            </div>
+        </div>
+        <div style="float: left; width: 720px;">
+            <div class="q_mokuai" id="q_indexkuai1">
+                <div class="q_indextitle" id="q_indexkuai11">
+                    <div class="q_indextitle1" id="q_indextitle1">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai2">
+                <div class="q_mktitle" id="q_indexkuai21">
+                    题文</div>
+                <div class="q_content" id="q_indexkuai22">
+                    <div class="q_bot" id="q_indexkuai221">
+                        <TABLE style="WORD-BREAK: break-all" border=0 cellSpacing=0 width=650>
+<TBODY>
+<TR>
+<TD>质量为2kg的小球从高为20m的塔顶由静止开始下落，所受的空气阻力不变，小球着地的速度为16m/s，试<BR>（1）求小球下落的时间t；<BR>（2）小球受到空气阻力的大小。（取g=10m/s<SUP>2</SUP>）</TD></TR></TBODY></TABLE>
+                        <div class="provider" id="q_indexkuai2211">
+                            <div class="splitline">
+                            </div>
+                            <div class="right rightDiv" id="q_indexkuai22111">
+                                <span>题型：计算题</span><span>难度：中档</span><span>来源：海南省期末题</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai3">
+                <div class="q_mktitle" id="q_indextitle4">
+                    答案</div>
+                <div class="q_content" id="q_indexkuai32">
+                    <div class="q_bot" id="q_indexkuai321">
+                        <TABLE style="WORD-BREAK: break-all" border=0 cellSpacing=0 width=650>
+<TBODY>
+<TR>
+<TD>解：（1）小球做匀加速下落：有h=<IMG style="WIDTH: 22px; HEIGHT: 30px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g04/20121011/20121011100922593265.png">=<IMG style="WIDTH: 25px; HEIGHT: 42px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g04/20121011/20121011100922696330.png"><BR>故下落时间为：t=<IMG style="WIDTH: 25px; HEIGHT: 42px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g04/20121011/20121011100922789350.png">=1.5s<BR>（2）由小球做匀加速下落：有<IMG style="WIDTH: 46px; HEIGHT: 10px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g04/20121011/20121011100922876730.png"><BR>下落的加速度为a=<IMG style="WIDTH: 16px; HEIGHT: 37px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g04/20121011/20121011100922960581.png">=0.64m/s<SUP>2<BR></SUP>由：mg-f<SUB>阻</SUB>=ma<BR>故小球受的空气阻力为：f<SUB>阻</SUB>=32.8<EM>N</EM></TD></TR></TBODY></TABLE>
+                        <div class="right beShare" id="q_indexkuai3211">
+                            <span class="share_note">马上分享给同学</span>
+                            <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
+                                <a class="bds_qzone"></a><a class="bds_tieba"></a><a class="bds_hi"></a><a class="bds_sqq">
+                                </a><span class="bds_more"></span><a class="shareCount"></a>
+                            </div>
+
+                            <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=523656"></script>
+
+                            <script type="text/javascript" id="bdshell_js"></script>
+
+                            <script type="text/javascript">
+                                document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                            </script>
+
+                            <!-- Baidu Button END -->
+                        </div>
+                        <div class="provider" id="q_indexkuai3212">
+                            <div class="splitline">
+                            </div>
+                            <ul class="qditaltools" id="ques_tools">
+                                <li><a class="tools_jc" id="qdebug">揪错</a></li>
+                                <li><a class="tools_sc" id="b2tocollect">收藏</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="ad_center">
+
+               <!-- <script type="text/javascript">                    BAIDU_CLB_fillSlot("762612");</script>-->
+
+            </div>
+            <div class="q_mokuai" id="q_indexkuai4">
+                <div class="q_indextitle" id="q_indexkuai41">
+                    <div class="q_indextitle2" id="q_indextitle2">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai5">
+                <div class="q_content" id="q_indexkuai51">
+                    <div class="q_bot" id="q_indexkuai511">
+                        <div class="SecTotal">
+                            据魔方格专家权威分析，试题“质量为2kg的小球从高为20m的塔顶由静止开始下落，所受的空气阻力..”主要考查你对&nbsp;&nbsp;<span id="seclist"><span class="secname">从运动情况确定受力</span>，<span class="secname">匀变速直线运动的导出公式</span></span>&nbsp;&nbsp;等考点的理解。关于这些考点的“档案”如下：</div>
+                        <div class="linote">
+                            现在没空？<span class="btn" onclick="addfavorite()">点击收藏</span>，以后再看。</div>
+                        <div class="linote">
+                            因为篇幅有限，只列出部分考点，详细请访问<a class="btn" href="http://www.mofangge.com" target="_blank"
+                                id="gohome_hr_2">魔方格学习社区</a>。</div>
+                    </div>
+                    <div class="secchkdiv"  id="q_indexkuai512">
+                        <div class="secchkPanel" id="secchkPanel">
+                            <span class="CheckedPanel" id="panel415" title="从运动情况确定受力">从运动情况确定受力</span><span class="unCheckPanel" id="panel355" title="匀变速直线运动的导出公式" >匀变速直线运动的导出公式</span>
+                            <div class="clearfix">
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 20px; display: block; width: 300px;">
+                    </div>
+                    <div class="q_bot" id="secinfoPanel">
+                        <div class="q_bot" id="secInfo_415"><div class="secinfo">考点名称：<span class="secname">从运动情况确定受力</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>从运动情况确定受力：<BR></STRONG><BR>1、知道物体的运动情况，应用运动学公式求出物体的加速度，再应用牛顿第二定律，推断或者求出物体的受力情况。<BR>2、分析这类问题的关键是抓住受力情况和运动情况的桥梁——加速度。<BR>3、求解动力学这两类问题的思路，可由下面的框图来表示。<BR><IMG style="WIDTH: 505px; HEIGHT: 111px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/04/20120828/201208281704378385588.png"></P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>瞬时加速度问题的解决方法：<BR></STRONG><BR>分析物体在某一时刻的瞬时加速度，关键是分析瞬时前后的受力情况及运动状态，再由牛顿第二定律求出瞬时加速度。此类问题应注意以下两种基本模型。 <BR>(1)刚性绳(或接触面)：可认为是一种不发生明显形变就能产生弹力的物体。若剪断(或脱离)后，其弹力立即消失，不需要考虑形变恢复时间。一般题目中所给的细绳(线)和接触面，在不加特殊说明时，均可按此模型处理。解决此模型的关键在于分析情景突变后的过程，利用过程的初状态分析求解状态突变后的瞬时加速度。 <BR>(2)弹簧(或橡皮绳)：此类物体的特点是形变量大，形变恢复需要较长时间。在瞬时问题中，其弹力的大小往往可以看成不变。但当弹簧的一端不与有质量的物体连接时，轻弹簧的形变不需要时间，弹力可以突变。解决此类问题时需利用情景突变前的受力来确定情景突变后瞬间的受力及加速度。<BR><BR><STRONG>动力学范围的整体法与隔离法：<BR></STRONG><BR>处理连接体问题的方法有整体法和隔离法。 <BR>1．整体法将一组连接体作为一个整体看待，牛顿第二定律中<IMG style="WIDTH: 101px; HEIGHT: 25px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131230/201312301439357731607.png">是整体受的合外力，只分析整体所受的外力即可(因为连接体的相互作用力是内力，可不分析)，简化了受力分析。在研究连接体时，连接体各部分的运动状态可以相同，也可以不同。当连接体各部分运动状态不同时，整体的合外力等于各部分质量与各部分加速度乘积的矢量和，即F<SUB>合</SUB><IMG style="WIDTH: 165px; HEIGHT: 22px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131230/201312301439358351980.png">写成分量形式有：<BR><IMG style="WIDTH: 210px; HEIGHT: 55px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131230/201312301439359445028.png"><BR>如果待求的问题不涉及系统内部的相互作用时，就可以采用整体法。 <BR>2．隔离法在求解连接体的相互作用力时采用，将某个部分从连接体中分离出来，其他部分对它的作用力就成了外力。<BR>整体法与隔离法在研究连接体问题时经常交替使用。</P></div></li></ul></div><div class="q_bot" style="display:none"  id="secInfo_355"><div class="secinfo">考点名称：<span class="secname">匀变速直线运动的导出公式</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>平均速度公式：<BR></STRONG>V=<SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 10.5pt"><IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/secpic/201110/20111025153511001.gif" width=51 height=45></SPAN>。 </P>
+<P><STRONG>某段时间的中间时刻的瞬时速度等于该段时间内的平均速度：<BR></STRONG><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 16pt"><IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/secpic/201110/20111025153521001.gif" width=110 height=49></SPAN>。 <BR><STRONG>某段位移的中间位置的瞬时速度公式：<BR></STRONG><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 10.5pt"><IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/secpic/201110/20111025153529001.gif" width=87 height=47></SPAN>。无论匀加速还是匀减速，都有<SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 10.5pt"><IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/secpic/201110/20111025153538001.gif" width=48 height=36></SPAN>。 </P>
+<P>匀变速直线运动中，在任意两个连续相等的时间T内的位移差值是恒量，即ΔS=S<SUB>n+l</SUB>–S<SUB>n</SUB>=aT<SUP>2</SUP>=恒量。 </P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>初速度为零的匀加速直线运动的几个比例关系推导</STRONG>：</P>
+<P>初速度为零的匀加速直线运动(设其为等分时间间隔)：<BR>① t秒末、2t秒末、……nt秒末的速度之比：(V<SUB>t</SUB>=V<SUB>0</SUB>+at=0+at=at)V<SUB>1</SUB>：V<SUB>2</SUB>：V<SUB>3</SUB>……V<SUB>n</SUB>=at：a2t：a3t…：ant=1：2：3…：n<BR>②前一个t秒内、前二个t秒内、……前N个t秒内的位移之比：S<SUB>1</SUB>=v<SUB>0</SUB>t+<IMG style="WIDTH: 16px; HEIGHT: 42px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030111956225277.png">at<SUP>2</SUP>=0+<IMG style="WIDTH: 16px; HEIGHT: 42px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030111956443277.png">at<SUP>2</SUP>=<IMG style="WIDTH: 16px; HEIGHT: 42px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030111956661277.png">at<SUP>2</SUP>；S<SUB>2</SUB>=v<SUB>0</SUB>t+<IMG style="WIDTH: 16px; HEIGHT: 42px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030111957285277.png">a(2t)<SUP>2</SUP>=2at<SUP>2</SUP>；S<SUB>3</SUB>=v<SUB>0</SUB>t+<IMG style="WIDTH: 16px; HEIGHT: 42px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030111957582277.png">at<SUP>2</SUP>=<IMG style="WIDTH: 16px; HEIGHT: 42px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030111958409277.png">a(3t)<SUP>2</SUP>=<IMG style="WIDTH: 15px; HEIGHT: 43px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030111958611285.png">at<SUP>2</SUP>；S<SUB>n</SUB>=v<SUB>0</SUB>t+<IMG style="WIDTH: 17px; HEIGHT: 45px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030111958830289.png">at<SUP>2</SUP>=<IMG style="WIDTH: 17px; HEIGHT: 45px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030111959267289.png">a(nt)<SUP>2</SUP>=<IMG style="WIDTH: 22px; HEIGHT: 46px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030111959485350.png">at<SUP>2</SUP>。S<SUB>1</SUB>：S<SUB>2</SUB>：S<SUB>3</SUB>…….S<SUB>n</SUB>=<IMG style="WIDTH: 18px; HEIGHT: 45px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030111959703299.png">at<SUP>2</SUP>：2at<SUP>2</SUP>：<IMG style="WIDTH: 16px; HEIGHT: 43px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030111959906295.png">at<SUP>2</SUP>……<IMG style="WIDTH: 23px; HEIGHT: 51px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030112000140356.png">at<SUP>2</SUP>=1：2<SUP>2</SUP>：3<SUP>2</SUP>….N<SUP>2<BR>③</SUP>&nbsp;第1个t秒内、第2个t秒内、……-第n个t秒内的位移之比：<BR>&nbsp;&nbsp;&nbsp;&nbsp; <IMG style="WIDTH: 152px; HEIGHT: 27px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/201310301537387381144.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （初速度为0）<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <IMG style="WIDTH: 166px; HEIGHT: 29px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/201310301537390031207.png">&nbsp;&nbsp;&nbsp;&nbsp; （初速度为at）<BR>&nbsp;&nbsp;&nbsp;&nbsp; <IMG style="WIDTH: 183px; HEIGHT: 34px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/201310301537392531430.png">&nbsp;&nbsp; （初速度为2at）<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; S<SUB>n</SUB>=<IMG style="WIDTH: 209px; HEIGHT: 30px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/201310301537395331608.png">&nbsp;&nbsp; （初速度为<IMG style="WIDTH: 49px; HEIGHT: 29px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030153739767525.png">）<BR>&nbsp;&nbsp;&nbsp; 所以第一个t内、第二个t内、第三个t内……的位移之比为：sⅠ：sⅡ：sⅢ：……：sN=1：3：5：……：(2N-1)；<BR>④前一个s、前两个s、前三个s……所用的时间之比为： <BR>&nbsp;&nbsp;&nbsp; 因为初速度为0，所以<IMG style="WIDTH: 141px; HEIGHT: 28px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030153740001910.png"><BR>&nbsp;&nbsp;&nbsp; <IMG style="WIDTH: 56px; HEIGHT: 29px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030153740298550.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <IMG style="WIDTH: 60px; HEIGHT: 38px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030153740594526.png"><BR>&nbsp;&nbsp;&nbsp;&nbsp; <IMG style="WIDTH: 69px; HEIGHT: 33px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030153740875617.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <IMG style="WIDTH: 59px; HEIGHT: 31px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030153741109480.png"><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <IMG style="WIDTH: 71px; HEIGHT: 34px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030153741343650.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <IMG style="WIDTH: 59px; HEIGHT: 29px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030153741577485.png"><BR>&nbsp;&nbsp;&nbsp;&nbsp;因此前一个s、前两个s、前三个s……所用的时间之比为：t1：t2：t3：……：tn=1：……：<IMG style="WIDTH: 158px; HEIGHT: 22px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030153742029620.png"><BR>⑤第一个s、第二个s、第三个s……所用的时间之比为tⅠ、tⅡ、tⅢ：……：<BR>&nbsp;&nbsp;&nbsp; <IMG style="WIDTH: 329px; HEIGHT: 141px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/201310301537424825912.png"><BR>&nbsp;&nbsp;&nbsp;&nbsp; 第一个s、第二个s、第三个s……所用的时间之比为tⅠ、tⅡ、tⅢ：……：tN=1：……：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <IMG style="WIDTH: 288px; HEIGHT: 34px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/201310301537427631397.png">。<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>初速为零的匀变速直线运动中的比例关系（设T为相等的时间间隔，s为相等的位移间隔）： <BR><BR></STRONG>①T末、2T末、3T末……的瞬时速度之比为：v<SUB>1</SUB>：v<SUB>2</SUB>：v<SUB>3</SUB>：……：v<SUB>n</SUB>=1：2：3：……：n； <BR>②T内、2T内、3T内……的位移之比为：s<SUB>1</SUB>：s<SUB>2</SUB>：s<SUB>3</SUB>：……：s<SUB>n</SUB>=1：4：9：……：n<SUP>2</SUP>； <BR>③第一个T内、第二个T内、第三个T内……的位移之比为：s<SUB>Ⅰ</SUB>：s<SUB>Ⅱ</SUB>：s<SUB>Ⅲ</SUB>：……：s<SUB>N</SUB>=1：3：5：……：(2N-1)； <BR>④前一个s、前两个s、前三个s……所用的时间之比为：t<SUB>1</SUB>：t<SUB>2</SUB>：t<SUB>3</SUB>：……：t<SUB>n</SUB>=1：<SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 10.5pt"><IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/secpic/201110/20111025153820001.gif" width=61 height=24></SPAN>……：<SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 10.5pt"><IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/secpic/201110/20111025153832001.gif" width=25 height=24></SPAN>； <BR>⑤第一个s、第二个s、第三个s……所用的时间之比为t<SUB>Ⅰ</SUB>、t<SUB>Ⅱ</SUB>、t<SUB>Ⅲ</SUB>：……：t<SUB>N</SUB>=1：<SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 10.5pt"><IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/secpic/201110/20111025154020001.gif" width=131 height=25></SPAN>……：<SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 10.5pt"><IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/secpic/201110/20111025154031001.gif" width=87 height=25></SPAN>。 </P></div></li></ul></div>
+                        <div class="seccopyright">
+                            以上内容为魔方格学习社区（www.mofangge.com）原创内容，未经允许不得转载！</div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai"  id="q_indexkuai6">
+                <div class="q_indextitle" id="q_indexkuai61"> 
+                    <div class="q_indextitle3" id="q_indextitle3">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai7">
+                <div class="q_mktitle" id="q_indexkuai71">
+                    发现相似题</div>
+                <div class="q_content" id="q_indexkuai72">
+                    <div class="q_sameline" id="q_indexkuai721">
+                        与<span>“质量为2kg的小球从高为20m的塔顶由静止开始下落，所受的空气阻力..”</span>考查相似的试题有：</div>
+                    <div class="q_bot" id="q_indexkuai722">
+                        <!-- $xiangsiqidlist$ -->
+                        <table border="0" cellpadding="1" class="nearQues" style="line-height: 24px;">
+                            <thead>
+                                <tr>
+                                    <th width="15%">
+                                        试题ID
+                                    </th>
+                                    <th>
+                                        试题题文
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>86390</td><td><a href="http://www.mofangge.com/html/qDetail/04/g1/201012/wg7dg10486390.html">质量分别为m和M的两物体叠放在水平面上如图所示，两物体之间及M与..</a></td></tr><tr><td>86727</td><td><a href="http://www.mofangge.com/html/qDetail/04/g1/201012/a64tg10486727.html">汽车起动的快慢是评价汽车性能的重要指标。汽车起动的快慢用车速..</a></td></tr><tr><td>113813</td><td><a href="http://www.mofangge.com/html/qDetail/04/g1/201201/pwrfg104113813.html">如图所示，小车沿倾角为θ的斜面运动，由于运动情况不同，挂在小车..</a></td></tr><tr><td>92265</td><td><a href="http://www.mofangge.com/html/qDetail/04/g1/201104/kjc6g10492265.html">如图所示，小车上固定着三角硬杆，杆的端点固定着一个质量为m的小..</a></td></tr><tr><td>87054</td><td><a href="http://www.mofangge.com/html/qDetail/04/g1/201101/uxovg10487054.html">2006年11月中国珠海航空展览上，俄罗斯“勇士”特级飞行表演队的一..</a></td></tr><tr><td>115049</td><td><a href="http://www.mofangge.com/html/qDetail/04/g1/201202/8e4ag104115049.html">有一种能获得强烈失重、超重感觉的巨型娱乐设施。先用电梯把载有..</a></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="q_right">
+            <!--<script type="text/javascript">BAIDU_CLB_fillSlot("762611");</script>-->
+            <div id="container_ext">
+            </div>
+            <!--<div class="Extra_right" id="Extra_right">
+            <div class="Extra_right1">
+                    <div class="div1" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_3">
+                        <div class="image1">
+                        </div>
+                    </div>
+                    <div class="div2" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_4">
+                    </div>
+                    <div class="div1" onclick="addfavorite()">
+                        <div class="image2">
+                        </div>
+                    </div>
+                    <div class="div2" id="keep_detail" onclick="addfavorite()">
+                    </div>
+                    <div class="div4">
+                        <div class="image3">
+                        </div>
+                        <div class="div3">
+                        </div>
+                        <div id="turn_weixin">
+                        </div>
+                        <p class="dttaildes">
+                            扫一扫，有惊喜</p>
+                    </div>
+                    <div class="div6">
+                        <iframe src="http://open.qzone.qq.com/like?url=http%3A%2F%2Fuser.qzone.qq.com%2F17175515&type=button_num&width=400&height=30&style=2 
+
+" allowtransparency="true" scrolling="no" border="0" frameborder="0" style="width: 400px; height: 30px; border: none;
+                            overflow: hidden;"></iframe>
+                            <iframe id="review" height="24" marginheight="0" src="http://follow.v.t.qq.com/index.php?c=follow&amp;a=quick&amp;appkey=801507580&amp;sign=bab9dd3a&amp;v=2&amp;name=mofangge520&amp;style=5&amp;t=1400310722678&amp;f=0" frameborder="0" width="125" allowtransparency="" marginwidth="0"></iframe>
+                        <p>
+                           <img src="/css/style1/forqdetail/threejt.png" width="54px" height="21px" style="vertical-align:middle;"> 关注QQ空间<br>
+                            学习秘籍，尽在此地</p>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+     </div>
+    <div class="copyright">
+        <div id="MFG_Features">“魔方格学习社区”各栏目介绍之--考点百科：涵盖中小学十二学年九大学科所有的考点百科知识，定义类、定理类、导图类、特性类、点拨类，应有尽有，绝对是你的课前预习好帮手，前往www.mofangge.com，垂手可得。</div><script type="text/javascript" src="/js/comm/mfgconfig.js"></script>
+        © 2014 <a href="http://www.mofangge.com" style="color: White">魔方格</a> 版权所有
+        <span id="thispage_lastlog_time"> 最后访问时间：2015-08-31 12:53:15</span>
+    </div>
+</body>
+
+<script src="/js/inc/mootools-core.js" type="text/javascript"></script>
+
+<script src="/js/comm/comm.js" type="text/javascript"></script>
+
+<script src="/js/comm/mfg_debug.js" type="text/javascript"></script>
+
+<script src="/js/comm/Ques_comm.js" type="text/javascript"></script>
+
+<script src="/js/app/qdetail/qdetail1.js?v=20150130" type="text/javascript"></script>
+
+</html>

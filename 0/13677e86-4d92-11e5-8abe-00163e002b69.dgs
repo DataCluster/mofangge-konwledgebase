@@ -1,0 +1,252 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>已知圆C：（x-1）2+（y+2）2=9，直线l：（m+1）x-y-2m-3=0（m∈R）（1）求证：无论m取什么实数，直线恒与圆交于两点；（2）求直线l被圆C所截得的弦长最小时的直线方程．-高二数学-魔方格</title>
+    <meta name="renderer" content="webkit" />
+    <link id="favicon" href="/logo.ico" rel="icon" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="已知圆C：（x-1）2+（y+2）2=9，直线l：（m+1）x-y-2m-3=0（m∈R）（1）求证：无论m取什么实数，直线恒与圆交于两点；（2）求直线l被圆C所截得的弦长最小时的直线方程．-高二数学-魔方格" />
+    <meta name="keywords" content="已知圆C：（x-1）2+（y+2）2=9，直线l：（m+1）x-y-2m-3=0（m∈R）（1）求证：无论m取什么实数，直线恒与圆交于两点；（2）求直线l被圆C所截得的弦长最小时的直线方程．-高二数学-魔方格" />
+    <link href="/css/style1/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style1/forqdetail1.css" rel="stylesheet" type="text/css" />
+    <link href="http://bdimg.share.baidu.com/static/css/bdsstyle.css?cdnversion=20130704"
+        rel="stylesheet" type="text/css">
+
+    <script src="http://bdimg.share.baidu.com/static/js/logger.js?cdnversion=382066"></script>
+
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+
+</head>
+<body>
+    <div class="head">
+        <a class="goback1" href="javascript:void(0)" id="gohome_cl_1"></a>
+        <ul id="menu_daohang" class="menu">
+            <a href="javascript:void(0)" id="gohome_cl_2">首页</a> <span class="current">试题专页</span>
+        </ul>
+        <ul class="user_but" id="main_user_info">
+            <li id="gohome_reg_1">注册</li>
+            <li id="gohome_login_1">登录</li>
+        </ul>
+    </div>
+    <div class="bgcolorshow">
+        <!--为了兼容占位-->
+    </div>
+    <div class="content">
+        <div class="nagetivebanner">
+            <div class="teach_note">
+                <div id="teach_notetxt" class="teach_notepic">
+                </div>
+            </div>
+            <div id="teach_detail" class="teach_detail">
+                <span id="teach_detail1"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail2"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail3"></span>
+            </div>
+        </div>
+        <div class="nagetivebanner1">
+            <div class="seotop">
+                <span class="seotops">当前位置：<a href="http://www.mofangge.com" id="gohome_hr_1">魔方格</a>
+                    ＞<a href="http://www.mofangge.com/qlist/shuxue/" title="数学">数学</a>＞<a href="http://www.mofangge.com/qlist/shuxue/639/" title="直线与圆的位置关系">直线与圆的..</a>＞已知圆C：（x-1）2+（y+2）2=9，直线l：（m+1）x-y-2m-3=0（m∈R）（1）求证：无..</span>
+            </div>
+        </div>
+        <div style="float: left; width: 720px;">
+            <div class="q_mokuai" id="q_indexkuai1">
+                <div class="q_indextitle" id="q_indexkuai11">
+                    <div class="q_indextitle1" id="q_indextitle1">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai2">
+                <div class="q_mktitle" id="q_indexkuai21">
+                    题文</div>
+                <div class="q_content" id="q_indexkuai22">
+                    <div class="q_bot" id="q_indexkuai221">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><span ></span>已知圆C：（x-1）<sup>2</sup>+（y+2）<sup>2</sup>=9，直线l：（m+1）x-y-2m-3=0（m∈R）<br>（1）求证：无论m取什么实数，直线恒与圆交于两点；<br>（2）求直线l被圆C所截得的弦长最小时的直线方程．</TD></TR></TBODY></TABLE>
+                        <div class="provider" id="q_indexkuai2211">
+                            <div class="splitline">
+                            </div>
+                            <div class="right rightDiv" id="q_indexkuai22111">
+                                <span>题型：解答题</span><span>难度：中档</span><span>来源：不详</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai3">
+                <div class="q_mktitle" id="q_indextitle4">
+                    答案</div>
+                <div class="q_content" id="q_indexkuai32">
+                    <div class="q_bot" id="q_indexkuai321">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD>（1）∵l：m（x-2）+（x-y-3）=0，<br>∴直线l恒过<span dealflag="1"  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;"><tr><td ><div style="background: url('http://pic2.mofangge.com/upload/papers//20140611/20140611142525702222.png') no-repeat; width:9px; height:6px;overflow:hidden"></div><div style="background: url('http://pic2.mofangge.com/upload/papers//20140611/20140611142525733158.png') repeat-y; width:9px; height:1px;overflow:hidden" muststretch="v"></div></div><div style="background: url('http://pic2.mofangge.com/upload/papers//20140611/20140611142525764230.png') no-repeat; width:9px; height:9px;overflow:hidden"></div><div style="background: url('http://pic2.mofangge.com/upload/papers//20140611/20140611142525733158.png') repeat-y; width:9px; height:1px;overflow:hidden" muststretch="v"></div></div><div style="background: url('http://pic2.mofangge.com/upload/papers//20140611/20140611142525842207.png') no-repeat; width:9px; height:6px;overflow:hidden"></div></td><td><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;"><tr><td>x-2=0</td></tr><tr><td >x-y-3=0</td></tr></table></td><td ></td></tr></table></span>的交点，即（2，-1），<br>将点（2，-1）代入圆C的方程得（2-1）<sup>2</sup>+（-1+2）<sup>2</sup>=2＜9，<br>∴点（2，-1）在圆内，<br>∴无论m取什么值，直线恒与圆相交；<br>（2）由垂径定理：（<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black">a</td></tr><tr><td>2</td></tr></table></span>）<sup>2</sup>=r<sup>2</sup>-d<sup>2</sup>（a表示弦长，r表示半径，d表示圆心到直线的距离），<br>当d越大的时候，弦长a越小，<br>根据垂线段最短可知，当l⊥CA时，直线l被圆C所截得的弦长最小，<br>∵A（2，-1），C（1，-2），<br>∴k<sub>CA</sub>=1，<br>∴k<sub>l</sub>=-1，<br>∴直线l的方程为y=-（x-2）-1，即x+y-1=0．<br/><img alt="" src="http://pic2.mofangge.com/upload/papers//20140611/201406111425259205060.png" ></TD></TR></TBODY></TABLE>
+                        <div class="right beShare" id="q_indexkuai3211">
+                            <span class="share_note">马上分享给同学</span>
+                            <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
+                                <a class="bds_qzone"></a><a class="bds_tieba"></a><a class="bds_hi"></a><a class="bds_sqq">
+                                </a><span class="bds_more"></span><a class="shareCount"></a>
+                            </div>
+
+                            <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=523656"></script>
+
+                            <script type="text/javascript" id="bdshell_js"></script>
+
+                            <script type="text/javascript">
+                                document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                            </script>
+
+                            <!-- Baidu Button END -->
+                        </div>
+                        <div class="provider" id="q_indexkuai3212">
+                            <div class="splitline">
+                            </div>
+                            <ul class="qditaltools" id="ques_tools">
+                                <li><a class="tools_jc" id="qdebug">揪错</a></li>
+                                <li><a class="tools_sc" id="b2tocollect">收藏</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="ad_center">
+
+               <!-- <script type="text/javascript">                    BAIDU_CLB_fillSlot("762612");</script>-->
+
+            </div>
+            <div class="q_mokuai" id="q_indexkuai4">
+                <div class="q_indextitle" id="q_indexkuai41">
+                    <div class="q_indextitle2" id="q_indextitle2">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai5">
+                <div class="q_content" id="q_indexkuai51">
+                    <div class="q_bot" id="q_indexkuai511">
+                        <div class="SecTotal">
+                            据魔方格专家权威分析，试题“已知圆C：（x-1）2+（y+2）2=9，直线l：（m+1）x-y-2m-3=0（m∈R）（1）求证：无..”主要考查你对&nbsp;&nbsp;<span id="seclist"><span class="secname">直线与圆的位置关系</span></span>&nbsp;&nbsp;等考点的理解。关于这些考点的“档案”如下：</div>
+                        <div class="linote">
+                            现在没空？<span class="btn" onclick="addfavorite()">点击收藏</span>，以后再看。</div>
+                        <div class="linote">
+                            因为篇幅有限，只列出部分考点，详细请访问<a class="btn" href="http://www.mofangge.com" target="_blank"
+                                id="gohome_hr_2">魔方格学习社区</a>。</div>
+                    </div>
+                    <div class="secchkdiv"  id="q_indexkuai512">
+                        <div class="secchkPanel" id="secchkPanel">
+                            <span class="CheckedPanel" id="panel639" title="直线与圆的位置关系">直线与圆的位置关系</span>
+                            <div class="clearfix">
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 20px; display: block; width: 300px;">
+                    </div>
+                    <div class="q_bot" id="secinfoPanel">
+                        <div class="q_bot" id="secInfo_639"><div class="secinfo">考点名称：<span class="secname">直线与圆的位置关系</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>直线与圆的位置关系</STRONG>：</P>
+<P>由直线与圆的公共点的个数，得出以下直线和圆的三种位置关系：<BR>（1）相交：直线与圆有两个公共点时，叫做直线和圆相交，这时直线叫做圆的割线。<BR>（2）相切：直线和圆有唯一公共点时，叫做直线和圆相切，这时直线叫做圆的切线，唯一的公共点叫做切点。<BR>（3）相离：直线和圆没有公共点时，叫做直线和圆相离。 <BR><!--StartFragment -->其图像如下：<BR><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20140104/2014010417582106227400.jpg"> </P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>直线和圆的位置关系的性质：</STRONG></P>
+<P>（1）直线l和⊙O相交<IMG style="HEIGHT: 12px; WIDTH: 24px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/02/20120829/20120829140732606249.png">d＜r<BR>（2）直线l和⊙O相切<IMG style="HEIGHT: 12px; WIDTH: 24px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/02/20120829/20120829140732623249.png">d=r；<BR>（3）直线l和⊙O相离<IMG style="HEIGHT: 12px; WIDTH: 24px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/02/20120829/20120829140732645249.png">d＞r。</P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>直线与圆位置关系的判定方法：</STRONG></P>
+<P>(1)代数法:判断直线Ax+By+C=0和圆x<SUP>2</SUP>+y<SUP>2</SUP>+Dx+Ey+F=0的位置关系，可由<BR><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20140104/201401042143517154892.jpg">&nbsp;<BR>推出mx<SUP>2</SUP>+nx+p=0，利用判别式△进行判断．<BR>△&gt;0则直线与圆相交；<BR>△=0则直线与圆相切；<BR>△&lt;0则直线与圆相离．<BR>(2)几何法:已知直线Ax+By+C=0和圆<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20140104/201401042143519642063.jpg"><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20140104/20140104214352167537.jpg">，圆心到直线的距离<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20140104/201401042143524324045.jpg"> <BR>d&lt;r则直线和圆相交；<BR>d=r则直线和圆相切；<BR>d&gt;r则直线和圆相离．<BR>特别提醒:<BR>(1)上述两种方法，以利用圆心到直线的距离进行判定较为简捷，而判别式法也适用于直线与椭圆、双曲线、抛物线位置关系的判断．<BR>(2)直线与圆相交，应抓住半径、弦心距、半弦长组成的直角三角形，可使解法简单.</P>
+<P><STRONG>直线与圆位置关系的判定方法列表如下：</STRONG></P><!--StartFragment -->
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20140104/2014010421435446073584.jpg"> </DIV>
+<P><STRONG>直线与圆相交的弦长公式：</STRONG></P>
+<P>（1）几何法：如图所示，直线l与圆C相交于A、B两点，线段AB的长即为l与圆相交的弦长。<BR>设弦心距为d，半径为r，弦为AB，则有|AB|=<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20140105/201401051816276541524.jpg"><BR><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20140105/201401051816280287989.jpg"> <BR>（2）代数法：直线l与圆交于<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20140105/201401051816282782455.jpg">直线l的斜率为k，则有<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20140105/201401051816290582877.jpg"><BR>当直线AB的倾斜角为直角，即斜率不存在时，|AB|=<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20140105/201401051816292451052.jpg"></P></div></li></ul></div>
+                        <div class="seccopyright">
+                            以上内容为魔方格学习社区（www.mofangge.com）原创内容，未经允许不得转载！</div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai"  id="q_indexkuai6">
+                <div class="q_indextitle" id="q_indexkuai61"> 
+                    <div class="q_indextitle3" id="q_indextitle3">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai7">
+                <div class="q_mktitle" id="q_indexkuai71">
+                    发现相似题</div>
+                <div class="q_content" id="q_indexkuai72">
+                    <div class="q_sameline" id="q_indexkuai721">
+                        与<span>“已知圆C：（x-1）2+（y+2）2=9，直线l：（m+1）x-y-2m-3=0（m∈R）（1）求证：无..”</span>考查相似的试题有：</div>
+                    <div class="q_bot" id="q_indexkuai722">
+                        <!-- $xiangsiqidlist$ -->
+                        <table border="0" cellpadding="1" class="nearQues" style="line-height: 24px;">
+                            <thead>
+                                <tr>
+                                    <th width="15%">
+                                        试题ID
+                                    </th>
+                                    <th>
+                                        试题题文
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>572360</td><td><a href="http://www.mofangge.com/html/qDetail/02/g0/201401/ucusg002572360.html">若(ac，bc)在圆x2+y2=1上，则直线ax+by+c=0与圆x2+y2=2相交所得弦..</a></td></tr><tr><td>569864</td><td><a href="http://www.mofangge.com/html/qDetail/02/g0/201401/w9yng002569864.html">已知曲线x2+y2-4x-2y-k=0表示的图象为圆．（1）若k=15，求过该曲线与..</a></td></tr><tr><td>557752</td><td><a href="http://www.mofangge.com/html/qDetail/02/g0/201401/p3h3g002557752.html">若直线y=kx+1和椭圆x2+4y2=1有且仅有一个公共点，则k的值为_____..</a></td></tr><tr><td>483000</td><td><a href="http://www.mofangge.com/html/qDetail/02/g0/201401/p1jpg002483000.html">已知圆M与圆C：x2+y2-2x+4y+1=0同圆心，且与直线2x-y+1=0相切，则..</a></td></tr><tr><td>271148</td><td><a href="http://www.mofangge.com/html/qDetail/02/g2/201202/zqy1g202271148.html">若直线y=kx+4+2k与曲线有两个交点，则k的取值范围是[]A．[1，+∞)B..</a></td></tr><tr><td>559959</td><td><a href="http://www.mofangge.com/html/qDetail/02/g0/201401/01rbg002559959.html">直线4y-3x+10=0与圆x2+y2=9的位置关系是（）A．相离B．相交C．相切D．不..</a></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="q_right">
+            <!--<script type="text/javascript">BAIDU_CLB_fillSlot("762611");</script>-->
+            <div id="container_ext">
+            </div>
+            <!--<div class="Extra_right" id="Extra_right">
+            <div class="Extra_right1">
+                    <div class="div1" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_3">
+                        <div class="image1">
+                        </div>
+                    </div>
+                    <div class="div2" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_4">
+                    </div>
+                    <div class="div1" onclick="addfavorite()">
+                        <div class="image2">
+                        </div>
+                    </div>
+                    <div class="div2" id="keep_detail" onclick="addfavorite()">
+                    </div>
+                    <div class="div4">
+                        <div class="image3">
+                        </div>
+                        <div class="div3">
+                        </div>
+                        <div id="turn_weixin">
+                        </div>
+                        <p class="dttaildes">
+                            扫一扫，有惊喜</p>
+                    </div>
+                    <div class="div6">
+                        <iframe src="http://open.qzone.qq.com/like?url=http%3A%2F%2Fuser.qzone.qq.com%2F17175515&type=button_num&width=400&height=30&style=2 
+
+" allowtransparency="true" scrolling="no" border="0" frameborder="0" style="width: 400px; height: 30px; border: none;
+                            overflow: hidden;"></iframe>
+                            <iframe id="review" height="24" marginheight="0" src="http://follow.v.t.qq.com/index.php?c=follow&amp;a=quick&amp;appkey=801507580&amp;sign=bab9dd3a&amp;v=2&amp;name=mofangge520&amp;style=5&amp;t=1400310722678&amp;f=0" frameborder="0" width="125" allowtransparency="" marginwidth="0"></iframe>
+                        <p>
+                           <img src="/css/style1/forqdetail/threejt.png" width="54px" height="21px" style="vertical-align:middle;"> 关注QQ空间<br>
+                            学习秘籍，尽在此地</p>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+     </div>
+    <div class="copyright">
+        <div id="MFG_Features">“魔方格学习社区”各栏目介绍之--试题搜索：千万道试题，涵盖中小学十二学年九大学科，绝无仅有的学习领地，访问www.mofangge.com，只会让你更多的惊讶。</div><script type="text/javascript" src="/js/comm/mfgconfig.js"></script>
+        © 2014 <a href="http://www.mofangge.com" style="color: White">魔方格</a> 版权所有
+        <span id="thispage_lastlog_time"> 最后访问时间：2015-08-30 22:52:33</span>
+    </div>
+</body>
+
+<script src="/js/inc/mootools-core.js" type="text/javascript"></script>
+
+<script src="/js/comm/comm.js" type="text/javascript"></script>
+
+<script src="/js/comm/mfg_debug.js" type="text/javascript"></script>
+
+<script src="/js/comm/Ques_comm.js" type="text/javascript"></script>
+
+<script src="/js/app/qdetail/qdetail1.js?v=20150130" type="text/javascript"></script>
+
+</html>

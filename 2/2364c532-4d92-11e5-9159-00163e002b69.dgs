@@ -1,0 +1,247 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>两个小球A和B在光滑的水平面上沿同一方向做直线运动，A的质量mA=1kg，速度VA=6m/s；B的质量mB=2kg，速度的大小VB=3m/s；两球碰撞后粘在一起。求碰撞后两小球的速度大小。-高一物理-魔方格</title>
+    <meta name="renderer" content="webkit" />
+    <link id="favicon" href="/logo.ico" rel="icon" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="两个小球A和B在光滑的水平面上沿同一方向做直线运动，A的质量mA=1kg，速度VA=6m/s；B的质量mB=2kg，速度的大小VB=3m/s；两球碰撞后粘在一起。求碰撞后两小球的速度大小。-高一物理-魔方格" />
+    <meta name="keywords" content="两个小球A和B在光滑的水平面上沿同一方向做直线运动，A的质量mA=1kg，速度VA=6m/s；B的质量mB=2kg，速度的大小VB=3m/s；两球碰撞后粘在一起。求碰撞后两小球的速度大小。-高一物理-魔方格" />
+    <link href="/css/style1/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style1/forqdetail1.css" rel="stylesheet" type="text/css" />
+    <link href="http://bdimg.share.baidu.com/static/css/bdsstyle.css?cdnversion=20130704"
+        rel="stylesheet" type="text/css">
+
+    <script src="http://bdimg.share.baidu.com/static/js/logger.js?cdnversion=382066"></script>
+
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+
+</head>
+<body>
+    <div class="head">
+        <a class="goback1" href="javascript:void(0)" id="gohome_cl_1"></a>
+        <ul id="menu_daohang" class="menu">
+            <a href="javascript:void(0)" id="gohome_cl_2">首页</a> <span class="current">试题专页</span>
+        </ul>
+        <ul class="user_but" id="main_user_info">
+            <li id="gohome_reg_1">注册</li>
+            <li id="gohome_login_1">登录</li>
+        </ul>
+    </div>
+    <div class="bgcolorshow">
+        <!--为了兼容占位-->
+    </div>
+    <div class="content">
+        <div class="nagetivebanner">
+            <div class="teach_note">
+                <div id="teach_notetxt" class="teach_notepic">
+                </div>
+            </div>
+            <div id="teach_detail" class="teach_detail">
+                <span id="teach_detail1"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail2"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail3"></span>
+            </div>
+        </div>
+        <div class="nagetivebanner1">
+            <div class="seotop">
+                <span class="seotops">当前位置：<a href="http://www.mofangge.com" id="gohome_hr_1">魔方格</a>
+                    ＞<a href="http://www.mofangge.com/qlist/wuli/" title="物理">物理</a>＞<a href="http://www.mofangge.com/qlist/wuli/439/" title="能量转化与守恒定律">能量转化与..</a>＞两个小球A和B在光滑的水平面上沿同一方向做直线运动，A的质量mA=..</span>
+            </div>
+        </div>
+        <div style="float: left; width: 720px;">
+            <div class="q_mokuai" id="q_indexkuai1">
+                <div class="q_indextitle" id="q_indexkuai11">
+                    <div class="q_indextitle1" id="q_indextitle1">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai2">
+                <div class="q_mktitle" id="q_indexkuai21">
+                    题文</div>
+                <div class="q_content" id="q_indexkuai22">
+                    <div class="q_bot" id="q_indexkuai221">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><div>两个小球A和B在光滑的水平面上沿同一方向做直线运动，A的质量m<sub>A</sub>=1kg，速度V<sub>A</sub>=6m/s；B的质量m<sub>B</sub>=2kg，速度的大小V<sub>B</sub>=3m/s；两球碰撞后粘在一起。求碰撞后两小球的速度大小。</div></TD></TR></TBODY></TABLE>
+                        <div class="provider" id="q_indexkuai2211">
+                            <div class="splitline">
+                            </div>
+                            <div class="right rightDiv" id="q_indexkuai22111">
+                                <span>题型：计算题</span><span>难度：偏易</span><span>来源：不详</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai3">
+                <div class="q_mktitle" id="q_indextitle4">
+                    答案</div>
+                <div class="q_content" id="q_indexkuai32">
+                    <div class="q_bot" id="q_indexkuai321">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><div>m<sub>A</sub>v<sub>A</sub>+m<sub>B</sub>v<sub>B</sub>=(m<sub>A</sub>+m<sub>B</sub>)v<sub>共</sub>&nbsp;&nbsp;代入数据得：v<sub>共</sub>=4m/s</div></TD></TR></TBODY></TABLE><TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><div>略</div></TD></TR></TBODY></TABLE>
+                        <div class="right beShare" id="q_indexkuai3211">
+                            <span class="share_note">马上分享给同学</span>
+                            <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
+                                <a class="bds_qzone"></a><a class="bds_tieba"></a><a class="bds_hi"></a><a class="bds_sqq">
+                                </a><span class="bds_more"></span><a class="shareCount"></a>
+                            </div>
+
+                            <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=523656"></script>
+
+                            <script type="text/javascript" id="bdshell_js"></script>
+
+                            <script type="text/javascript">
+                                document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                            </script>
+
+                            <!-- Baidu Button END -->
+                        </div>
+                        <div class="provider" id="q_indexkuai3212">
+                            <div class="splitline">
+                            </div>
+                            <ul class="qditaltools" id="ques_tools">
+                                <li><a class="tools_jc" id="qdebug">揪错</a></li>
+                                <li><a class="tools_sc" id="b2tocollect">收藏</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="ad_center">
+
+               <!-- <script type="text/javascript">                    BAIDU_CLB_fillSlot("762612");</script>-->
+
+            </div>
+            <div class="q_mokuai" id="q_indexkuai4">
+                <div class="q_indextitle" id="q_indexkuai41">
+                    <div class="q_indextitle2" id="q_indextitle2">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai5">
+                <div class="q_content" id="q_indexkuai51">
+                    <div class="q_bot" id="q_indexkuai511">
+                        <div class="SecTotal">
+                            据魔方格专家权威分析，试题“两个小球A和B在光滑的水平面上沿同一方向做直线运动，A的质量mA=..”主要考查你对&nbsp;&nbsp;<span id="seclist"><span class="secname">能量转化与守恒定律</span></span>&nbsp;&nbsp;等考点的理解。关于这些考点的“档案”如下：</div>
+                        <div class="linote">
+                            现在没空？<span class="btn" onclick="addfavorite()">点击收藏</span>，以后再看。</div>
+                        <div class="linote">
+                            因为篇幅有限，只列出部分考点，详细请访问<a class="btn" href="http://www.mofangge.com" target="_blank"
+                                id="gohome_hr_2">魔方格学习社区</a>。</div>
+                    </div>
+                    <div class="secchkdiv"  id="q_indexkuai512">
+                        <div class="secchkPanel" id="secchkPanel">
+                            <span class="CheckedPanel" id="panel439" title="能量转化与守恒定律">能量转化与守恒定律</span>
+                            <div class="clearfix">
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 20px; display: block; width: 300px;">
+                    </div>
+                    <div class="q_bot" id="secinfoPanel">
+                        <div class="q_bot" id="secInfo_439"><div class="secinfo">考点名称：<span class="secname">能量转化与守恒定律</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>能量守恒定律：</STRONG></P>
+<P><IMG style="WIDTH: 424px; HEIGHT: 353px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131230/2013123015535862980906.png"></P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>能量守恒中连接体问题的解法：</STRONG></P>
+<P>在两个或两个以上的物体组成的系统中，单独研究其中一个物体时，机械能往往是不守恒的，但对整体来说，机械能又常常是守恒的，所以在这类问题中通常需取整体作为研究对象，再找出其他运动联系来解题。<BR>在判断系统的机械能是否守恒时，除重力、弹力外无其他外力做功，只是系统机械能守恒的必要条件，还需要看系统内力做功的情况。 <BR>(1)系统内两个直接接触的物体，如果满足动量守恒和机械能守恒条件，利用两守恒定律是解这类问题的常用方法两物体的运动联系是沿垂直于接触面的分速度相等。 <BR>(2)以轻绳相连的两个物体，如果和外界不存在摩擦力做功等问题时，只有机械能在两个物体之间的相互转移，两物体系统机械能守恒。解此类问题的关键是在绳的方向上两物体速度大小相等。 <BR>(3)与轻杆相连的物体在绕固定转动轴转动时，两物体的角速度相等。无转动轴时两物体沿杆方向的分速度相等。有摩擦阻力参与过程的能量问题的解法在有摩擦力或介质阻力参与的过程中，机械能不停地向内能转化，但在摩擦力或介质阻力大小不变的情况下，损失的机械能与通过的路程成正比。而在往返运动形式中，通过同一位置时的速率也就不相同，通过同样距离所用时间也不相同。在比较运动时间时，可以通过比较平均速度的大小进而得到时间关系。</P></div></li></ul></div>
+                        <div class="seccopyright">
+                            以上内容为魔方格学习社区（www.mofangge.com）原创内容，未经允许不得转载！</div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai"  id="q_indexkuai6">
+                <div class="q_indextitle" id="q_indexkuai61"> 
+                    <div class="q_indextitle3" id="q_indextitle3">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai7">
+                <div class="q_mktitle" id="q_indexkuai71">
+                    发现相似题</div>
+                <div class="q_content" id="q_indexkuai72">
+                    <div class="q_sameline" id="q_indexkuai721">
+                        与<span>“两个小球A和B在光滑的水平面上沿同一方向做直线运动，A的质量mA=..”</span>考查相似的试题有：</div>
+                    <div class="q_bot" id="q_indexkuai722">
+                        <!-- $xiangsiqidlist$ -->
+                        <table border="0" cellpadding="1" class="nearQues" style="line-height: 24px;">
+                            <thead>
+                                <tr>
+                                    <th width="15%">
+                                        试题ID
+                                    </th>
+                                    <th>
+                                        试题题文
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>112694</td><td><a href="http://www.mofangge.com/html/qDetail/04/g3/201112/knpjg304112694.html">我省沙河抽水蓄能电站自2003年投入运行以来，在缓解用电高峰电力..</a></td></tr><tr><td>102216</td><td><a href="http://www.mofangge.com/html/qDetail/04/g3/201107/qo9dg304102216.html">如图所示，水平传送带以恒定的速率v=4m／s运送质量为m=0.5kg的工..</a></td></tr><tr><td>127873</td><td><a href="http://www.mofangge.com/html/qDetail/04/g1/201208/xvspg104127873.html">水滴从10m高空由静止开始下落，在下落过程中，水滴重力势能的40%..</a></td></tr><tr><td>178985</td><td><a href="http://www.mofangge.com/html/qDetail/04/g0/201310/af62g004178985.html">热现象过程中不可避免地出现能量耗散现象．所谓能量耗散是指在能量..</a></td></tr><tr><td>154480</td><td><a href="http://www.mofangge.com/html/qDetail/04/g0/201310/7t1rg004154480.html">如图所示，斜劈劈尖顶着竖直墙壁静止于水平面上，现将一小球从图..</a></td></tr><tr><td>112407</td><td><a href="http://www.mofangge.com/html/qDetail/04/g3/201112/ree2g304112407.html">（1）1791年，米被定义为：在经过巴黎的子午线上，取从赤道到北极长..</a></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="q_right">
+            <!--<script type="text/javascript">BAIDU_CLB_fillSlot("762611");</script>-->
+            <div id="container_ext">
+            </div>
+            <!--<div class="Extra_right" id="Extra_right">
+            <div class="Extra_right1">
+                    <div class="div1" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_3">
+                        <div class="image1">
+                        </div>
+                    </div>
+                    <div class="div2" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_4">
+                    </div>
+                    <div class="div1" onclick="addfavorite()">
+                        <div class="image2">
+                        </div>
+                    </div>
+                    <div class="div2" id="keep_detail" onclick="addfavorite()">
+                    </div>
+                    <div class="div4">
+                        <div class="image3">
+                        </div>
+                        <div class="div3">
+                        </div>
+                        <div id="turn_weixin">
+                        </div>
+                        <p class="dttaildes">
+                            扫一扫，有惊喜</p>
+                    </div>
+                    <div class="div6">
+                        <iframe src="http://open.qzone.qq.com/like?url=http%3A%2F%2Fuser.qzone.qq.com%2F17175515&type=button_num&width=400&height=30&style=2 
+
+" allowtransparency="true" scrolling="no" border="0" frameborder="0" style="width: 400px; height: 30px; border: none;
+                            overflow: hidden;"></iframe>
+                            <iframe id="review" height="24" marginheight="0" src="http://follow.v.t.qq.com/index.php?c=follow&amp;a=quick&amp;appkey=801507580&amp;sign=bab9dd3a&amp;v=2&amp;name=mofangge520&amp;style=5&amp;t=1400310722678&amp;f=0" frameborder="0" width="125" allowtransparency="" marginwidth="0"></iframe>
+                        <p>
+                           <img src="/css/style1/forqdetail/threejt.png" width="54px" height="21px" style="vertical-align:middle;"> 关注QQ空间<br>
+                            学习秘籍，尽在此地</p>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+     </div>
+    <div class="copyright">
+        <div id="MFG_Features">“魔方格学习社区”各栏目介绍之--考点百科：涵盖中小学十二学年九大学科所有的考点百科知识，定义类、定理类、导图类、特性类、点拨类，应有尽有，绝对是你的课前预习好帮手，前往www.mofangge.com，垂手可得。</div><script type="text/javascript" src="/js/comm/mfgconfig.js"></script>
+        © 2014 <a href="http://www.mofangge.com" style="color: White">魔方格</a> 版权所有
+        <span id="thispage_lastlog_time"> 最后访问时间：2015-08-31 12:58:23</span>
+    </div>
+</body>
+
+<script src="/js/inc/mootools-core.js" type="text/javascript"></script>
+
+<script src="/js/comm/comm.js" type="text/javascript"></script>
+
+<script src="/js/comm/mfg_debug.js" type="text/javascript"></script>
+
+<script src="/js/comm/Ques_comm.js" type="text/javascript"></script>
+
+<script src="/js/app/qdetail/qdetail1.js?v=20150130" type="text/javascript"></script>
+
+</html>

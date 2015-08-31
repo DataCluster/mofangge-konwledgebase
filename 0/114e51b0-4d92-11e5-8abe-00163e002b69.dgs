@@ -1,0 +1,335 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>如图，四边形ABCD为正方形，QA⊥平面ABCD，PD∥QA，QA＝AB＝PD.(1)证明：PQ⊥平面DCQ；(2)求棱锥Q&shy;ABCD的体积与棱锥P&shy;DCQ的体积的比值．-高二数学-魔方格</title>
+    <meta name="renderer" content="webkit" />
+    <link id="favicon" href="/logo.ico" rel="icon" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="如图，四边形ABCD为正方形，QA⊥平面ABCD，PD∥QA，QA＝AB＝PD.(1)证明：PQ⊥平面DCQ；(2)求棱锥Q&shy;ABCD的体积与棱锥P&shy;DCQ的体积的比值．-高二数学-魔方格" />
+    <meta name="keywords" content="如图，四边形ABCD为正方形，QA⊥平面ABCD，PD∥QA，QA＝AB＝PD.(1)证明：PQ⊥平面DCQ；(2)求棱锥Q&shy;ABCD的体积与棱锥P&shy;DCQ的体积的比值．-高二数学-魔方格" />
+    <link href="/css/style1/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style1/forqdetail1.css" rel="stylesheet" type="text/css" />
+    <link href="http://bdimg.share.baidu.com/static/css/bdsstyle.css?cdnversion=20130704"
+        rel="stylesheet" type="text/css">
+
+    <script src="http://bdimg.share.baidu.com/static/js/logger.js?cdnversion=382066"></script>
+
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+
+</head>
+<body>
+    <div class="head">
+        <a class="goback1" href="javascript:void(0)" id="gohome_cl_1"></a>
+        <ul id="menu_daohang" class="menu">
+            <a href="javascript:void(0)" id="gohome_cl_2">首页</a> <span class="current">试题专页</span>
+        </ul>
+        <ul class="user_but" id="main_user_info">
+            <li id="gohome_reg_1">注册</li>
+            <li id="gohome_login_1">登录</li>
+        </ul>
+    </div>
+    <div class="bgcolorshow">
+        <!--为了兼容占位-->
+    </div>
+    <div class="content">
+        <div class="nagetivebanner">
+            <div class="teach_note">
+                <div id="teach_notetxt" class="teach_notepic">
+                </div>
+            </div>
+            <div id="teach_detail" class="teach_detail">
+                <span id="teach_detail1"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail2"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail3"></span>
+            </div>
+        </div>
+        <div class="nagetivebanner1">
+            <div class="seotop">
+                <span class="seotops">当前位置：<a href="http://www.mofangge.com" id="gohome_hr_1">魔方格</a>
+                    ＞<a href="http://www.mofangge.com/qlist/shuxue/" title="数学">数学</a>＞<a href="http://www.mofangge.com/qlist/shuxue/569/" title="柱体、椎体、台体的表面积与体积">柱体、椎体..</a>＞如图，四边形ABCD为正方形，QA⊥平面ABCD，PD∥QA，QA＝AB＝PD.(1)证..</span>
+            </div>
+        </div>
+        <div style="float: left; width: 720px;">
+            <div class="q_mokuai" id="q_indexkuai1">
+                <div class="q_indextitle" id="q_indexkuai11">
+                    <div class="q_indextitle1" id="q_indextitle1">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai2">
+                <div class="q_mktitle" id="q_indexkuai21">
+                    题文</div>
+                <div class="q_content" id="q_indexkuai22">
+                    <div class="q_bot" id="q_indexkuai221">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><div>如图，四边形ABCD为正方形，QA⊥平面ABCD，PD∥QA，QA＝AB＝<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060331891338.png" style="vertical-align:middle;" />PD.<br /><img src="http://pic2.mofangge.com/upload/papers//20140824/201408240603319222366.jpg" style="vertical-align:middle;" /><br />(1)证明：PQ⊥平面DCQ；<br />(2)求棱锥Q&shy;ABCD的体积与棱锥P&shy;DCQ的体积的比值．</div></TD></TR></TBODY></TABLE>
+                        <div class="provider" id="q_indexkuai2211">
+                            <div class="splitline">
+                            </div>
+                            <div class="right rightDiv" id="q_indexkuai22111">
+                                <span>题型：解答题</span><span>难度：偏易</span><span>来源：不详</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai3">
+                <div class="q_mktitle" id="q_indextitle4">
+                    答案</div>
+                <div class="q_content" id="q_indexkuai32">
+                    <div class="q_bot" id="q_indexkuai321">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><div>(1)祥见解析； (2)１．</div></TD></TR></TBODY></TABLE><TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><div><br />试题分析：(1)要证直线与平面垂直，只须证明直线与平面内的两条相交直线垂直即可，注意到QA⊥平面ABCD，所以有平面PDAQ⊥平面ABCD，且交线为AD，又因为四边形ABCD为正方形，由面面垂直的性质可得DC⊥平面PDAQ，从而有PQ⊥DC，又因为PD∥QA，且QA＝AB＝<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060331891338.png" style="vertical-align:middle;" />PD ，所以四边形PDAQ为直角梯形，利用勾股定理的逆定理可证PQ⊥QD；从而可证 PQ⊥平面DCQ；(2)设AB＝a，则由(1)及已知条件可用含a的式子表示出棱锥Q－ABCD的体积和棱锥P－DCQ的体积从而就可求出其比值．<br />试题解析：(1)证明：由条件知PDAQ为直角梯形．<br />因为QA⊥平面ABCD，所以平面PDAQ⊥平面ABCD，交线为AD.<br />又四边形ABCD为正方形，DC⊥AD，<br />所以DC⊥平面PDAQ.可得PQ⊥DC.<br />在直角梯形PDAQ中可得DQ＝PQ＝<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060331969413.png" style="vertical-align:middle;" />PD，<br />则PQ⊥QD.所以PQ⊥平面DCQ.<br />(2)设AB＝a.由题设知AQ为棱锥Q&shy;ABCD的高，所以棱锥Q－ABCD的体积V<sub>1</sub>＝<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060331984327.png" style="vertical-align:middle;" />a<sup>3</sup>.<br />由(1)知PQ为棱锥P－DCQ的高，而PQ＝<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060332000344.png" style="vertical-align:middle;" />a，△DCQ的面积为<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060331969413.png" style="vertical-align:middle;" />a<sup>2</sup>，<br />所以棱锥P－DCQ的体积V<sub>2</sub>＝<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060331984327.png" style="vertical-align:middle;" />a<sup>3</sup>.<br />故棱锥Q－ABCD的体积与棱锥P－DCQ的体积的比值为1.</div></TD></TR></TBODY></TABLE>
+                        <div class="right beShare" id="q_indexkuai3211">
+                            <span class="share_note">马上分享给同学</span>
+                            <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
+                                <a class="bds_qzone"></a><a class="bds_tieba"></a><a class="bds_hi"></a><a class="bds_sqq">
+                                </a><span class="bds_more"></span><a class="shareCount"></a>
+                            </div>
+
+                            <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=523656"></script>
+
+                            <script type="text/javascript" id="bdshell_js"></script>
+
+                            <script type="text/javascript">
+                                document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                            </script>
+
+                            <!-- Baidu Button END -->
+                        </div>
+                        <div class="provider" id="q_indexkuai3212">
+                            <div class="splitline">
+                            </div>
+                            <ul class="qditaltools" id="ques_tools">
+                                <li><a class="tools_jc" id="qdebug">揪错</a></li>
+                                <li><a class="tools_sc" id="b2tocollect">收藏</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="ad_center">
+
+               <!-- <script type="text/javascript">                    BAIDU_CLB_fillSlot("762612");</script>-->
+
+            </div>
+            <div class="q_mokuai" id="q_indexkuai4">
+                <div class="q_indextitle" id="q_indexkuai41">
+                    <div class="q_indextitle2" id="q_indextitle2">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai5">
+                <div class="q_content" id="q_indexkuai51">
+                    <div class="q_bot" id="q_indexkuai511">
+                        <div class="SecTotal">
+                            据魔方格专家权威分析，试题“如图，四边形ABCD为正方形，QA⊥平面ABCD，PD∥QA，QA＝AB＝PD.(1)证..”主要考查你对&nbsp;&nbsp;<span id="seclist"><span class="secname">柱体、椎体、台体的表面积与体积</span>，<span class="secname">球的表面积与体积</span>，<span class="secname">组合体的表面积与体积</span></span>&nbsp;&nbsp;等考点的理解。关于这些考点的“档案”如下：</div>
+                        <div class="linote">
+                            现在没空？<span class="btn" onclick="addfavorite()">点击收藏</span>，以后再看。</div>
+                        <div class="linote">
+                            因为篇幅有限，只列出部分考点，详细请访问<a class="btn" href="http://www.mofangge.com" target="_blank"
+                                id="gohome_hr_2">魔方格学习社区</a>。</div>
+                    </div>
+                    <div class="secchkdiv"  id="q_indexkuai512">
+                        <div class="secchkPanel" id="secchkPanel">
+                            <span class="CheckedPanel" id="panel569" title="柱体、椎体、台体的表面积与体积">柱体、椎体、台体的表面积与体积</span><span class="unCheckPanel" id="panel570" title="球的表面积与体积" >球的表面积与体积</span><span class="unCheckPanel" id="panel571" title="组合体的表面积与体积" >组合体的表面积与体积</span>
+                            <div class="clearfix">
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 20px; display: block; width: 300px;">
+                    </div>
+                    <div class="q_bot" id="secinfoPanel">
+                        <div class="q_bot" id="secInfo_569"><div class="secinfo">考点名称：<span class="secname">柱体、椎体、台体的表面积与体积</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>侧面积和全面积的定义：</STRONG></P>
+<P>(1)侧面积的定义：把柱、锥、台的侧面沿着它们的一条侧棱或母线剪开，所得到的展开图的面积，就是空间几何体的侧面积．<BR>(2)全面积的定义：空间几何体的侧面积与底面积的和叫做空间几何体的全面积，&nbsp;</P>
+<P><STRONG>柱体、锥体、台体的表面积公式（c为底面周长，h为高，h′为斜高，l为母线）</STRONG></P>
+<P><IMG border=0 src="http://pic1.mofangge.com/upload/secpic/201110/20111028111102001.gif"></P>
+<P><STRONG>柱体、锥体、台体的体积公式： </STRONG></P>
+<P><IMG border=0 src="http://pic1.mofangge.com/upload/secpic/201110/20111028111117001.gif"><BR><BR></P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>多面体的侧面积与体积：</STRONG></P>
+<P>
+<TABLE style="BORDER-TOP-STYLE: solid; BORDER-COLLAPSE: collapse; BORDER-BOTTOM-STYLE: solid; WORD-BREAK: break-all; BORDER-RIGHT-STYLE: solid; BORDER-LEFT-STYLE: solid" borderColor=infotext cellSpacing=0 cellPadding=0 width=600 bgColor=highlighttext border=1>
+<TBODY>
+<TR>
+<TD>多面体</TD>
+<TD>图像</TD>
+<TD>侧面积</TD>
+<TD>体积</TD></TR>
+<TR>
+<TD>棱柱</TD>
+<TD><!--StartFragment -->
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131218/201312181040205846044.jpg"> </DIV></TD>
+<TD>直棱柱的侧面展开图是矩形<BR><!--StartFragment -->
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131218/201312181040219888820.jpg"> </DIV></TD>
+<TD><!--StartFragment -->
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131218/201312181040224717644.jpg"> </DIV></TD></TR>
+<TR>
+<TD>棱锥</TD>
+<TD><!--StartFragment -->
+<DIV><!--StartFragment -->
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131218/201312181040235489718.jpg"> </DIV></DIV></TD>
+<TD>正棱柱的侧面展开图是一些全等的等腰三角形，<BR><!--StartFragment -->
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131218/201312181040245773292.jpg"> </DIV></TD>
+<TD><!--StartFragment -->
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131218/201312181040250454935.jpg"> </DIV></TD></TR>
+<TR>
+<TD>棱台</TD>
+<TD><!--StartFragment -->
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131218/201312181040265279064.jpg"> </DIV></TD>
+<TD>正棱台的侧面展开图是一些全等的等腰梯形，<BR><!--StartFragment -->
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131218/201312181040273073362.jpg"><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131218/201312181040277442802.jpg">&nbsp;&nbsp;</DIV></TD>
+<TD><!--StartFragment -->
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131218/201312181040282747814.jpg"> </DIV></TD></TR></TBODY></TABLE></P>
+<P><STRONG>旋转体的侧面积和体积：</STRONG></P>
+<P>
+<TABLE style="BORDER-TOP-STYLE: solid; BORDER-COLLAPSE: collapse; BORDER-BOTTOM-STYLE: solid; WORD-BREAK: break-all; BORDER-RIGHT-STYLE: solid; BORDER-LEFT-STYLE: solid" borderColor=infotext cellSpacing=0 cellPadding=0 width=600 bgColor=highlighttext border=1>
+<TBODY>
+<TR>
+<TD>旋转体</TD>
+<TD>图形</TD>
+<TD>侧面积与全面积</TD>
+<TD>体积</TD></TR>
+<TR>
+<TD>圆柱</TD>
+<TD><!--StartFragment -->
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131218/201312181040292574083.jpg"> </DIV></TD>
+<TD>圆柱的侧面展开图的矩形：<BR><!--StartFragment -->
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131218/201312181040299125595.jpg"> </DIV></TD>
+<TD><!--StartFragment -->
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131218/201312181040304434258.jpg"> </DIV></TD></TR>
+<TR>
+<TD>圆锥</TD>
+<TD><!--StartFragment -->
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131218/201312181040308026155.jpg"> </DIV></TD>
+<TD>圆锥的侧面展开图是扇形：<BR><!--StartFragment -->
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131218/201312181040324714684.jpg"> </DIV></TD>
+<TD><!--StartFragment -->
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131218/201312181040329085376.jpg"> </DIV></TD></TR>
+<TR>
+<TD>圆台</TD>
+<TD><!--StartFragment -->
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131218/201312181048005666216.jpg"> </DIV></TD>
+<TD>圆台的侧面展开图是扇环：<BR><!--StartFragment -->
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131218/201312181048011595332.jpg"> </DIV></TD>
+<TD><!--StartFragment -->
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131218/2013121810480154910012.jpg"> </DIV></TD></TR>
+<TR>
+<TD>球</TD>
+<TD><!--StartFragment -->
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131218/201312181048023608225.jpg"> </DIV></TD>
+<TD><!--StartFragment -->
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131218/201312181048025479439.jpg"> </DIV></TD>
+<TD><!--StartFragment -->
+<DIV><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131218/201312181048027344274.jpg"> </DIV></TD></TR></TBODY></TABLE></P>
+<P>&nbsp;</P></div></li></ul></div><div class="q_bot" style="display:none"  id="secInfo_570"><div class="secinfo">考点名称：<span class="secname">球的表面积与体积</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>球的体积公式：</STRONG></P>
+<P>V<SUB>球</SUB>=<IMG style="FILTER: none" border=0 src="http://pic1.mofangge.com/upload/secpic/201110/20111028111156001.gif" align=middle>；</P>
+<P><STRONG>球的表面积：</STRONG></P>
+<P>S<SUB>球面</SUB>=<IMG style="FILTER: none" border=0 src="http://pic1.mofangge.com/upload/secpic/201110/20111028111230001.gif" align=middle></P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>求球的表面积和体积的关键：</STRONG></P>
+<P>由球的表面积和体积公式可知，求球的表面积和体积的关键是求出半径。</P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>常用结论：</STRONG></P>
+<P>1.若球的表面积变为原来的2倍,则半径变为原来的<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/20131219200403240387.jpg">倍. <BR>2.若球半径变为原来的2倍，则表面积变为原来的4倍.<BR>3.若两球表面积之比为1:2，则其体积之比是<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/20131219200403427599.jpg">.<BR>4.若两球体积之比是1:2，则其表面积之比是<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/20131219200403630613.jpg">. </P></div></li></ul></div><div class="q_bot" style="display:none"  id="secInfo_571"><div class="secinfo">考点名称：<span class="secname">组合体的表面积与体积</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>定义：</STRONG></P>
+<P>组合体的表面积与体积主要通过计算组成几何体的简单几何体的表面积与体积来求解。</P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>组合体的表面积和体积与球有关的组合体问题：</STRONG></P>
+<P>一种是内切，一种是外接．解题时要认真分析图形，明确切点和接点的位置，确定有关元素间的数量关系，并作出合适的截面图．如球内切于正方体，切点为正方体各个面的中心，正方体的棱长等于球的直径；球外接于正方体，正方体的顶点均在球面上，正方体的体对角线长等于球的直径．球与旋转体的组合，通常作它们的轴截面解题，球与多面体的组合，通过多面体的一条侧棱和球心，或”、点。</P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>求几何体的体积的几种常用方法：</STRONG></P>
+<P>（1）分割求和法：把不规则的图形分割成规则的图形，然后进行体积求和；<BR>（2）补形法：把不规则形体补成规则形体，不熟悉形体补成熟悉形体，便于计算其体积；<BR>常见的补形方法：<BR><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/2013121900170034873022.jpg"><BR>&nbsp;&nbsp;<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/2013121900170156442026.jpg"> <BR><!--StartFragment --><!--StartFragment --></P>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131219/2013121900170229820200.jpg"> <BR>（3）等体积转化法：从不同的角度看待原几何体，通过改变顶点和底面，利用体积不变的原理，求原几何体的体积。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </DIV></div></li></ul></div>
+                        <div class="seccopyright">
+                            以上内容为魔方格学习社区（www.mofangge.com）原创内容，未经允许不得转载！</div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai"  id="q_indexkuai6">
+                <div class="q_indextitle" id="q_indexkuai61"> 
+                    <div class="q_indextitle3" id="q_indextitle3">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai7">
+                <div class="q_mktitle" id="q_indexkuai71">
+                    发现相似题</div>
+                <div class="q_content" id="q_indexkuai72">
+                    <div class="q_sameline" id="q_indexkuai721">
+                        与<span>“如图，四边形ABCD为正方形，QA⊥平面ABCD，PD∥QA，QA＝AB＝PD.(1)证..”</span>考查相似的试题有：</div>
+                    <div class="q_bot" id="q_indexkuai722">
+                        <!-- $xiangsiqidlist$ -->
+                        <table border="0" cellpadding="1" class="nearQues" style="line-height: 24px;">
+                            <thead>
+                                <tr>
+                                    <th width="15%">
+                                        试题ID
+                                    </th>
+                                    <th>
+                                        试题题文
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>844499</td><td><a href="http://www.mofangge.com/html/qDetail/02/g3/201408/irnbg302844499.html">三棱柱三视图（主视图和俯视图是正方形，左视图是等腰直角三角形）..</a></td></tr><tr><td>842604</td><td><a href="http://www.mofangge.com/html/qDetail/02/g1/201408/wuf8g102842604.html">已知球的某截面的面积为16，球心到该截面的距离为3，则球的表面积..</a></td></tr><tr><td>772402</td><td><a href="http://www.mofangge.com/html/qDetail/02/g2/201408/11lfg202772402.html">正方体的全面积是a，它的顶点都在球面上，则这个球的表面积是（）A..</a></td></tr><tr><td>397896</td><td><a href="http://www.mofangge.com/html/qDetail/02/g0/201312/vct5g002397896.html">如图，将边长为1的正六边形铁皮的六个角各切去一个全等的四边形，..</a></td></tr><tr><td>867259</td><td><a href="http://www.mofangge.com/html/qDetail/02/g1/201408/pb2tg102867259.html">如图，已知直三棱柱中，，，，D为BC的中点.（1）求证：∥面；（2）求三..</a></td></tr><tr><td>758798</td><td><a href="http://www.mofangge.com/html/qDetail/02/g0/201408/y7umg002758798.html">如图，三棱柱上一点，求．</a></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="q_right">
+            <!--<script type="text/javascript">BAIDU_CLB_fillSlot("762611");</script>-->
+            <div id="container_ext">
+            </div>
+            <!--<div class="Extra_right" id="Extra_right">
+            <div class="Extra_right1">
+                    <div class="div1" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_3">
+                        <div class="image1">
+                        </div>
+                    </div>
+                    <div class="div2" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_4">
+                    </div>
+                    <div class="div1" onclick="addfavorite()">
+                        <div class="image2">
+                        </div>
+                    </div>
+                    <div class="div2" id="keep_detail" onclick="addfavorite()">
+                    </div>
+                    <div class="div4">
+                        <div class="image3">
+                        </div>
+                        <div class="div3">
+                        </div>
+                        <div id="turn_weixin">
+                        </div>
+                        <p class="dttaildes">
+                            扫一扫，有惊喜</p>
+                    </div>
+                    <div class="div6">
+                        <iframe src="http://open.qzone.qq.com/like?url=http%3A%2F%2Fuser.qzone.qq.com%2F17175515&type=button_num&width=400&height=30&style=2 
+
+" allowtransparency="true" scrolling="no" border="0" frameborder="0" style="width: 400px; height: 30px; border: none;
+                            overflow: hidden;"></iframe>
+                            <iframe id="review" height="24" marginheight="0" src="http://follow.v.t.qq.com/index.php?c=follow&amp;a=quick&amp;appkey=801507580&amp;sign=bab9dd3a&amp;v=2&amp;name=mofangge520&amp;style=5&amp;t=1400310722678&amp;f=0" frameborder="0" width="125" allowtransparency="" marginwidth="0"></iframe>
+                        <p>
+                           <img src="/css/style1/forqdetail/threejt.png" width="54px" height="21px" style="vertical-align:middle;"> 关注QQ空间<br>
+                            学习秘籍，尽在此地</p>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+     </div>
+    <div class="copyright">
+        <div id="MFG_Features">“魔方格学习社区”各栏目介绍之--试题搜索：千万道试题，涵盖中小学十二学年九大学科，绝无仅有的学习领地，访问www.mofangge.com，只会让你更多的惊讶。</div><script type="text/javascript" src="/js/comm/mfgconfig.js"></script>
+        © 2014 <a href="http://www.mofangge.com" style="color: White">魔方格</a> 版权所有
+        <span id="thispage_lastlog_time"> 最后访问时间：2015-08-30 20:48:23</span>
+    </div>
+</body>
+
+<script src="/js/inc/mootools-core.js" type="text/javascript"></script>
+
+<script src="/js/comm/comm.js" type="text/javascript"></script>
+
+<script src="/js/comm/mfg_debug.js" type="text/javascript"></script>
+
+<script src="/js/comm/Ques_comm.js" type="text/javascript"></script>
+
+<script src="/js/app/qdetail/qdetail1.js?v=20150130" type="text/javascript"></script>
+
+</html>

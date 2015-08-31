@@ -1,0 +1,249 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>如图，在四棱锥P&shy;ABCD中，PD⊥平面ABCD，四边形ABCD是菱形，AC＝2，BD＝2，E是PB上任意一点．(1)求证：AC⊥DE；(2)已知二面角A&shy;PB&shy;D的余弦值为，若E为PB的中点，求-高二数学-魔方格</title>
+    <meta name="renderer" content="webkit" />
+    <link id="favicon" href="/logo.ico" rel="icon" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="如图，在四棱锥P&shy;ABCD中，PD⊥平面ABCD，四边形ABCD是菱形，AC＝2，BD＝2，E是PB上任意一点．(1)求证：AC⊥DE；(2)已知二面角A&shy;PB&shy;D的余弦值为，若E为PB的中点，求-高二数学-魔方格" />
+    <meta name="keywords" content="如图，在四棱锥P&shy;ABCD中，PD⊥平面ABCD，四边形ABCD是菱形，AC＝2，BD＝2，E是PB上任意一点．(1)求证：AC⊥DE；(2)已知二面角A&shy;PB&shy;D的余弦值为，若E为PB的中点，求-高二数学-魔方格" />
+    <link href="/css/style1/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style1/forqdetail1.css" rel="stylesheet" type="text/css" />
+    <link href="http://bdimg.share.baidu.com/static/css/bdsstyle.css?cdnversion=20130704"
+        rel="stylesheet" type="text/css">
+
+    <script src="http://bdimg.share.baidu.com/static/js/logger.js?cdnversion=382066"></script>
+
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+
+</head>
+<body>
+    <div class="head">
+        <a class="goback1" href="javascript:void(0)" id="gohome_cl_1"></a>
+        <ul id="menu_daohang" class="menu">
+            <a href="javascript:void(0)" id="gohome_cl_2">首页</a> <span class="current">试题专页</span>
+        </ul>
+        <ul class="user_but" id="main_user_info">
+            <li id="gohome_reg_1">注册</li>
+            <li id="gohome_login_1">登录</li>
+        </ul>
+    </div>
+    <div class="bgcolorshow">
+        <!--为了兼容占位-->
+    </div>
+    <div class="content">
+        <div class="nagetivebanner">
+            <div class="teach_note">
+                <div id="teach_notetxt" class="teach_notepic">
+                </div>
+            </div>
+            <div id="teach_detail" class="teach_detail">
+                <span id="teach_detail1"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail2"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail3"></span>
+            </div>
+        </div>
+        <div class="nagetivebanner1">
+            <div class="seotop">
+                <span class="seotops">当前位置：<a href="http://www.mofangge.com" id="gohome_hr_1">魔方格</a>
+                    ＞<a href="http://www.mofangge.com/qlist/shuxue/" title="数学">数学</a>＞<a href="http://www.mofangge.com/qlist/shuxue/592/" title="空间向量的定义">空间向量的..</a>＞如图，在四棱锥P&shy;ABCD中，PD⊥平面ABCD，四边形ABCD是菱形，..</span>
+            </div>
+        </div>
+        <div style="float: left; width: 720px;">
+            <div class="q_mokuai" id="q_indexkuai1">
+                <div class="q_indextitle" id="q_indexkuai11">
+                    <div class="q_indextitle1" id="q_indextitle1">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai2">
+                <div class="q_mktitle" id="q_indexkuai21">
+                    题文</div>
+                <div class="q_content" id="q_indexkuai22">
+                    <div class="q_bot" id="q_indexkuai221">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><div>如图，在四棱锥P&shy;ABCD中，PD⊥平面ABCD，四边形ABCD是菱形，AC＝2，BD＝2<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518439344.png" style="vertical-align:middle;" />，E是PB上任意一点．<br />(1)求证：AC⊥DE；<br />(2)已知二面角A&shy;PB&shy;D的余弦值为<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518454437.png" style="vertical-align:middle;" />，若E为PB的中点，求EC与平面PAB所成角的正弦值．<br /><img src="http://pic2.mofangge.com/upload/papers//20140824/201408240605185014053.jpg" style="vertical-align:middle;" /></div></TD></TR></TBODY></TABLE>
+                        <div class="provider" id="q_indexkuai2211">
+                            <div class="splitline">
+                            </div>
+                            <div class="right rightDiv" id="q_indexkuai22111">
+                                <span>题型：解答题</span><span>难度：中档</span><span>来源：不详</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai3">
+                <div class="q_mktitle" id="q_indextitle4">
+                    答案</div>
+                <div class="q_content" id="q_indexkuai32">
+                    <div class="q_bot" id="q_indexkuai321">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><div>（1）证明见解析；（2）<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518517432.png" style="vertical-align:middle;" />．</div></TD></TR></TBODY></TABLE><TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><div><br />试题分析：<br />解题思路：（1）利用线面垂直的性质推得线线垂直：（2）建立空间坐标系，利用二面角A&shy;PB&shy;D的余弦值为<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518454437.png" style="vertical-align:middle;" />，求出PD;进而利用空间向量求线面角的正弦值.<br />规律总结：对于空间几何体中的垂直、平行关系的判定，要牢牢记住并灵活进行转化，线线关系是关键；涉及夹角、距离问题以及开放性问题，要注意利用空间直角坐标系进行求解.<br />试题解析：(1)证明：∵PD⊥平面ABCD，AC⊂平面ABCD，<br />∴PD⊥AC，<br />∵四边形ABCD是菱形，∴BD⊥AC，<br />又BD∩PD＝D，∴AC⊥平面PBD，<br />∵DE⊂平面PBD，∴AC⊥DE.<br />(2)在△PDB中，EO∥PD，∴EO⊥平面ABCD，分别以OA，OB，OE所在直线为x轴，y轴，z轴建立空间直角坐标系，设PD＝t，则A(1,0,0)，B(0，<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518439344.png" style="vertical-align:middle;" />，0)，C(－1,0,0)，<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518579686.png" style="vertical-align:middle;" />，P(0，－<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518439344.png" style="vertical-align:middle;" />，t)，<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518610407.png" style="vertical-align:middle;" />＝(－1，<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518439344.png" style="vertical-align:middle;" />，0)，<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518657389.png" style="vertical-align:middle;" />＝(－1，－<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518439344.png" style="vertical-align:middle;" />，t)．<br /><img src="http://pic2.mofangge.com/upload/papers//20140824/201408240605187042741.jpg" style="vertical-align:middle;" /><br />由(1)知，平面PBD的一个法向量为n<sub>1</sub>＝(1,0,0)，设平面PAB的法向量为n<sub>2</sub>＝(x，y，z)，则根据<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518751977.png" style="vertical-align:middle;" />,<br />得<img src="http://pic2.mofangge.com/upload/papers//20140824/201408240605187821115.png" style="vertical-align:middle;" />，令y＝1，得平面PAB的一个法向量为<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518798913.png" style="vertical-align:middle;" /><br />∵二面角A&shy;PB&shy;D的余弦值为<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518454437.png" style="vertical-align:middle;" />，<br />则|cos〈n<sub>1</sub>，n<sub>2</sub>〉|＝<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518454437.png" style="vertical-align:middle;" />，即<br />＝<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518454437.png" style="vertical-align:middle;" />，解得t＝2<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518439344.png" style="vertical-align:middle;" />或t＝－2<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518439344.png" style="vertical-align:middle;" />&nbsp;(舍去)，<br />∴P(0，－<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518439344.png" style="vertical-align:middle;" />，2<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518439344.png" style="vertical-align:middle;" />)．<br />设EC与平面PAB所成的角为θ，<br />∵<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518954415.png" style="vertical-align:middle;" />＝(－1,0，－<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518439344.png" style="vertical-align:middle;" />)，n<sub>2</sub>＝(<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518439344.png" style="vertical-align:middle;" />，1,1)，<br />则sin θ＝|cos〈<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518954415.png" style="vertical-align:middle;" />，n<sub>2</sub>〉|＝<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518454437.png" style="vertical-align:middle;" />，<br />∴EC与平面PAB所成角的正弦值为<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060518454437.png" style="vertical-align:middle;" />. </div></TD></TR></TBODY></TABLE>
+                        <div class="right beShare" id="q_indexkuai3211">
+                            <span class="share_note">马上分享给同学</span>
+                            <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
+                                <a class="bds_qzone"></a><a class="bds_tieba"></a><a class="bds_hi"></a><a class="bds_sqq">
+                                </a><span class="bds_more"></span><a class="shareCount"></a>
+                            </div>
+
+                            <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=523656"></script>
+
+                            <script type="text/javascript" id="bdshell_js"></script>
+
+                            <script type="text/javascript">
+                                document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                            </script>
+
+                            <!-- Baidu Button END -->
+                        </div>
+                        <div class="provider" id="q_indexkuai3212">
+                            <div class="splitline">
+                            </div>
+                            <ul class="qditaltools" id="ques_tools">
+                                <li><a class="tools_jc" id="qdebug">揪错</a></li>
+                                <li><a class="tools_sc" id="b2tocollect">收藏</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="ad_center">
+
+               <!-- <script type="text/javascript">                    BAIDU_CLB_fillSlot("762612");</script>-->
+
+            </div>
+            <div class="q_mokuai" id="q_indexkuai4">
+                <div class="q_indextitle" id="q_indexkuai41">
+                    <div class="q_indextitle2" id="q_indextitle2">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai5">
+                <div class="q_content" id="q_indexkuai51">
+                    <div class="q_bot" id="q_indexkuai511">
+                        <div class="SecTotal">
+                            据魔方格专家权威分析，试题“如图，在四棱锥P&shy;ABCD中，PD⊥平面ABCD，四边形ABCD是菱形，..”主要考查你对&nbsp;&nbsp;<span id="seclist"><span class="secname">空间向量的定义</span></span>&nbsp;&nbsp;等考点的理解。关于这些考点的“档案”如下：</div>
+                        <div class="linote">
+                            现在没空？<span class="btn" onclick="addfavorite()">点击收藏</span>，以后再看。</div>
+                        <div class="linote">
+                            因为篇幅有限，只列出部分考点，详细请访问<a class="btn" href="http://www.mofangge.com" target="_blank"
+                                id="gohome_hr_2">魔方格学习社区</a>。</div>
+                    </div>
+                    <div class="secchkdiv"  id="q_indexkuai512">
+                        <div class="secchkPanel" id="secchkPanel">
+                            <span class="CheckedPanel" id="panel592" title="空间向量的定义">空间向量的定义</span>
+                            <div class="clearfix">
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 20px; display: block; width: 300px;">
+                    </div>
+                    <div class="q_bot" id="secinfoPanel">
+                        <div class="q_bot" id="secInfo_592"><div class="secinfo">考点名称：<span class="secname">空间向量的定义</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>空间向量的定义：</STRONG></P>
+<P>在空间中，我们把具有大小和方向的量叫做向量。 </P>
+<P><STRONG>空间向量的坐标表示： </STRONG></P>
+<P>如图给定空间直角坐标系和向量<IMG style="FILTER: none" border=0 src="http://pic1.mofangge.com/upload/secpic/201110/20111028113614001.gif" align=middle>，设<IMG style="FILTER: none" border=0 src="http://pic1.mofangge.com/upload/secpic/201110/20111028113633001.gif" align=middle>为坐标向量，则存在唯一的有序实数组<IMG style="FILTER: none" border=0 src="http://pic1.mofangge.com/upload/secpic/201110/20111028113649001.gif" align=middle>，使<IMG style="FILTER: none" border=0 src="http://pic1.mofangge.com/upload/secpic/201110/20111028115237001.gif" align=middle>，有序实数组<IMG style="FILTER: none" border=0 src="http://pic1.mofangge.com/upload/secpic/201110/20111028113649001.gif" align=middle>叫作向量<IMG style="FILTER: none" border=0 src="http://pic1.mofangge.com/upload/secpic/201110/20111028113614001.gif" align=middle>在空间直角坐标系<IMG style="FILTER: none" border=0 src="http://pic1.mofangge.com/upload/secpic/201110/20111028115307001.gif" align=middle>中的坐标，记作<IMG style="FILTER: none" border=0 src="http://pic1.mofangge.com/upload/secpic/201110/20111028115324001.gif" align=middle>。<BR><IMG border=0 src="http://pic1.mofangge.com/upload/secpic/201110/20111028115343001.gif"><BR>&nbsp;<BR></P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>空间向量的理解：</STRONG></P>
+<P>（1）向量一般用有向线段表示，同向等长的有向线段表示同一或相等的向量； <BR>（2）空间的两个向量可用同一平面内的两条有向线段来表示。 <BR></P></div></li></ul></div>
+                        <div class="seccopyright">
+                            以上内容为魔方格学习社区（www.mofangge.com）原创内容，未经允许不得转载！</div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai"  id="q_indexkuai6">
+                <div class="q_indextitle" id="q_indexkuai61"> 
+                    <div class="q_indextitle3" id="q_indextitle3">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai7">
+                <div class="q_mktitle" id="q_indexkuai71">
+                    发现相似题</div>
+                <div class="q_content" id="q_indexkuai72">
+                    <div class="q_sameline" id="q_indexkuai721">
+                        与<span>“如图，在四棱锥P&shy;ABCD中，PD⊥平面ABCD，四边形ABCD是菱形，..”</span>考查相似的试题有：</div>
+                    <div class="q_bot" id="q_indexkuai722">
+                        <!-- $xiangsiqidlist$ -->
+                        <table border="0" cellpadding="1" class="nearQues" style="line-height: 24px;">
+                            <thead>
+                                <tr>
+                                    <th width="15%">
+                                        试题ID
+                                    </th>
+                                    <th>
+                                        试题题文
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>792644</td><td><a href="http://www.mofangge.com/html/qDetail/02/g3/201408/glaeg302792644.html"></a></td></tr><tr><td>882146</td><td><a href="http://www.mofangge.com/html/qDetail/02/g1/201408/ey16g102882146.html">给出下列结论：①若，，则；②若，则；③；④为非零不共线，若；⑤非零..</a></td></tr><tr><td>812854</td><td><a href="http://www.mofangge.com/html/qDetail/02/g2/201408/vfm3g202812854.html">已知空间三点,则以AB，AC为边的平行四边形的面积____</a></td></tr><tr><td>888075</td><td><a href="http://www.mofangge.com/html/qDetail/02/g3/201408/4x1zg302888075.html">如图，在棱长为a的正方体ABCD－A1B1C1D1中，G为△BC1D的重心，(1)求..</a></td></tr><tr><td>876532</td><td><a href="http://www.mofangge.com/html/qDetail/02/g3/201408/lahzg302876532.html">如图,已知四边形ABCD和BCEG均为直角梯形，AD∥BC，CE∥BG，且，平面..</a></td></tr><tr><td>786051</td><td><a href="http://www.mofangge.com/html/qDetail/02/g2/201408/mgdkg202786051.html">设向量是空间一个基底，则一定可以与向量构成空间的另一个基底的..</a></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="q_right">
+            <!--<script type="text/javascript">BAIDU_CLB_fillSlot("762611");</script>-->
+            <div id="container_ext">
+            </div>
+            <!--<div class="Extra_right" id="Extra_right">
+            <div class="Extra_right1">
+                    <div class="div1" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_3">
+                        <div class="image1">
+                        </div>
+                    </div>
+                    <div class="div2" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_4">
+                    </div>
+                    <div class="div1" onclick="addfavorite()">
+                        <div class="image2">
+                        </div>
+                    </div>
+                    <div class="div2" id="keep_detail" onclick="addfavorite()">
+                    </div>
+                    <div class="div4">
+                        <div class="image3">
+                        </div>
+                        <div class="div3">
+                        </div>
+                        <div id="turn_weixin">
+                        </div>
+                        <p class="dttaildes">
+                            扫一扫，有惊喜</p>
+                    </div>
+                    <div class="div6">
+                        <iframe src="http://open.qzone.qq.com/like?url=http%3A%2F%2Fuser.qzone.qq.com%2F17175515&type=button_num&width=400&height=30&style=2 
+
+" allowtransparency="true" scrolling="no" border="0" frameborder="0" style="width: 400px; height: 30px; border: none;
+                            overflow: hidden;"></iframe>
+                            <iframe id="review" height="24" marginheight="0" src="http://follow.v.t.qq.com/index.php?c=follow&amp;a=quick&amp;appkey=801507580&amp;sign=bab9dd3a&amp;v=2&amp;name=mofangge520&amp;style=5&amp;t=1400310722678&amp;f=0" frameborder="0" width="125" allowtransparency="" marginwidth="0"></iframe>
+                        <p>
+                           <img src="/css/style1/forqdetail/threejt.png" width="54px" height="21px" style="vertical-align:middle;"> 关注QQ空间<br>
+                            学习秘籍，尽在此地</p>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+     </div>
+    <div class="copyright">
+        <div id="MFG_Features">“魔方格学习社区”各栏目介绍之--试题搜索：千万道试题，涵盖中小学十二学年九大学科，绝无仅有的学习领地，访问www.mofangge.com，只会让你更多的惊讶。</div><script type="text/javascript" src="/js/comm/mfgconfig.js"></script>
+        © 2014 <a href="http://www.mofangge.com" style="color: White">魔方格</a> 版权所有
+        <span id="thispage_lastlog_time"> 最后访问时间：2015-08-30 22:42:25</span>
+    </div>
+</body>
+
+<script src="/js/inc/mootools-core.js" type="text/javascript"></script>
+
+<script src="/js/comm/comm.js" type="text/javascript"></script>
+
+<script src="/js/comm/mfg_debug.js" type="text/javascript"></script>
+
+<script src="/js/comm/Ques_comm.js" type="text/javascript"></script>
+
+<script src="/js/app/qdetail/qdetail1.js?v=20150130" type="text/javascript"></script>
+
+</html>

@@ -1,0 +1,276 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>一个物体由静止开始以加速度a1匀加速运动，经过一段时间后加速度突然反向，且大小变为a2，经过相同时间恰好回到出发点，速度大小为5m/s．求：（1）a1a2的值；（2）物体加速度改变时-高一物理-魔方格</title>
+    <meta name="renderer" content="webkit" />
+    <link id="favicon" href="/logo.ico" rel="icon" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="一个物体由静止开始以加速度a1匀加速运动，经过一段时间后加速度突然反向，且大小变为a2，经过相同时间恰好回到出发点，速度大小为5m/s．求：（1）a1a2的值；（2）物体加速度改变时-高一物理-魔方格" />
+    <meta name="keywords" content="一个物体由静止开始以加速度a1匀加速运动，经过一段时间后加速度突然反向，且大小变为a2，经过相同时间恰好回到出发点，速度大小为5m/s．求：（1）a1a2的值；（2）物体加速度改变时-高一物理-魔方格" />
+    <link href="/css/style1/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style1/forqdetail1.css" rel="stylesheet" type="text/css" />
+    <link href="http://bdimg.share.baidu.com/static/css/bdsstyle.css?cdnversion=20130704"
+        rel="stylesheet" type="text/css">
+
+    <script src="http://bdimg.share.baidu.com/static/js/logger.js?cdnversion=382066"></script>
+
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+
+</head>
+<body>
+    <div class="head">
+        <a class="goback1" href="javascript:void(0)" id="gohome_cl_1"></a>
+        <ul id="menu_daohang" class="menu">
+            <a href="javascript:void(0)" id="gohome_cl_2">首页</a> <span class="current">试题专页</span>
+        </ul>
+        <ul class="user_but" id="main_user_info">
+            <li id="gohome_reg_1">注册</li>
+            <li id="gohome_login_1">登录</li>
+        </ul>
+    </div>
+    <div class="bgcolorshow">
+        <!--为了兼容占位-->
+    </div>
+    <div class="content">
+        <div class="nagetivebanner">
+            <div class="teach_note">
+                <div id="teach_notetxt" class="teach_notepic">
+                </div>
+            </div>
+            <div id="teach_detail" class="teach_detail">
+                <span id="teach_detail1"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail2"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail3"></span>
+            </div>
+        </div>
+        <div class="nagetivebanner1">
+            <div class="seotop">
+                <span class="seotops">当前位置：<a href="http://www.mofangge.com" id="gohome_hr_1">魔方格</a>
+                    ＞<a href="http://www.mofangge.com/qlist/wuli/" title="物理">物理</a>＞<a href="http://www.mofangge.com/qlist/wuli/353/" title="匀变速直线运动的位移与速度的关系">匀变速直线..</a>＞一个物体由静止开始以加速度a1匀加速运动，经过一段时间后加速度..</span>
+            </div>
+        </div>
+        <div style="float: left; width: 720px;">
+            <div class="q_mokuai" id="q_indexkuai1">
+                <div class="q_indextitle" id="q_indexkuai11">
+                    <div class="q_indextitle1" id="q_indextitle1">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai2">
+                <div class="q_mktitle" id="q_indexkuai21">
+                    题文</div>
+                <div class="q_content" id="q_indexkuai22">
+                    <div class="q_bot" id="q_indexkuai221">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><span ></span>一个物体由静止开始以加速度a<sub>1</sub>匀加速运动，经过一段时间后加速度突然反向，且大小变为a<sub>2</sub>，经过相同时间恰好回到出发点，速度大小为5m/s．求：<br>（1）<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%"><span><span>a</span><span style="vertical-align:sub;font-size:90%">1</span></span></td></tr><tr><td ><span><span>a</span><span style="vertical-align:sub;font-size:90%">2</span></span></td></tr></table></span>的值；<br>（2）物体加速度改变时速度的大小．</TD></TR></TBODY></TABLE>
+                        <div class="provider" id="q_indexkuai2211">
+                            <div class="splitline">
+                            </div>
+                            <div class="right rightDiv" id="q_indexkuai22111">
+                                <span>题型：问答题</span><span>难度：中档</span><span>来源：不详</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai3">
+                <div class="q_mktitle" id="q_indextitle4">
+                    答案</div>
+                <div class="q_content" id="q_indexkuai32">
+                    <div class="q_bot" id="q_indexkuai321">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD>解析：如图，物体的运动共有两个过程，前一过程加速，后一过程减速，且两过程的共同点是时间相等（设为t），位移大小相等（设为S）．<br><img alt="" src="http://pic2.mofangge.com/upload/papers//20140611/20140611100513413765.png" ><br>根据位移-速度公式有：<br>匀加速过程中有：<span  mathtag="math" ><table cellspacing="0" cellpadding="0" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;"><tr><td>v</td><td >2m</td></tr></table>=2<span><span>a</span><span style="vertical-align:sub;font-size:90%">1</span></span>S</span> ①<br>匀减速过程中有：<span  mathtag="math" ><span><span>5</span><span style="vertical-align:super;font-size:90%">2</span></span>-<table cellspacing="0" cellpadding="0" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;"><tr><td>v</td><td >2m</td></tr></table>=2<span><span>a</span><span style="vertical-align:sub;font-size:90%">2</span></span>S</span>②<br>由<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black">①</td></tr><tr><td>②</td></tr></table></span>得：<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%"><span><span>a</span><span style="vertical-align:sub;font-size:90%">1</span></span></td></tr><tr><td ><span><span>a</span><span style="vertical-align:sub;font-size:90%">2</span></span></td></tr></table>=<table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%"><table cellspacing="0" cellpadding="0" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;"><tr><td>v</td><td >2m</td></tr></table></td></tr><tr><td ><span><span>5</span><span style="vertical-align:super;font-size:90%">2</span></span>-<table cellspacing="0" cellpadding="0" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;"><tr><td>v</td><td >2m</td></tr></table></td></tr></table></span> ③<br>又根据速度-时间公式得<br>v<sub>m</sub>=a<sub>1</sub>t ④<br>-5=v<sub>m</sub>-a<sub>2</sub>t ⑤<br><span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black">④</td></tr><tr><td>⑤</td></tr></table></span>得<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%"><span><span>a</span><span style="vertical-align:sub;font-size:90%">1</span></span></td></tr><tr><td ><span><span>a</span><span style="vertical-align:sub;font-size:90%">2</span></span></td></tr></table>=<table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%"><span><span>v</span><span style="vertical-align:sub;font-size:90%">m</span></span></td></tr><tr><td ><span><span>v</span><span style="vertical-align:sub;font-size:90%">m</span></span>+5</td></tr></table></span> ⑥<br>联立③⑥解得<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%"><span><span>v</span><span style="vertical-align:sub;font-size:90%">m</span></span></td></tr><tr><td >5-<span><span>v</span><span style="vertical-align:sub;font-size:90%">m</span></span></td></tr></table>=1</span>，即v<sub>m</sub>=2.5m/s<br>将v<sub>m</sub>=2.5m/s值代入⑥得<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%"><span><span>a</span><span style="vertical-align:sub;font-size:90%">1</span></span></td></tr><tr><td ><span><span>a</span><span style="vertical-align:sub;font-size:90%">2</span></span></td></tr></table></span>=<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black">1</td></tr><tr><td>3</td></tr></table></span>．<br>答：（1）<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%"><span><span>a</span><span style="vertical-align:sub;font-size:90%">1</span></span></td></tr><tr><td ><span><span>a</span><span style="vertical-align:sub;font-size:90%">2</span></span></td></tr></table></span>=<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black">1</td></tr><tr><td>3</td></tr></table></span><br>（2）物体加速度改变时的速度大小v<sub>m</sub>=2.5m/s．</TD></TR></TBODY></TABLE>
+                        <div class="right beShare" id="q_indexkuai3211">
+                            <span class="share_note">马上分享给同学</span>
+                            <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
+                                <a class="bds_qzone"></a><a class="bds_tieba"></a><a class="bds_hi"></a><a class="bds_sqq">
+                                </a><span class="bds_more"></span><a class="shareCount"></a>
+                            </div>
+
+                            <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=523656"></script>
+
+                            <script type="text/javascript" id="bdshell_js"></script>
+
+                            <script type="text/javascript">
+                                document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                            </script>
+
+                            <!-- Baidu Button END -->
+                        </div>
+                        <div class="provider" id="q_indexkuai3212">
+                            <div class="splitline">
+                            </div>
+                            <ul class="qditaltools" id="ques_tools">
+                                <li><a class="tools_jc" id="qdebug">揪错</a></li>
+                                <li><a class="tools_sc" id="b2tocollect">收藏</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="ad_center">
+
+               <!-- <script type="text/javascript">                    BAIDU_CLB_fillSlot("762612");</script>-->
+
+            </div>
+            <div class="q_mokuai" id="q_indexkuai4">
+                <div class="q_indextitle" id="q_indexkuai41">
+                    <div class="q_indextitle2" id="q_indextitle2">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai5">
+                <div class="q_content" id="q_indexkuai51">
+                    <div class="q_bot" id="q_indexkuai511">
+                        <div class="SecTotal">
+                            据魔方格专家权威分析，试题“一个物体由静止开始以加速度a1匀加速运动，经过一段时间后加速度..”主要考查你对&nbsp;&nbsp;<span id="seclist"><span class="secname">匀变速直线运动的位移与速度的关系</span></span>&nbsp;&nbsp;等考点的理解。关于这些考点的“档案”如下：</div>
+                        <div class="linote">
+                            现在没空？<span class="btn" onclick="addfavorite()">点击收藏</span>，以后再看。</div>
+                        <div class="linote">
+                            因为篇幅有限，只列出部分考点，详细请访问<a class="btn" href="http://www.mofangge.com" target="_blank"
+                                id="gohome_hr_2">魔方格学习社区</a>。</div>
+                    </div>
+                    <div class="secchkdiv"  id="q_indexkuai512">
+                        <div class="secchkPanel" id="secchkPanel">
+                            <span class="CheckedPanel" id="panel353" title="匀变速直线运动的位移与速度的关系">匀变速直线运动的位移与速度的关系</span>
+                            <div class="clearfix">
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 20px; display: block; width: 300px;">
+                    </div>
+                    <div class="q_bot" id="secinfoPanel">
+                        <div class="q_bot" id="secInfo_353"><div class="secinfo">考点名称：<span class="secname">匀变速直线运动的位移与速度的关系</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>匀变速直线运动的速度-位移公式：</STRONG></P>
+<P>v<SUB>t</SUB><SUP>2</SUP>-v<SUB>0</SUB><SUP>2</SUP>=2as。</P>
+<P><STRONG>适用条件：</STRONG></P>
+<P>匀变速直线运动</P>
+<P>&nbsp;</P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>匀变速直线运动的速度-位移公式推导：</STRONG></P>
+<P>由<IMG style="VERTICAL-ALIGN: middle; WIDTH: 73px; HEIGHT: 28px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/201310300956023611116.png">可得<IMG style="VERTICAL-ALIGN: middle; WIDTH: 84px; HEIGHT: 44px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030095602673883.png">，将t代入<IMG style="VERTICAL-ALIGN: middle; WIDTH: 115px; HEIGHT: 45px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/201310300956030791399.png">有<IMG style="VERTICAL-ALIGN: middle; WIDTH: 149px; HEIGHT: 47px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/201310300956035001609.png"><IMG style="VERTICAL-ALIGN: middle; WIDTH: 369px; HEIGHT: 57px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/201310300956038274330.png">，即<IMG style="VERTICAL-ALIGN: middle; WIDTH: 120px; HEIGHT: 40px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/201310300956042171499.png"></P>
+<P><STRONG>注意：</STRONG></P>
+<P>①<IMG style="VERTICAL-ALIGN: middle; WIDTH: 109px; HEIGHT: 33px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/201310300956044671556.png">是由公式<IMG style="VERTICAL-ALIGN: middle; WIDTH: 223px; HEIGHT: 45px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/201310300956047322482.png">推导而出，一般情况下，对同一过程不能联立三式求解。<BR>②关系式<IMG style="VERTICAL-ALIGN: middle; WIDTH: 118px; HEIGHT: 33px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/201310300956049821442.png">中一共有四个物理量，若求其中的一个物理量，需要知道其他的三个物理量。由<IMG style="VERTICAL-ALIGN: middle; WIDTH: 118px; HEIGHT: 33px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/201310300956052471442.png">可推得<IMG style="VERTICAL-ALIGN: middle; WIDTH: 135px; HEIGHT: 45px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/201310300956054971724.png">（v取正值还是负值根据情况判断），<IMG style="VERTICAL-ALIGN: middle; WIDTH: 112px; HEIGHT: 50px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/201310300956061521431.png"><BR>③位移与速度的关系式<IMG style="VERTICAL-ALIGN: middle; WIDTH: 118px; HEIGHT: 40px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/201310300956064171454.png">为矢量式，应用它解题时，若规定初速度<IMG style="VERTICAL-ALIGN: middle; WIDTH: 22px; HEIGHT: 28px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030095606635549.png">的方向为正方向，a与<IMG style="VERTICAL-ALIGN: middle; WIDTH: 22px; HEIGHT: 28px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030095606869549.png">同向时为正值，物体做匀加速运动，a与<IMG style="VERTICAL-ALIGN: middle; WIDTH: 22px; HEIGHT: 28px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030095607181549.png">反向时为负值，物体做匀减速运动。位移<IMG style="VERTICAL-ALIGN: middle; WIDTH: 37px; HEIGHT: 24px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030095607415842.png">，说明物体通过的位移的方向与物体的初速度的方向相同，位移<IMG style="VERTICAL-ALIGN: middle; WIDTH: 34px; HEIGHT: 24px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030095607696797.png">，说明位移的方向与初速度的方向相反。</P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>知识点拨：</STRONG></P>
+<P><STRONG>对位移和速度关系的两点提醒：</STRONG></P>
+<OL>
+<LI>注意同一性，即<IMG style="VERTICAL-ALIGN: middle; WIDTH: 116px; HEIGHT: 29px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/201310300956079461279.png">应是同一研究对象在同一运动过程中的初速度、末速度、加速度及发生的位移。</LI>
+<LI>注意矢量性，即以<IMG style="VERTICAL-ALIGN: middle; WIDTH: 24px; HEIGHT: 37px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030095608164573.png">方向为正方向，其余三量与初速度的方向相同则为正，相反则为负。</LI></OL>
+<P><STRONG>当初速度为零时：</STRONG></P>
+<P>
+<TABLE style="WORD-BREAK: break-all; BORDER-TOP-STYLE: solid; BORDER-RIGHT-STYLE: solid; BORDER-LEFT-STYLE: solid; BORDER-COLLAPSE: collapse; BORDER-BOTTOM-STYLE: solid" borderColor=infotext cellSpacing=0 cellPadding=0 width=600 bgColor=highlighttext border=1>
+<TBODY>
+<TR>
+<TD></TD>
+<TD>初速度为<IMG style="VERTICAL-ALIGN: middle; WIDTH: 22px; HEIGHT: 31px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030100425384495.png"></TD>
+<TD>初速度为0</TD></TR>
+<TR>
+<TD>速度公式</TD>
+<TD><IMG style="VERTICAL-ALIGN: middle; WIDTH: 91px; HEIGHT: 26px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/201310301004256021010.png"></TD>
+<TD><IMG style="VERTICAL-ALIGN: middle; WIDTH: 59px; HEIGHT: 28px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030100425836683.png"></TD></TR>
+<TR>
+<TD>位移公式</TD>
+<TD><IMG style="VERTICAL-ALIGN: middle; WIDTH: 145px; HEIGHT: 40px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/201310301004260701378.png"></TD>
+<TD><IMG style="VERTICAL-ALIGN: middle; WIDTH: 85px; HEIGHT: 37px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/20131030100426460981.png"></TD></TR>
+<TR>
+<TD>速度—位移公式</TD>
+<TD><IMG style="VERTICAL-ALIGN: middle; WIDTH: 128px; HEIGHT: 33px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/201310301004266941242.png"></TD>
+<TD><IMG style="VERTICAL-ALIGN: middle; WIDTH: 87px; HEIGHT: 27px" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131030/201310301004269441065.png"></TD></TR></TBODY></TABLE></P></div></li></ul></div>
+                        <div class="seccopyright">
+                            以上内容为魔方格学习社区（www.mofangge.com）原创内容，未经允许不得转载！</div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai"  id="q_indexkuai6">
+                <div class="q_indextitle" id="q_indexkuai61"> 
+                    <div class="q_indextitle3" id="q_indextitle3">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai7">
+                <div class="q_mktitle" id="q_indexkuai71">
+                    发现相似题</div>
+                <div class="q_content" id="q_indexkuai72">
+                    <div class="q_sameline" id="q_indexkuai721">
+                        与<span>“一个物体由静止开始以加速度a1匀加速运动，经过一段时间后加速度..”</span>考查相似的试题有：</div>
+                    <div class="q_bot" id="q_indexkuai722">
+                        <!-- $xiangsiqidlist$ -->
+                        <table border="0" cellpadding="1" class="nearQues" style="line-height: 24px;">
+                            <thead>
+                                <tr>
+                                    <th width="15%">
+                                        试题ID
+                                    </th>
+                                    <th>
+                                        试题题文
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>289486</td><td><a href="http://www.mofangge.com/html/qDetail/04/g1/201406/mcmkg104289486.html">火车运行速度较大，车轮与铁轨间的动摩擦因数较小，火车遇险紧急..</a></td></tr><tr><td>294630</td><td><a href="http://www.mofangge.com/html/qDetail/04/g1/201406/onhzg104294630.html">汽车由静止出发做匀加速直线运动（汽车自身长度忽略不计），一段时..</a></td></tr><tr><td>114470</td><td><a href="http://www.mofangge.com/html/qDetail/04/g1/201202/z0p0g104114470.html">一物体由静止沿光滑的斜面匀加速下滑距离为L时，速度为v，当它的..</a></td></tr><tr><td>108750</td><td><a href="http://www.mofangge.com/html/qDetail/04/g1/201110/nhvcg104108750.html">一物体做匀加速直线运动，通过其轨迹上的a点时速度为va=2m/s，通..</a></td></tr><tr><td>85491</td><td><a href="http://www.mofangge.com/html/qDetail/04/g1/201011/hlwxg10485491.html">由静止开始做匀加速运动的火车，第10s末的速度为2m／s，则[]A．第1..</a></td></tr><tr><td>236171</td><td><a href="http://www.mofangge.com/html/qDetail/04/g0/201312/8ldog004236171.html">在某旅游景区，建有一山坡滑草运动项目．如图所示，设山坡AB可看成..</a></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="q_right">
+            <!--<script type="text/javascript">BAIDU_CLB_fillSlot("762611");</script>-->
+            <div id="container_ext">
+            </div>
+            <!--<div class="Extra_right" id="Extra_right">
+            <div class="Extra_right1">
+                    <div class="div1" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_3">
+                        <div class="image1">
+                        </div>
+                    </div>
+                    <div class="div2" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_4">
+                    </div>
+                    <div class="div1" onclick="addfavorite()">
+                        <div class="image2">
+                        </div>
+                    </div>
+                    <div class="div2" id="keep_detail" onclick="addfavorite()">
+                    </div>
+                    <div class="div4">
+                        <div class="image3">
+                        </div>
+                        <div class="div3">
+                        </div>
+                        <div id="turn_weixin">
+                        </div>
+                        <p class="dttaildes">
+                            扫一扫，有惊喜</p>
+                    </div>
+                    <div class="div6">
+                        <iframe src="http://open.qzone.qq.com/like?url=http%3A%2F%2Fuser.qzone.qq.com%2F17175515&type=button_num&width=400&height=30&style=2 
+
+" allowtransparency="true" scrolling="no" border="0" frameborder="0" style="width: 400px; height: 30px; border: none;
+                            overflow: hidden;"></iframe>
+                            <iframe id="review" height="24" marginheight="0" src="http://follow.v.t.qq.com/index.php?c=follow&amp;a=quick&amp;appkey=801507580&amp;sign=bab9dd3a&amp;v=2&amp;name=mofangge520&amp;style=5&amp;t=1400310722678&amp;f=0" frameborder="0" width="125" allowtransparency="" marginwidth="0"></iframe>
+                        <p>
+                           <img src="/css/style1/forqdetail/threejt.png" width="54px" height="21px" style="vertical-align:middle;"> 关注QQ空间<br>
+                            学习秘籍，尽在此地</p>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+     </div>
+    <div class="copyright">
+        <div id="MFG_Features">“魔方格学习社区”各栏目介绍之--考点百科：涵盖中小学十二学年九大学科所有的考点百科知识，定义类、定理类、导图类、特性类、点拨类，应有尽有，绝对是你的课前预习好帮手，前往www.mofangge.com，垂手可得。</div><script type="text/javascript" src="/js/comm/mfgconfig.js"></script>
+        © 2014 <a href="http://www.mofangge.com" style="color: White">魔方格</a> 版权所有
+        <span id="thispage_lastlog_time"> 最后访问时间：2015-08-31 12:40:24</span>
+    </div>
+</body>
+
+<script src="/js/inc/mootools-core.js" type="text/javascript"></script>
+
+<script src="/js/comm/comm.js" type="text/javascript"></script>
+
+<script src="/js/comm/mfg_debug.js" type="text/javascript"></script>
+
+<script src="/js/comm/Ques_comm.js" type="text/javascript"></script>
+
+<script src="/js/app/qdetail/qdetail1.js?v=20150130" type="text/javascript"></script>
+
+</html>

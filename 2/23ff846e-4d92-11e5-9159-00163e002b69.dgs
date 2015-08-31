@@ -1,0 +1,284 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>宇航员在绕地球做圆周运动的空间站内研究处于完全失重状态下弹簧振子的周期T与振子质量m的关系．身边的器材有：弹簧、完全相同的螺帽若干个、天平、秒表、刻度尺、温度计等．（1-物理-魔方格</title>
+    <meta name="renderer" content="webkit" />
+    <link id="favicon" href="/logo.ico" rel="icon" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="宇航员在绕地球做圆周运动的空间站内研究处于完全失重状态下弹簧振子的周期T与振子质量m的关系．身边的器材有：弹簧、完全相同的螺帽若干个、天平、秒表、刻度尺、温度计等．（1-物理-魔方格" />
+    <meta name="keywords" content="宇航员在绕地球做圆周运动的空间站内研究处于完全失重状态下弹簧振子的周期T与振子质量m的关系．身边的器材有：弹簧、完全相同的螺帽若干个、天平、秒表、刻度尺、温度计等．（1-物理-魔方格" />
+    <link href="/css/style1/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style1/forqdetail1.css" rel="stylesheet" type="text/css" />
+    <link href="http://bdimg.share.baidu.com/static/css/bdsstyle.css?cdnversion=20130704"
+        rel="stylesheet" type="text/css">
+
+    <script src="http://bdimg.share.baidu.com/static/js/logger.js?cdnversion=382066"></script>
+
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+
+</head>
+<body>
+    <div class="head">
+        <a class="goback1" href="javascript:void(0)" id="gohome_cl_1"></a>
+        <ul id="menu_daohang" class="menu">
+            <a href="javascript:void(0)" id="gohome_cl_2">首页</a> <span class="current">试题专页</span>
+        </ul>
+        <ul class="user_but" id="main_user_info">
+            <li id="gohome_reg_1">注册</li>
+            <li id="gohome_login_1">登录</li>
+        </ul>
+    </div>
+    <div class="bgcolorshow">
+        <!--为了兼容占位-->
+    </div>
+    <div class="content">
+        <div class="nagetivebanner">
+            <div class="teach_note">
+                <div id="teach_notetxt" class="teach_notepic">
+                </div>
+            </div>
+            <div id="teach_detail" class="teach_detail">
+                <span id="teach_detail1"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail2"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail3"></span>
+            </div>
+        </div>
+        <div class="nagetivebanner1">
+            <div class="seotop">
+                <span class="seotops">当前位置：<a href="http://www.mofangge.com" id="gohome_hr_1">魔方格</a>
+                    ＞<a href="http://www.mofangge.com/qlist/wuli/" title="物理">物理</a>＞<a href="http://www.mofangge.com/qlist/wuli/458/" title="弹簧振子">弹簧振子</a>＞宇航员在绕地球做圆周运动的空间站内研究处于完全失重状态下弹簧..</span>
+            </div>
+        </div>
+        <div style="float: left; width: 720px;">
+            <div class="q_mokuai" id="q_indexkuai1">
+                <div class="q_indextitle" id="q_indexkuai11">
+                    <div class="q_indextitle1" id="q_indextitle1">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai2">
+                <div class="q_mktitle" id="q_indexkuai21">
+                    题文</div>
+                <div class="q_content" id="q_indexkuai22">
+                    <div class="q_bot" id="q_indexkuai221">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><span ></span>宇航员在绕地球做圆周运动的空间站内研究处于完全失重状态下弹簧振子的周期T与振子质量m的关系．<br>身边的器材有：弹簧、完全相同的螺帽若干个、天平、秒表、刻度尺、温度计等．<br>（1）宇航员利用上述器材中的螺帽和弹簧连接组成弹簧振子，为完成实验，还应从中选择的一个器材是______．<br>（2）某次实验测量的数据记录如下表：<br>
+<table style="margin-left:0px;width:650px;">
+<tbody>
+<tr>
+<td width="156">螺帽的数量n（个）</td>
+<td width="69">1</td>
+<td width="69">2</td>
+<td width="69">3</td>
+<td width="69">4</td>
+<td width="69">5</td></tr>
+<tr>
+<td>30次全振动的时间t（s）</td>
+<td>13.40</td>
+<td>19.20</td>
+<td>23.21</td>
+<td>26.83</td>
+<td>30.01</td></tr>
+<tr>
+<td>振动周期T（s）</td>
+<td>0.45</td>
+<td>0.64</td>
+<td>0.77</td>
+<td>0.89</td>
+<td>1.00</td></tr></tbody></table>为了得出T与m的关系，他先研究T与n的关系，并采用作图的方法处理实验数据．他以螺帽的个数n为横坐标得出一条倾斜直线，那么他是以______为纵坐标的．由表中数据，在图示坐标系中作出该直线．<br>（3）根据作出的图线，得出T与n的关系式为T=______（s）．若每个螺帽的质量用m<sub>0</sub>表示，则T与m的关系式为T=______（s）．<br>（4）若用一未知质量的物体做振子时，测得周期为1.26s，则该物体质量为______m<sub>0</sub>．<div><img alt="魔方格" src="http://pic2.mofangge.com/upload/papers//20130925/201309252102329233311.png" ></div></TD></TR></TBODY></TABLE></body>
+                        <div class="provider" id="q_indexkuai2211">
+                            <div class="splitline">
+                            </div>
+                            <div class="right rightDiv" id="q_indexkuai22111">
+                                <span>题型：问答题</span><span>难度：中档</span><span>来源：不详</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai3">
+                <div class="q_mktitle" id="q_indextitle4">
+                    答案</div>
+                <div class="q_content" id="q_indexkuai32">
+                    <div class="q_bot" id="q_indexkuai321">
+                        <TABLE style="WORD-BREAK: break-all" width=650 ><TBODY><TR><TD><br/><img alt="魔方格" src="http://pic2.mofangge.com/upload/papers//20130925/2013092521023293924640.png" ><br/>（1）宇航员利用螺帽和弹簧连接组成弹簧振子，为完成实验，还需要用秒表测时间．<br>（2）研究各组数据之间的关系如下：<br>第1组与第2组：n之比：<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%"><span><span>n</span><span style="vertical-align:sub;font-size:90%">2</span></span></td></tr><tr><td ><span><span>n</span><span style="vertical-align:sub;font-size:90%">1</span></span></td></tr></table></span>=2，<br>周期之比：<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%"><span><span>T</span><span style="vertical-align:sub;font-size:90%">2</span></span></td></tr><tr><td ><span><span>T</span><span style="vertical-align:sub;font-size:90%">1</span></span></td></tr></table></span>≈1.42，<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%"><table cellspacing="0" cellpadding="0" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;"><tr><td>T</td><td >22</td></tr></table></td></tr><tr><td ><table cellspacing="0" cellpadding="0" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;"><tr><td>T</td><td >21</td></tr></table></td></tr></table></span>≈2.02，<br>第1组与第3组：n之比：<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%"><span><span>n</span><span style="vertical-align:sub;font-size:90%">3</span></span></td></tr><tr><td ><span><span>n</span><span style="vertical-align:sub;font-size:90%">1</span></span></td></tr></table></span>=3，<br>周期之比：<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%"><span><span>T</span><span style="vertical-align:sub;font-size:90%">3</span></span></td></tr><tr><td ><span><span>T</span><span style="vertical-align:sub;font-size:90%">1</span></span></td></tr></table></span>≈1.73，<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%"><table cellspacing="0" cellpadding="0" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;"><tr><td>T</td><td >23</td></tr></table></td></tr><tr><td ><table cellspacing="0" cellpadding="0" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;"><tr><td>T</td><td >22</td></tr></table></td></tr></table></span>≈2.97，<br>第1组与第4组：n之比：<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%"><span><span>n</span><span style="vertical-align:sub;font-size:90%">4</span></span></td></tr><tr><td ><span><span>n</span><span style="vertical-align:sub;font-size:90%">1</span></span></td></tr></table></span>=4，周期之比：<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%"><span><span>T</span><span style="vertical-align:sub;font-size:90%">4</span></span></td></tr><tr><td ><span><span>T</span><span style="vertical-align:sub;font-size:90%">1</span></span></td></tr></table></span>≈2，<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black;padding-bottom:1px;font-size:90%"><table cellspacing="0" cellpadding="0" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;"><tr><td>T</td><td >24</td></tr></table></td></tr><tr><td ><table cellspacing="0" cellpadding="0" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;"><tr><td>T</td><td >21</td></tr></table></td></tr></table></span>=4，<br>…<br>由此可见，T<sup>2</sup>与n成正比．所以他以螺帽的个数n为横坐标得出一条倾斜直线，应以T<sup>2</sup>为纵坐标．<br>列表如下，应用描点法作图，如图所示． 
+<table style="margin-left:0px;width:650px;">
+<tbody>
+<tr>
+<td width="84">n（个）</td>
+<td width="84">1</td>
+<td width="84">2</td>
+<td width="84">3</td>
+<td width="84">4</td>
+<td width="84">5</td></tr>
+<tr>
+<td>T<sup>2</sup>（s<sup>2</sup>）</td>
+<td>0.20</td>
+<td>0.40</td>
+<td>0.60</td>
+<td>0.80</td>
+<td>1.00</td></tr></tbody></table>（3）由于T<sup>2</sup>与n正比，得到T<sup>2</sup>=kn，由图象可知：n=4，T<sup>2</sup>=0.8，代入T<sup>2</sup>=kn得到，k≈0.2，有T=<span dealflag="1"  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;"><tr><td ><div style="width:6px;background:url('http://pic2.mofangge.com/images/part/8730U.png') repeat-y; height: 1px;overflow: hidden" muststretch="v"></div><div style="width:6px;background:url('http://pic2.mofangge.com/images/part/8730D.png') no-repeat; height: 7px; overflow: hidden"></div></td><td style="padding:0;padding-left: 2px; border-top: black 1px solid;line-height:normal">0.2n</td></tr></table></span>．<br>由于m=nm<sub>0</sub>，则n=<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black">m</td></tr><tr><td ><span><span>m</span><span style="vertical-align:sub;font-size:90%">0</span></span></td></tr></table></span>；所以T=<span dealflag="1"  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;"><tr><td ><div style="width:6px;background:url('http://pic2.mofangge.com/images/part/8730U.png') repeat-y; height: 1px;overflow: hidden" muststretch="v"></div><div style="width:6px;background:url('http://pic2.mofangge.com/images/part/8730D.png') no-repeat; height: 7px; overflow: hidden"></div></td><td style="padding:0;padding-left: 2px; border-top: black 1px solid;line-height:normal">0.2n</td></tr></table></span>=<span dealflag="1"  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;"><tr><td ><div style="width:6px;background:url('http://pic2.mofangge.com/images/part/8730U.png') repeat-y; height: 1px;overflow: hidden" muststretch="v"></div><div style="width:6px;background:url('http://pic2.mofangge.com/images/part/8730D.png') no-repeat; height: 7px; overflow: hidden"></div></td><td style="padding:0;padding-left: 2px; border-top: black 1px solid;line-height:normal;padding-top:1px"><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black">0.2m</td></tr><tr><td ><span><span>m</span><span style="vertical-align:sub;font-size:90%">0</span></span></td></tr></table></td></tr></table></span>；<br>（4）测得周期为1.26s，代入T=<span dealflag="1"  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;"><tr><td ><div style="width:6px;background:url('http://pic2.mofangge.com/images/part/8730U.png') repeat-y; height: 1px;overflow: hidden" muststretch="v"></div><div style="width:6px;background:url('http://pic2.mofangge.com/images/part/8730D.png') no-repeat; height: 7px; overflow: hidden"></div></td><td style="padding:0;padding-left: 2px; border-top: black 1px solid;line-height:normal">0.2n</td></tr></table></span>得到，n=7.94．则该物体质量为7.94m<sub>0</sub>．<br>故答案为：（1）秒表；（2）T<sup>2</sup>；图象如图所示；（3）T=<span dealflag="1"  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;"><tr><td ><div style="width:6px;background:url('http://pic2.mofangge.com/images/part/8730U.png') repeat-y; height: 1px;overflow: hidden" muststretch="v"></div><div style="width:6px;background:url('http://pic2.mofangge.com/images/part/8730D.png') no-repeat; height: 7px; overflow: hidden"></div></td><td style="padding:0;padding-left: 2px; border-top: black 1px solid;line-height:normal">0.2n</td></tr></table></span>；<span dealflag="1"  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;"><tr><td ><div style="width:6px;background:url('http://pic2.mofangge.com/images/part/8730U.png') repeat-y; height: 1px;overflow: hidden" muststretch="v"></div><div style="width:6px;background:url('http://pic2.mofangge.com/images/part/8730D.png') no-repeat; height: 7px; overflow: hidden"></div></td><td style="padding:0;padding-left: 2px; border-top: black 1px solid;line-height:normal;padding-top:1px"><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black">0.2m</td></tr><tr><td ><span><span>m</span><span style="vertical-align:sub;font-size:90%">0</span></span></td></tr></table></td></tr></table></span>；（4）7.94．</TD></TR></TBODY></TABLE>
+                        <div class="right beShare" id="q_indexkuai3211">
+                            <span class="share_note">马上分享给同学</span>
+                            <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
+                                <a class="bds_qzone"></a><a class="bds_tieba"></a><a class="bds_hi"></a><a class="bds_sqq">
+                                </a><span class="bds_more"></span><a class="shareCount"></a>
+                            </div>
+
+                            <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=523656"></script>
+
+                            <script type="text/javascript" id="bdshell_js"></script>
+
+                            <script type="text/javascript">
+                                document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                            </script>
+
+                            <!-- Baidu Button END -->
+                        </div>
+                        <div class="provider" id="q_indexkuai3212">
+                            <div class="splitline">
+                            </div>
+                            <ul class="qditaltools" id="ques_tools">
+                                <li><a class="tools_jc" id="qdebug">揪错</a></li>
+                                <li><a class="tools_sc" id="b2tocollect">收藏</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="ad_center">
+
+               <!-- <script type="text/javascript">                    BAIDU_CLB_fillSlot("762612");</script>-->
+
+            </div>
+            <div class="q_mokuai" id="q_indexkuai4">
+                <div class="q_indextitle" id="q_indexkuai41">
+                    <div class="q_indextitle2" id="q_indextitle2">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai5">
+                <div class="q_content" id="q_indexkuai51">
+                    <div class="q_bot" id="q_indexkuai511">
+                        <div class="SecTotal">
+                            据魔方格专家权威分析，试题“宇航员在绕地球做圆周运动的空间站内研究处于完全失重状态下弹簧..”主要考查你对&nbsp;&nbsp;<span id="seclist"><span class="secname">弹簧振子</span></span>&nbsp;&nbsp;等考点的理解。关于这些考点的“档案”如下：</div>
+                        <div class="linote">
+                            现在没空？<span class="btn" onclick="addfavorite()">点击收藏</span>，以后再看。</div>
+                        <div class="linote">
+                            因为篇幅有限，只列出部分考点，详细请访问<a class="btn" href="http://www.mofangge.com" target="_blank"
+                                id="gohome_hr_2">魔方格学习社区</a>。</div>
+                    </div>
+                    <div class="secchkdiv"  id="q_indexkuai512">
+                        <div class="secchkPanel" id="secchkPanel">
+                            <span class="CheckedPanel" id="panel458" title="弹簧振子">弹簧振子</span>
+                            <div class="clearfix">
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 20px; display: block; width: 300px;">
+                    </div>
+                    <div class="q_bot" id="secinfoPanel">
+                        <div class="q_bot" id="secInfo_458"><div class="secinfo">考点名称：<span class="secname">弹簧振子</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><STRONG>弹簧振子:<BR></STRONG><BR>弹簧振子模型（理想化的物理模型）：F=-kx，F为回复力，它是由弹力提供的合力。 <BR>1、平衡位置是回复力为零的位置。 <BR>2、回复力可以为某几个力的合力，也可以是某一力的分力。 <BR>3、弹簧振子具有周期性、对称性，周期的倒数是频率，其单位为Hz。振动周期公式<SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 10.5pt"><IMG style="VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/secpic/201110/20111025170853001.gif" width=65 height=41></SPAN>（k为常量），由此知T、f由振子结构决定与振幅大小无关。固有周期：振子自由振动的周期（频率为固有频率）。 <BR>4、振动物体离开平衡位置的最大距离叫做振动的振幅。振幅是一个标量，它是表示振动绳子的物理量。 <BR>5、全振动：判定全振动的条件有，一是两时刻振子过同一位置；二是两时刻振子速度完全相同（速度的大小及方向）。 </div></li></ul></div>
+                        <div class="seccopyright">
+                            以上内容为魔方格学习社区（www.mofangge.com）原创内容，未经允许不得转载！</div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai"  id="q_indexkuai6">
+                <div class="q_indextitle" id="q_indexkuai61"> 
+                    <div class="q_indextitle3" id="q_indextitle3">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai7">
+                <div class="q_mktitle" id="q_indexkuai71">
+                    发现相似题</div>
+                <div class="q_content" id="q_indexkuai72">
+                    <div class="q_sameline" id="q_indexkuai721">
+                        与<span>“宇航员在绕地球做圆周运动的空间站内研究处于完全失重状态下弹簧..”</span>考查相似的试题有：</div>
+                    <div class="q_bot" id="q_indexkuai722">
+                        <!-- $xiangsiqidlist$ -->
+                        <table border="0" cellpadding="1" class="nearQues" style="line-height: 24px;">
+                            <thead>
+                                <tr>
+                                    <th width="15%">
+                                        试题ID
+                                    </th>
+                                    <th>
+                                        试题题文
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>112658</td><td><a href="http://www.mofangge.com/html/qDetail/04/g3/201112/7aglg304112658.html">某同学看到一只鸟落在树枝上的P处，树枝在10s内上下振动了6次，鸟..</a></td></tr><tr><td>133327</td><td><a href="http://www.mofangge.com/html/qDetail/04/g2/201209/5dj9g204133327.html">光滑的水平面上放有质量分别为m和的两木块，下方木块与一劲度系数..</a></td></tr><tr><td>100291</td><td><a href="http://www.mofangge.com/html/qDetail/04/g3/201107/rfdkg304100291.html">如图所示，弹簧振子在振动过程中，振子从a到b历时0.2s，振子经a..</a></td></tr><tr><td>90639</td><td><a href="http://www.mofangge.com/html/qDetail/04/g2/201103/fiu3g20490639.html">A、B两个完全一样的弹簧振子，把A振子移到A的平衡位置右边10cm，..</a></td></tr><tr><td>123657</td><td><a href="http://www.mofangge.com/html/qDetail/04/g2/201206/q43eg204123657.html">将一劲度系数为k的轻质弹簧竖直悬挂，下端系上质量为m的物块．将物..</a></td></tr><tr><td>124074</td><td><a href="http://www.mofangge.com/html/qDetail/04/g2/201206/0v3ug204124074.html">弹簧振子以O点为平衡位置在B、C两点间做简谐运动，B、C相距20cm，..</a></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="q_right">
+            <!--<script type="text/javascript">BAIDU_CLB_fillSlot("762611");</script>-->
+            <div id="container_ext">
+            </div>
+            <!--<div class="Extra_right" id="Extra_right">
+            <div class="Extra_right1">
+                    <div class="div1" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_3">
+                        <div class="image1">
+                        </div>
+                    </div>
+                    <div class="div2" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_4">
+                    </div>
+                    <div class="div1" onclick="addfavorite()">
+                        <div class="image2">
+                        </div>
+                    </div>
+                    <div class="div2" id="keep_detail" onclick="addfavorite()">
+                    </div>
+                    <div class="div4">
+                        <div class="image3">
+                        </div>
+                        <div class="div3">
+                        </div>
+                        <div id="turn_weixin">
+                        </div>
+                        <p class="dttaildes">
+                            扫一扫，有惊喜</p>
+                    </div>
+                    <div class="div6">
+                        <iframe src="http://open.qzone.qq.com/like?url=http%3A%2F%2Fuser.qzone.qq.com%2F17175515&type=button_num&width=400&height=30&style=2 
+
+" allowtransparency="true" scrolling="no" border="0" frameborder="0" style="width: 400px; height: 30px; border: none;
+                            overflow: hidden;"></iframe>
+                            <iframe id="review" height="24" marginheight="0" src="http://follow.v.t.qq.com/index.php?c=follow&amp;a=quick&amp;appkey=801507580&amp;sign=bab9dd3a&amp;v=2&amp;name=mofangge520&amp;style=5&amp;t=1400310722678&amp;f=0" frameborder="0" width="125" allowtransparency="" marginwidth="0"></iframe>
+                        <p>
+                           <img src="/css/style1/forqdetail/threejt.png" width="54px" height="21px" style="vertical-align:middle;"> 关注QQ空间<br>
+                            学习秘籍，尽在此地</p>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+     </div>
+    <div class="copyright">
+        <div id="MFG_Features">“魔方格学习社区”各栏目介绍之--考点百科：涵盖中小学十二学年九大学科所有的考点百科知识，定义类、定理类、导图类、特性类、点拨类，应有尽有，绝对是你的课前预习好帮手，前往www.mofangge.com，垂手可得。</div><script type="text/javascript" src="/js/comm/mfgconfig.js"></script>
+        © 2014 <a href="http://www.mofangge.com" style="color: White">魔方格</a> 版权所有
+        <span id="thispage_lastlog_time"> 最后访问时间：2015-08-31 13:01:54</span>
+    </div>
+</body>
+
+<script src="/js/inc/mootools-core.js" type="text/javascript"></script>
+
+<script src="/js/comm/comm.js" type="text/javascript"></script>
+
+<script src="/js/comm/mfg_debug.js" type="text/javascript"></script>
+
+<script src="/js/comm/Ques_comm.js" type="text/javascript"></script>
+
+<script src="/js/app/qdetail/qdetail1.js?v=20150130" type="text/javascript"></script>
+
+</html>

@@ -1,0 +1,262 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>已知数列{an}满足：（n∈N*，a∈R，a为常数），数列{bn}中，．（1）求a1，a2，a3；（2）证明：数列{bn}为等差数列；（3）求证：数列{bn}中存在三项构成等比数列时，a为有理数．-高三数学-魔方格</title>
+    <meta name="renderer" content="webkit" />
+    <link id="favicon" href="/logo.ico" rel="icon" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="已知数列{an}满足：（n∈N*，a∈R，a为常数），数列{bn}中，．（1）求a1，a2，a3；（2）证明：数列{bn}为等差数列；（3）求证：数列{bn}中存在三项构成等比数列时，a为有理数．-高三数学-魔方格" />
+    <meta name="keywords" content="已知数列{an}满足：（n∈N*，a∈R，a为常数），数列{bn}中，．（1）求a1，a2，a3；（2）证明：数列{bn}为等差数列；（3）求证：数列{bn}中存在三项构成等比数列时，a为有理数．-高三数学-魔方格" />
+    <link href="/css/style1/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style1/forqdetail1.css" rel="stylesheet" type="text/css" />
+    <link href="http://bdimg.share.baidu.com/static/css/bdsstyle.css?cdnversion=20130704"
+        rel="stylesheet" type="text/css">
+
+    <script src="http://bdimg.share.baidu.com/static/js/logger.js?cdnversion=382066"></script>
+
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+
+</head>
+<body>
+    <div class="head">
+        <a class="goback1" href="javascript:void(0)" id="gohome_cl_1"></a>
+        <ul id="menu_daohang" class="menu">
+            <a href="javascript:void(0)" id="gohome_cl_2">首页</a> <span class="current">试题专页</span>
+        </ul>
+        <ul class="user_but" id="main_user_info">
+            <li id="gohome_reg_1">注册</li>
+            <li id="gohome_login_1">登录</li>
+        </ul>
+    </div>
+    <div class="bgcolorshow">
+        <!--为了兼容占位-->
+    </div>
+    <div class="content">
+        <div class="nagetivebanner">
+            <div class="teach_note">
+                <div id="teach_notetxt" class="teach_notepic">
+                </div>
+            </div>
+            <div id="teach_detail" class="teach_detail">
+                <span id="teach_detail1"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail2"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail3"></span>
+            </div>
+        </div>
+        <div class="nagetivebanner1">
+            <div class="seotop">
+                <span class="seotops">当前位置：<a href="http://www.mofangge.com" id="gohome_hr_1">魔方格</a>
+                    ＞<a href="http://www.mofangge.com/qlist/shuxue/" title="数学">数学</a>＞<a href="http://www.mofangge.com/qlist/shuxue/533/" title="等比中项">等比中项</a>＞已知数列{an}满足：（n∈N*，a∈R，a为常数），数列{bn}中，．（1）求a1，..</span>
+            </div>
+        </div>
+        <div style="float: left; width: 720px;">
+            <div class="q_mokuai" id="q_indexkuai1">
+                <div class="q_indextitle" id="q_indexkuai11">
+                    <div class="q_indextitle1" id="q_indextitle1">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai2">
+                <div class="q_mktitle" id="q_indexkuai21">
+                    题文</div>
+                <div class="q_content" id="q_indexkuai22">
+                    <div class="q_bot" id="q_indexkuai221">
+                        <TABLE style="WORD-BREAK: break-all" border=0 cellSpacing=0 width=650>
+<TBODY>
+<TR>
+<TD>已知数列{a<SUB>n</SUB>}满足：<IMG style="WIDTH: 193px; HEIGHT: 96px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20120920/201209201732459616972.png">（n∈N*，a∈R，a为常数），数列{b<SUB>n</SUB>}中，<IMG style="WIDTH: 78px; HEIGHT: 25px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20120920/201209201732461131514.png">．<BR>（1）求a<SUB>1</SUB>，a<SUB>2</SUB>，a<SUB>3</SUB>；<BR>（2）证明：数列{b<SUB>n</SUB>}为等差数列；<BR>（3）求证：数列{b<SUB>n</SUB>}中存在三项构成等比数列时，a为有理数．</TD></TR></TBODY></TABLE>
+                        <div class="provider" id="q_indexkuai2211">
+                            <div class="splitline">
+                            </div>
+                            <div class="right rightDiv" id="q_indexkuai22111">
+                                <span>题型：解答题</span><span>难度：中档</span><span>来源：期末题</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai3">
+                <div class="q_mktitle" id="q_indextitle4">
+                    答案</div>
+                <div class="q_content" id="q_indexkuai32">
+                    <div class="q_bot" id="q_indexkuai321">
+                        <TABLE style="WORD-BREAK: break-all" border=0 cellSpacing=0 width=650>
+<TBODY>
+<TR>
+<TD>解：（1）由已知<IMG style="WIDTH: 99px; HEIGHT: 35px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20120920/201209201732470922102.png">&nbsp;，得<IMG style="WIDTH: 63px; HEIGHT: 35px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20120920/201209201732474031522.png">&nbsp;，<IMG style="WIDTH: 111px; HEIGHT: 35px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20120920/201209201732475822362.png">&nbsp;，<IMG style="WIDTH: 117px; HEIGHT: 35px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20120920/201209201732478962562.png">&nbsp;．<BR>（2）&nbsp;<IMG style="WIDTH: 189px; HEIGHT: 36px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20120920/201209201732482363773.png">，<BR><IMG style="WIDTH: 704px; HEIGHT: 36px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20120920/2012092017324889712143.png">&nbsp; ∴b<SUB>n+1</SUB>﹣b<SUB>n</SUB>=1，又b<SUB>1</SUB>=a<SUB>3</SUB>=a， <BR>∴数列{b<SUB>n</SUB>}是首项为a，公差为1的等差数列．<BR>（3）证明：由（2）知b<SUB>n</SUB>=a+n﹣1，<BR>若三个不同的项a+i，a+j，a+k成等比数列，<BR>i、j、k为非负整数，且i＜j＜k，<BR>则（a+j）<SUP>2</SUP>=（a+i）（a+k），得a（i+k﹣2j）=j<SUP>2</SUP>﹣ik，<BR>若i+k﹣2j=0，则j2﹣ik=0，得i=j=k，这与i＜j＜k矛盾．<BR>若i+k﹣2j≠0，则<IMG style="WIDTH: 76px; HEIGHT: 45px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/g02/20120920/201209201732490402629.png">&nbsp;， <BR>∵i、j、k为非负整数， <BR>∴a是有理数．</TD></TR></TBODY></TABLE>
+                        <div class="right beShare" id="q_indexkuai3211">
+                            <span class="share_note">马上分享给同学</span>
+                            <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
+                                <a class="bds_qzone"></a><a class="bds_tieba"></a><a class="bds_hi"></a><a class="bds_sqq">
+                                </a><span class="bds_more"></span><a class="shareCount"></a>
+                            </div>
+
+                            <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=523656"></script>
+
+                            <script type="text/javascript" id="bdshell_js"></script>
+
+                            <script type="text/javascript">
+                                document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                            </script>
+
+                            <!-- Baidu Button END -->
+                        </div>
+                        <div class="provider" id="q_indexkuai3212">
+                            <div class="splitline">
+                            </div>
+                            <ul class="qditaltools" id="ques_tools">
+                                <li><a class="tools_jc" id="qdebug">揪错</a></li>
+                                <li><a class="tools_sc" id="b2tocollect">收藏</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="ad_center">
+
+               <!-- <script type="text/javascript">                    BAIDU_CLB_fillSlot("762612");</script>-->
+
+            </div>
+            <div class="q_mokuai" id="q_indexkuai4">
+                <div class="q_indextitle" id="q_indexkuai41">
+                    <div class="q_indextitle2" id="q_indextitle2">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai5">
+                <div class="q_content" id="q_indexkuai51">
+                    <div class="q_bot" id="q_indexkuai511">
+                        <div class="SecTotal">
+                            据魔方格专家权威分析，试题“已知数列{an}满足：（n∈N*，a∈R，a为常数），数列{bn}中，．（1）求a1，..”主要考查你对&nbsp;&nbsp;<span id="seclist"><span class="secname">等比中项</span>，<span class="secname">等差数列的定义及性质</span>，<span class="secname">一般数列的项</span></span>&nbsp;&nbsp;等考点的理解。关于这些考点的“档案”如下：</div>
+                        <div class="linote">
+                            现在没空？<span class="btn" onclick="addfavorite()">点击收藏</span>，以后再看。</div>
+                        <div class="linote">
+                            因为篇幅有限，只列出部分考点，详细请访问<a class="btn" href="http://www.mofangge.com" target="_blank"
+                                id="gohome_hr_2">魔方格学习社区</a>。</div>
+                    </div>
+                    <div class="secchkdiv"  id="q_indexkuai512">
+                        <div class="secchkPanel" id="secchkPanel">
+                            <span class="CheckedPanel" id="panel533" title="等比中项">等比中项</span><span class="unCheckPanel" id="panel529" title="等差数列的定义及性质" >等差数列的定义及性质</span><span class="unCheckPanel" id="panel537" title="一般数列的项" >一般数列的项</span>
+                            <div class="clearfix">
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 20px; display: block; width: 300px;">
+                    </div>
+                    <div class="q_bot" id="secinfoPanel">
+                        <div class="q_bot" id="secInfo_533"><div class="secinfo">考点名称：<span class="secname">等比中项</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>等比中项：</STRONG></P>
+<P>若数a，G，b成等比数列，那么就称G为a与b的等比中项，从而有G<SUP>2</SUP>＝ab或G＝±<IMG style="FILTER: none" border=0 src="http://pic1.mofangge.com/upload/secpic/201110/20111028133728001.gif" align=middle>。</P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>等比中项的理解：</STRONG></P>
+<P>如果a，G，b三个数成等比数列，则有G<SUP>2</SUP>=ab．反之不一定成立．由等比中项定义可知：<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131216/201312161549035211566.jpg">， <IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131216/201312161549036932393.jpg">，<BR>这表明，只有同号的两项才有等比中项，并且这两项有2个互为相反数的等比中项，当a&gt;0，b&gt;0时，G<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131216/20131216154904410983.jpg">又叫做a，b的几何平均数。</P></div></li></ul></div><div class="q_bot" style="display:none"  id="secInfo_529"><div class="secinfo">考点名称：<span class="secname">等差数列的定义及性质</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>等差数列的定义：</STRONG></P>
+<P>一般地，如果一个数列从第2项起，每一项与它的前一项的差等于同一个常数，那么这个数列就叫做等差数列，这个常数叫做公差，用符号语言表示为a<SUB>n+1</SUB>-a<SUB>n</SUB>=d。 <BR></P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>等差数列的性质： </STRONG></P>
+<P>（1）若公差d＞0，则为递增等差数列；若公差d＜0，则为递减等差数列；若公差d＝0，则为常数列； <BR>（2）有穷等差数列中，与首末两端“等距离”的两项和相等，并且等于首末两项之和； <BR>（3）m，n∈N*，则a<SUB>m</SUB>＝a<SUB>n</SUB>+(m-n)d；<BR>（4）若s，t，p，q∈N*，且s+t=p+q，则a<SUB>s</SUB>+a<SUB>t</SUB>=a<SUB>p</SUB>+a<SUB>q</SUB>，其中a<SUB>s</SUB>，a<SUB>t</SUB>，a<SUB>p</SUB>，a<SUB>q</SUB>是数列中的项，特别地，当s+t=2p时，有a<SUB>s</SUB>+a<SUB>t</SUB>=2a<SUB>p</SUB>； <BR>（5）若数列｛a<SUB>n</SUB>｝，｛b<SUB>n</SUB>｝均是等差数列，则数列｛ma<SUB>n</SUB>+kb<SUB>n</SUB>｝仍为等差数列，其中m，k均为常数。<BR>（6）<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131211/201312111911476675635.jpg"><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131211/20131211191147823535.jpg"><BR>（7）从第二项开始起，每一项是与它相邻两项的等差中项，也是与它等距离的前后两项的等差中项，即<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131211/20131211191148041842.jpg"><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131211/201312111911483695064.jpg"> <BR>（8）<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131211/201312111911489622241.jpg">&nbsp;仍为等差数列，公差为<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131211/201312111911492273431.jpg"> </P>
+<P><BR>&nbsp;</P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>对等差数列定义的理解：</STRONG></P>
+<P>①如果一个数列不是从第2项起，而是从第3项或某一项起，每一项与它前一项的差是同一个常数，那么此数列不是等差数列，但可以说从第2项或某项开始是等差数列．&nbsp;<BR>②求公差d时，因为d是这个数列的后一项与前一项的差，故有<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131211/201312111824194293181.jpg"> 还有<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131211/201312111824196632898.jpg"> <BR>③公差d∈R，当d=0时，数列为常数列（也是等差数列）；当d&gt;0时，数列为递增数列；当d&lt;0时，数列为递减数列；<BR>④<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131211/201312111824198972721.jpg"> 是证明或判断一个数列是否为等差数列的依据；<BR>⑤证明一个数列是等差数列，只需证明a<SUB>n+1</SUB>-a<SUB>n</SUB>是一个与n无关的常数即可。 </P>
+<P><STRONG>等差数列求解与证明的基本方法：</STRONG></P>
+<P>(1)学会运用函数与方程思想解题；<BR>(2)抓住首项与公差是解决等差数列问题的关键；<BR>(3)等差数列的通项公式、前n项和公式涉及五个量：a<SUB>1</SUB>，d，n，a<SUB>n</SUB>，S<SUB>n</SUB>，知道其中任意三个就可以列方程组求出另外两个(俗称“知三求二’)．<BR></P></div></li></ul></div><div class="q_bot" style="display:none"  id="secInfo_537"><div class="secinfo">考点名称：<span class="secname">一般数列的项</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>一般数列的项的定义：</STRONG></P>
+<P>数列中的每一个数叫做这个数列的项。</P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>数列项的性质：</STRONG></P>
+<P>①数列的项具有有序性，一个数列不仅与构成数列的“数”有关，而且与这些数的排列顺序有关，注意与集合中元素的无序性区分开来，；<BR>②数列的项具有可重复性，数列中的数可重复出现，这也要与集合中元素的互异性区分开来：<BR>③注意a<SUB>n</SUB>与{a<SUB>n</SUB>}的区别：a<SUB>n</SUB>表示数列{a<SUB>n</SUB>}的第n 项，而{a<SUB>n</SUB>}表示数列a<SUB>1</SUB>，a<SUB>2</SUB>，…，a<SUB>n</SUB>，…，</P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>方法提炼：</STRONG></P>
+<P>1.数列最大项、最小项、数列有界性问题可借助数列的单调性来解决，判断单调性时常用（1）作差法；（2）作差法；（3）结合函数图像等方法；<BR>2.若求最大项a<SUB>n</SUB>,则a<SUB>n</SUB>满足a<SUB>n≥</SUB>a<SUB>n+1</SUB>且a<SUB>n≥</SUB>a<SUB>n-1；</SUB>若求最小项a<SUB>n</SUB>,则a<SUB>n</SUB>满足a<SUB>n≤</SUB>a<SUB>n+1</SUB>且a<SUB>n</SUB><SUB>≤</SUB>a<SUB>n-1。</SUB></P></div></li></ul></div>
+                        <div class="seccopyright">
+                            以上内容为魔方格学习社区（www.mofangge.com）原创内容，未经允许不得转载！</div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai"  id="q_indexkuai6">
+                <div class="q_indextitle" id="q_indexkuai61"> 
+                    <div class="q_indextitle3" id="q_indextitle3">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai7">
+                <div class="q_mktitle" id="q_indexkuai71">
+                    发现相似题</div>
+                <div class="q_content" id="q_indexkuai72">
+                    <div class="q_sameline" id="q_indexkuai721">
+                        与<span>“已知数列{an}满足：（n∈N*，a∈R，a为常数），数列{bn}中，．（1）求a1，..”</span>考查相似的试题有：</div>
+                    <div class="q_bot" id="q_indexkuai722">
+                        <!-- $xiangsiqidlist$ -->
+                        <table border="0" cellpadding="1" class="nearQues" style="line-height: 24px;">
+                            <thead>
+                                <tr>
+                                    <th width="15%">
+                                        试题ID
+                                    </th>
+                                    <th>
+                                        试题题文
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>254348</td><td><a href="http://www.mofangge.com/html/qDetail/02/g2/201108/j6cmg202254348.html">在等比数列{an}中，若a4a6a8a10a12=243，则（）。</a></td></tr><tr><td>275404</td><td><a href="http://www.mofangge.com/html/qDetail/02/g3/201205/hwxig302275404.html">4和9的等比中项是[]A．B．±6C．6D．</a></td></tr><tr><td>249903</td><td><a href="http://www.mofangge.com/html/qDetail/02/g2/201105/s8wqg202249903.html">正项等比数列{an}中，若a2a8+a3a7=32，则a5的值是[]A．B．2C．4D．8</a></td></tr><tr><td>256434</td><td><a href="http://www.mofangge.com/html/qDetail/02/g2/201108/x1kdg202256434.html">在等比数列{an}中Tn表示前n项的积，若T5=1，则[]A、a1=1B、a3=1C..</a></td></tr><tr><td>277700</td><td><a href="http://www.mofangge.com/html/qDetail/02/g1/201207/ojtbg102277700.html">与，两数的等比中项是[]A．B．C．D．</a></td></tr><tr><td>243966</td><td><a href="http://www.mofangge.com/html/qDetail/02/g1/201012/tdnsg102243966.html">已知等比数列的各项均为正数，公比q≠1，设，，则P与Q的大小关系是..</a></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="q_right">
+            <!--<script type="text/javascript">BAIDU_CLB_fillSlot("762611");</script>-->
+            <div id="container_ext">
+            </div>
+            <!--<div class="Extra_right" id="Extra_right">
+            <div class="Extra_right1">
+                    <div class="div1" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_3">
+                        <div class="image1">
+                        </div>
+                    </div>
+                    <div class="div2" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_4">
+                    </div>
+                    <div class="div1" onclick="addfavorite()">
+                        <div class="image2">
+                        </div>
+                    </div>
+                    <div class="div2" id="keep_detail" onclick="addfavorite()">
+                    </div>
+                    <div class="div4">
+                        <div class="image3">
+                        </div>
+                        <div class="div3">
+                        </div>
+                        <div id="turn_weixin">
+                        </div>
+                        <p class="dttaildes">
+                            扫一扫，有惊喜</p>
+                    </div>
+                    <div class="div6">
+                        <iframe src="http://open.qzone.qq.com/like?url=http%3A%2F%2Fuser.qzone.qq.com%2F17175515&type=button_num&width=400&height=30&style=2 
+
+" allowtransparency="true" scrolling="no" border="0" frameborder="0" style="width: 400px; height: 30px; border: none;
+                            overflow: hidden;"></iframe>
+                            <iframe id="review" height="24" marginheight="0" src="http://follow.v.t.qq.com/index.php?c=follow&amp;a=quick&amp;appkey=801507580&amp;sign=bab9dd3a&amp;v=2&amp;name=mofangge520&amp;style=5&amp;t=1400310722678&amp;f=0" frameborder="0" width="125" allowtransparency="" marginwidth="0"></iframe>
+                        <p>
+                           <img src="/css/style1/forqdetail/threejt.png" width="54px" height="21px" style="vertical-align:middle;"> 关注QQ空间<br>
+                            学习秘籍，尽在此地</p>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+     </div>
+    <div class="copyright">
+        <div id="MFG_Features">“魔方格学习社区”各栏目介绍之--试题搜索：千万道试题，涵盖中小学十二学年九大学科，绝无仅有的学习领地，访问www.mofangge.com，只会让你更多的惊讶。</div><script type="text/javascript" src="/js/comm/mfgconfig.js"></script>
+        © 2014 <a href="http://www.mofangge.com" style="color: White">魔方格</a> 版权所有
+        <span id="thispage_lastlog_time"> 最后访问时间：2015-08-30 20:41:36</span>
+    </div>
+</body>
+
+<script src="/js/inc/mootools-core.js" type="text/javascript"></script>
+
+<script src="/js/comm/comm.js" type="text/javascript"></script>
+
+<script src="/js/comm/mfg_debug.js" type="text/javascript"></script>
+
+<script src="/js/comm/Ques_comm.js" type="text/javascript"></script>
+
+<script src="/js/app/qdetail/qdetail1.js?v=20150130" type="text/javascript"></script>
+
+</html>

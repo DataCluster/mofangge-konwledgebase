@@ -1,0 +1,249 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>如图，斜三棱柱的底面是直角三角形，,点在底面内的射影恰好是的中点，且(1)求证:平面平面;(2)若，求点到平面的距离.-高二数学-魔方格</title>
+    <meta name="renderer" content="webkit" />
+    <link id="favicon" href="/logo.ico" rel="icon" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="如图，斜三棱柱的底面是直角三角形，,点在底面内的射影恰好是的中点，且(1)求证:平面平面;(2)若，求点到平面的距离.-高二数学-魔方格" />
+    <meta name="keywords" content="如图，斜三棱柱的底面是直角三角形，,点在底面内的射影恰好是的中点，且(1)求证:平面平面;(2)若，求点到平面的距离.-高二数学-魔方格" />
+    <link href="/css/style1/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style1/forqdetail1.css" rel="stylesheet" type="text/css" />
+    <link href="http://bdimg.share.baidu.com/static/css/bdsstyle.css?cdnversion=20130704"
+        rel="stylesheet" type="text/css">
+
+    <script src="http://bdimg.share.baidu.com/static/js/logger.js?cdnversion=382066"></script>
+
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+
+</head>
+<body>
+    <div class="head">
+        <a class="goback1" href="javascript:void(0)" id="gohome_cl_1"></a>
+        <ul id="menu_daohang" class="menu">
+            <a href="javascript:void(0)" id="gohome_cl_2">首页</a> <span class="current">试题专页</span>
+        </ul>
+        <ul class="user_but" id="main_user_info">
+            <li id="gohome_reg_1">注册</li>
+            <li id="gohome_login_1">登录</li>
+        </ul>
+    </div>
+    <div class="bgcolorshow">
+        <!--为了兼容占位-->
+    </div>
+    <div class="content">
+        <div class="nagetivebanner">
+            <div class="teach_note">
+                <div id="teach_notetxt" class="teach_notepic">
+                </div>
+            </div>
+            <div id="teach_detail" class="teach_detail">
+                <span id="teach_detail1"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail2"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail3"></span>
+            </div>
+        </div>
+        <div class="nagetivebanner1">
+            <div class="seotop">
+                <span class="seotops">当前位置：<a href="http://www.mofangge.com" id="gohome_hr_1">魔方格</a>
+                    ＞<a href="http://www.mofangge.com/qlist/shuxue/" title="数学">数学</a>＞<a href="http://www.mofangge.com/qlist/shuxue/580/" title="点到直线、平面的距离">点到直线、..</a>＞如图，斜三棱柱的底面是直角三角形，,点在底面内的射影恰好是的中..</span>
+            </div>
+        </div>
+        <div style="float: left; width: 720px;">
+            <div class="q_mokuai" id="q_indexkuai1">
+                <div class="q_indextitle" id="q_indexkuai11">
+                    <div class="q_indextitle1" id="q_indextitle1">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai2">
+                <div class="q_mktitle" id="q_indexkuai21">
+                    题文</div>
+                <div class="q_content" id="q_indexkuai22">
+                    <div class="q_bot" id="q_indexkuai221">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><div>如图，斜三棱柱<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528470672.png" style="vertical-align:middle;" />的底面是直角三角形，<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528485668.png" style="vertical-align:middle;" />,点<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528501333.png" style="vertical-align:middle;" />在底面内的射影恰好是<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528516396.png" style="vertical-align:middle;" />的中点，且<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528548606.png" style="vertical-align:middle;" /><br /><img src="http://pic2.mofangge.com/upload/papers//20140824/201408240605285634620.png" style="vertical-align:middle;" /><br />(1)求证:平面<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528594519.png" style="vertical-align:middle;" /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528610183.png" style="vertical-align:middle;" />平面<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528626494.png" style="vertical-align:middle;" />;<br />(2)若<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528641472.png" style="vertical-align:middle;" />，求点<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528672312.png" style="vertical-align:middle;" />到平面<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528688500.png" style="vertical-align:middle;" />的距离.</div></TD></TR></TBODY></TABLE>
+                        <div class="provider" id="q_indexkuai2211">
+                            <div class="splitline">
+                            </div>
+                            <div class="right rightDiv" id="q_indexkuai22111">
+                                <span>题型：解答题</span><span>难度：中档</span><span>来源：不详</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai3">
+                <div class="q_mktitle" id="q_indextitle4">
+                    答案</div>
+                <div class="q_content" id="q_indexkuai32">
+                    <div class="q_bot" id="q_indexkuai321">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><div>（1）证明见解析；（2）<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528704520.png" style="vertical-align:middle;" />．</div></TD></TR></TBODY></TABLE><TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><div><br />试题分析：<br />解题思路：（1）作出辅助线，利用线面垂直的判定定理证明即可；（2）合理转化三棱锥的顶点和底面，利用体积法求所求的点到平面的距离.<br />规律总结：对于空间几何体中的垂直、平行关系的判定，要牢牢记住并灵活进行转化，线线关系是关键；涉及点到平面的距离问题，往往转化三棱锥的顶点，利用体积法求距离.<br />试题解析：(1)取<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528719400.png" style="vertical-align:middle;" />中点<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528735402.png" style="vertical-align:middle;" />，连接<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528766517.png" style="vertical-align:middle;" />，则<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528782544.png" style="vertical-align:middle;" />面<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528813473.png" style="vertical-align:middle;" />，<br /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528828754.png" style="vertical-align:middle;" /><br /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528860843.png" style="vertical-align:middle;" />，<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528875532.png" style="vertical-align:middle;" /><br /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528906691.png" style="vertical-align:middle;" /><br /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528922670.png" style="vertical-align:middle;" /><br /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528938831.png" style="vertical-align:middle;" /><br />（2）设点<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528672312.png" style="vertical-align:middle;" />到平面<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060528688500.png" style="vertical-align:middle;" />的距离<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060529000311.png" style="vertical-align:middle;" />，<br /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060529031717.png" style="vertical-align:middle;" />,<br /><img src="http://pic2.mofangge.com/upload/papers//20140824/201408240605290471660.png" style="vertical-align:middle;" /></div></TD></TR></TBODY></TABLE>
+                        <div class="right beShare" id="q_indexkuai3211">
+                            <span class="share_note">马上分享给同学</span>
+                            <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
+                                <a class="bds_qzone"></a><a class="bds_tieba"></a><a class="bds_hi"></a><a class="bds_sqq">
+                                </a><span class="bds_more"></span><a class="shareCount"></a>
+                            </div>
+
+                            <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=523656"></script>
+
+                            <script type="text/javascript" id="bdshell_js"></script>
+
+                            <script type="text/javascript">
+                                document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                            </script>
+
+                            <!-- Baidu Button END -->
+                        </div>
+                        <div class="provider" id="q_indexkuai3212">
+                            <div class="splitline">
+                            </div>
+                            <ul class="qditaltools" id="ques_tools">
+                                <li><a class="tools_jc" id="qdebug">揪错</a></li>
+                                <li><a class="tools_sc" id="b2tocollect">收藏</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="ad_center">
+
+               <!-- <script type="text/javascript">                    BAIDU_CLB_fillSlot("762612");</script>-->
+
+            </div>
+            <div class="q_mokuai" id="q_indexkuai4">
+                <div class="q_indextitle" id="q_indexkuai41">
+                    <div class="q_indextitle2" id="q_indextitle2">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai5">
+                <div class="q_content" id="q_indexkuai51">
+                    <div class="q_bot" id="q_indexkuai511">
+                        <div class="SecTotal">
+                            据魔方格专家权威分析，试题“如图，斜三棱柱的底面是直角三角形，,点在底面内的射影恰好是的中..”主要考查你对&nbsp;&nbsp;<span id="seclist"><span class="secname">点到直线、平面的距离</span></span>&nbsp;&nbsp;等考点的理解。关于这些考点的“档案”如下：</div>
+                        <div class="linote">
+                            现在没空？<span class="btn" onclick="addfavorite()">点击收藏</span>，以后再看。</div>
+                        <div class="linote">
+                            因为篇幅有限，只列出部分考点，详细请访问<a class="btn" href="http://www.mofangge.com" target="_blank"
+                                id="gohome_hr_2">魔方格学习社区</a>。</div>
+                    </div>
+                    <div class="secchkdiv"  id="q_indexkuai512">
+                        <div class="secchkPanel" id="secchkPanel">
+                            <span class="CheckedPanel" id="panel580" title="点到直线、平面的距离">点到直线、平面的距离</span>
+                            <div class="clearfix">
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 20px; display: block; width: 300px;">
+                    </div>
+                    <div class="q_bot" id="secinfoPanel">
+                        <div class="q_bot" id="secInfo_580"><div class="secinfo">考点名称：<span class="secname">点到直线、平面的距离</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>点到直线的距离：</STRONG></P>
+<P>由点向直线引垂线，这一点到垂足之间的距离。 </P>
+<P><STRONG>点到平面的距离：</STRONG></P>
+<P>由点向平面引垂线，这点到垂足之间的距离，就叫做点到平面的距离。 <BR></P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>求点面距离常用的方法：</STRONG></P>
+<P>(1)直接利用定义<BR>①找到（或作出）表示距离的线段；<BR>②抓住线段（所求距离）所在三角形解之．<BR>(2)利用两平面互相垂直的性质如果已知点在已知平面的垂面上，则已知点到两平面交线的距离就是所求的点面距离．<BR>(3)体积法其步骤是：①在平面内选取适当三点和已知点构成三棱锥；②求出此三棱锥的体积V和所取三点构成三角形的面积S；③由<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131220/201312200032493781778.jpg">求出<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131220/20131220003249581405.jpg">．这种方法的优点是不必作出垂线即可求点面距离，难点在于如何构造合适的三棱锥以便于计算．<BR>(4)转化法：将点到平面的距离转化为直线与平面的距离来求．<BR>(5)向量法：<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131220/201312200032499718203.jpg"><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131220/20131220003250174982.jpg"> </P></div></li></ul></div>
+                        <div class="seccopyright">
+                            以上内容为魔方格学习社区（www.mofangge.com）原创内容，未经允许不得转载！</div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai"  id="q_indexkuai6">
+                <div class="q_indextitle" id="q_indexkuai61"> 
+                    <div class="q_indextitle3" id="q_indextitle3">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai7">
+                <div class="q_mktitle" id="q_indexkuai71">
+                    发现相似题</div>
+                <div class="q_content" id="q_indexkuai72">
+                    <div class="q_sameline" id="q_indexkuai721">
+                        与<span>“如图，斜三棱柱的底面是直角三角形，,点在底面内的射影恰好是的中..”</span>考查相似的试题有：</div>
+                    <div class="q_bot" id="q_indexkuai722">
+                        <!-- $xiangsiqidlist$ -->
+                        <table border="0" cellpadding="1" class="nearQues" style="line-height: 24px;">
+                            <thead>
+                                <tr>
+                                    <th width="15%">
+                                        试题ID
+                                    </th>
+                                    <th>
+                                        试题题文
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>790603</td><td><a href="http://www.mofangge.com/html/qDetail/02/g2/201408/6cqbg202790603.html">如图所示，点P在正方形ABCD所在平面外，PD⊥平面ABCD，PD＝AD，则P..</a></td></tr><tr><td>572099</td><td><a href="http://www.mofangge.com/html/qDetail/02/g0/201401/84brg002572099.html">已知球O的表面积为20π，点A，B，C为球面上三点，若AC⊥BC，且AB=2..</a></td></tr><tr><td>879121</td><td><a href="http://www.mofangge.com/html/qDetail/02/g3/201408/7galg302879121.html">在如图所示的多面体中，四边形为正方形，四边形是直角梯形，，平..</a></td></tr><tr><td>888030</td><td><a href="http://www.mofangge.com/html/qDetail/02/g3/201408/5wbcg302888030.html">如图所示，正方体ABCD－A1B1C1D1中，A1C与截面DBC1交于O点，AC，B..</a></td></tr><tr><td>812972</td><td><a href="http://www.mofangge.com/html/qDetail/02/g3/201408/w59sg302812972.html">已知斜三棱柱,,,在底面上的射影恰为的中点,又知.(Ⅰ)求证：平面；..</a></td></tr><tr><td>839599</td><td><a href="http://www.mofangge.com/html/qDetail/02/g1/201408/mrorg102839599.html">（12分）已知是四边形所在平面外一点，四边形是的菱形，侧面为正三..</a></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="q_right">
+            <!--<script type="text/javascript">BAIDU_CLB_fillSlot("762611");</script>-->
+            <div id="container_ext">
+            </div>
+            <!--<div class="Extra_right" id="Extra_right">
+            <div class="Extra_right1">
+                    <div class="div1" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_3">
+                        <div class="image1">
+                        </div>
+                    </div>
+                    <div class="div2" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_4">
+                    </div>
+                    <div class="div1" onclick="addfavorite()">
+                        <div class="image2">
+                        </div>
+                    </div>
+                    <div class="div2" id="keep_detail" onclick="addfavorite()">
+                    </div>
+                    <div class="div4">
+                        <div class="image3">
+                        </div>
+                        <div class="div3">
+                        </div>
+                        <div id="turn_weixin">
+                        </div>
+                        <p class="dttaildes">
+                            扫一扫，有惊喜</p>
+                    </div>
+                    <div class="div6">
+                        <iframe src="http://open.qzone.qq.com/like?url=http%3A%2F%2Fuser.qzone.qq.com%2F17175515&type=button_num&width=400&height=30&style=2 
+
+" allowtransparency="true" scrolling="no" border="0" frameborder="0" style="width: 400px; height: 30px; border: none;
+                            overflow: hidden;"></iframe>
+                            <iframe id="review" height="24" marginheight="0" src="http://follow.v.t.qq.com/index.php?c=follow&amp;a=quick&amp;appkey=801507580&amp;sign=bab9dd3a&amp;v=2&amp;name=mofangge520&amp;style=5&amp;t=1400310722678&amp;f=0" frameborder="0" width="125" allowtransparency="" marginwidth="0"></iframe>
+                        <p>
+                           <img src="/css/style1/forqdetail/threejt.png" width="54px" height="21px" style="vertical-align:middle;"> 关注QQ空间<br>
+                            学习秘籍，尽在此地</p>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+     </div>
+    <div class="copyright">
+        <div id="MFG_Features">“魔方格学习社区”各栏目介绍之--试题搜索：千万道试题，涵盖中小学十二学年九大学科，绝无仅有的学习领地，访问www.mofangge.com，只会让你更多的惊讶。</div><script type="text/javascript" src="/js/comm/mfgconfig.js"></script>
+        © 2014 <a href="http://www.mofangge.com" style="color: White">魔方格</a> 版权所有
+        <span id="thispage_lastlog_time"> 最后访问时间：2015-08-30 22:40:20</span>
+    </div>
+</body>
+
+<script src="/js/inc/mootools-core.js" type="text/javascript"></script>
+
+<script src="/js/comm/comm.js" type="text/javascript"></script>
+
+<script src="/js/comm/mfg_debug.js" type="text/javascript"></script>
+
+<script src="/js/comm/Ques_comm.js" type="text/javascript"></script>
+
+<script src="/js/app/qdetail/qdetail1.js?v=20150130" type="text/javascript"></script>
+
+</html>

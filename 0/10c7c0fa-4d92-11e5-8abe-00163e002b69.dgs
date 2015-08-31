@@ -1,0 +1,272 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>已知An（an，bn）（n∈N*）是曲线y=ex上的点，a1=a，Sn是数列{an}的前n项和，且满足：，n=2，3，4，…（Ⅰ）证明数列是常数数列；（Ⅱ）确定a的取值集合M，使a∈M时，数列{an}是单调递增数-高三数学-魔方格</title>
+    <meta name="renderer" content="webkit" />
+    <link id="favicon" href="/logo.ico" rel="icon" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="已知An（an，bn）（n∈N*）是曲线y=ex上的点，a1=a，Sn是数列{an}的前n项和，且满足：，n=2，3，4，…（Ⅰ）证明数列是常数数列；（Ⅱ）确定a的取值集合M，使a∈M时，数列{an}是单调递增数-高三数学-魔方格" />
+    <meta name="keywords" content="已知An（an，bn）（n∈N*）是曲线y=ex上的点，a1=a，Sn是数列{an}的前n项和，且满足：，n=2，3，4，…（Ⅰ）证明数列是常数数列；（Ⅱ）确定a的取值集合M，使a∈M时，数列{an}是单调递增数-高三数学-魔方格" />
+    <link href="/css/style1/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style1/forqdetail1.css" rel="stylesheet" type="text/css" />
+    <link href="http://bdimg.share.baidu.com/static/css/bdsstyle.css?cdnversion=20130704"
+        rel="stylesheet" type="text/css">
+
+    <script src="http://bdimg.share.baidu.com/static/js/logger.js?cdnversion=382066"></script>
+
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+
+</head>
+<body>
+    <div class="head">
+        <a class="goback1" href="javascript:void(0)" id="gohome_cl_1"></a>
+        <ul id="menu_daohang" class="menu">
+            <a href="javascript:void(0)" id="gohome_cl_2">首页</a> <span class="current">试题专页</span>
+        </ul>
+        <ul class="user_but" id="main_user_info">
+            <li id="gohome_reg_1">注册</li>
+            <li id="gohome_login_1">登录</li>
+        </ul>
+    </div>
+    <div class="bgcolorshow">
+        <!--为了兼容占位-->
+    </div>
+    <div class="content">
+        <div class="nagetivebanner">
+            <div class="teach_note">
+                <div id="teach_notetxt" class="teach_notepic">
+                </div>
+            </div>
+            <div id="teach_detail" class="teach_detail">
+                <span id="teach_detail1"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail2"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail3"></span>
+            </div>
+        </div>
+        <div class="nagetivebanner1">
+            <div class="seotop">
+                <span class="seotops">当前位置：<a href="http://www.mofangge.com" id="gohome_hr_1">魔方格</a>
+                    ＞<a href="http://www.mofangge.com/qlist/shuxue/" title="数学">数学</a>＞<a href="http://www.mofangge.com/qlist/shuxue/539/" title="常数数列">常数数列</a>＞已知An（an，bn）（n∈N*）是曲线y=ex上的点，a1=a，Sn是数列{an}的前..</span>
+            </div>
+        </div>
+        <div style="float: left; width: 720px;">
+            <div class="q_mokuai" id="q_indexkuai1">
+                <div class="q_indextitle" id="q_indexkuai11">
+                    <div class="q_indextitle1" id="q_indextitle1">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai2">
+                <div class="q_mktitle" id="q_indexkuai21">
+                    题文</div>
+                <div class="q_content" id="q_indexkuai22">
+                    <div class="q_bot" id="q_indexkuai221">
+                        <TABLE style="WORD-BREAK: break-all" border=0 cellSpacing=0 width=650>
+<TBODY>
+<TR>
+<TD>已知A<SUB>n</SUB>（a<SUB>n</SUB>，b<SUB>n</SUB>）（n∈N*）是曲线y=e<SUP>x</SUP>上的点，a<SUB>1</SUB>=a，S<SUB>n</SUB>是数列{a<SUB>n</SUB>}的前n项和，且满足：<BR><IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432131631121.gif">，n=2，3，4，… <BR>（Ⅰ）证明数列<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432131701154.gif">是常数数列；<BR>（Ⅱ）确定a的取值集合M，使a∈M时，数列{a<SUB>n</SUB>}是单调递增数列；<BR>（Ⅲ）证明当a∈M时，弦A<SUB>n</SUB>A<SUB>n+1</SUB>（n∈N*）的斜率随n单调递增。 </TD></TR></TBODY></TABLE>
+                        <div class="provider" id="q_indexkuai2211">
+                            <div class="splitline">
+                            </div>
+                            <div class="right rightDiv" id="q_indexkuai22111">
+                                <span>题型：解答题</span><span>难度：偏难</span><span>来源：湖南省高考真题</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai3">
+                <div class="q_mktitle" id="q_indextitle4">
+                    答案</div>
+                <div class="q_content" id="q_indexkuai32">
+                    <div class="q_bot" id="q_indexkuai321">
+                        <TABLE style="WORD-BREAK: break-all"  cellSpacing=0 width=650>
+<TBODY>
+<TR>
+<TD>解：（Ⅰ）当n≥2时，由已知得<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432131771047.gif">，<BR>因为<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432131831269.gif">， …………① <BR>于是<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432132031063.gif">， …………② <BR>由②-①得<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432132091016.gif">， …………③ <BR>于是<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432132151031.gif">， …………④ <BR>由④-③得<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/20120202143213221965.gif">， …………⑤ <BR>所以<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432132281624.gif">(n≥2)是常数列。<BR>（Ⅱ）由①有<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432132341178.gif">，<BR>由③有<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432132421372.gif">，<BR>而⑤表明：数列<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432132481099.gif">分别是以a<SUB>2</SUB>、a<SUB>3</SUB>为首项，6为公差的等差数列，<BR>所以<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432132541525.gif">，<BR>数列<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/20120202143213260894.gif">是单调递增数列<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432132661152.gif">对任意的k∈N*成立<BR><IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432132721558.gif"><BR><IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432132841385.gif">，<BR>即所求a的取值集合是<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432132901194.gif">。<BR>（Ⅲ）弦<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432132971513.gif">，<BR>任取x<SUB>0</SUB>，设函数<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432133031557.gif">，<BR>记<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432133091530.gif">，<BR>当<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432133161254.gif">上为增函数，<BR>当<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432133221249.gif">上为减函数，<BR>所以<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432133281131.gif">，从而f′（x）＞0，<BR>所以f（x）在<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432133341073.gif">上都是增函数；<BR>由（Ⅱ）知，当a∈M时，数列<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/20120202143213340894.gif">单调递增，<BR>取<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432133491706.gif">；<BR>取<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432133551761.gif">；<BR>所以<IMG style="VERTICAL-ALIGN: middle" border=0 src="http://pic1.mofangge.com/upload/papers/g02/20120202/201202021432133611231.gif">的斜率随n单调递增。 </TD></TR></TBODY></TABLE>
+                        <div class="right beShare" id="q_indexkuai3211">
+                            <span class="share_note">马上分享给同学</span>
+                            <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
+                                <a class="bds_qzone"></a><a class="bds_tieba"></a><a class="bds_hi"></a><a class="bds_sqq">
+                                </a><span class="bds_more"></span><a class="shareCount"></a>
+                            </div>
+
+                            <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=523656"></script>
+
+                            <script type="text/javascript" id="bdshell_js"></script>
+
+                            <script type="text/javascript">
+                                document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                            </script>
+
+                            <!-- Baidu Button END -->
+                        </div>
+                        <div class="provider" id="q_indexkuai3212">
+                            <div class="splitline">
+                            </div>
+                            <ul class="qditaltools" id="ques_tools">
+                                <li><a class="tools_jc" id="qdebug">揪错</a></li>
+                                <li><a class="tools_sc" id="b2tocollect">收藏</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="ad_center">
+
+               <!-- <script type="text/javascript">                    BAIDU_CLB_fillSlot("762612");</script>-->
+
+            </div>
+            <div class="q_mokuai" id="q_indexkuai4">
+                <div class="q_indextitle" id="q_indexkuai41">
+                    <div class="q_indextitle2" id="q_indextitle2">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai5">
+                <div class="q_content" id="q_indexkuai51">
+                    <div class="q_bot" id="q_indexkuai511">
+                        <div class="SecTotal">
+                            据魔方格专家权威分析，试题“已知An（an，bn）（n∈N*）是曲线y=ex上的点，a1=a，Sn是数列{an}的前..”主要考查你对&nbsp;&nbsp;<span id="seclist"><span class="secname">常数数列</span>，<span class="secname">函数的单调性与导数的关系</span>，<span class="secname">递增数列和递减数列</span>，<span class="secname">直线的倾斜角与斜率</span></span>&nbsp;&nbsp;等考点的理解。关于这些考点的“档案”如下：</div>
+                        <div class="linote">
+                            现在没空？<span class="btn" onclick="addfavorite()">点击收藏</span>，以后再看。</div>
+                        <div class="linote">
+                            因为篇幅有限，只列出部分考点，详细请访问<a class="btn" href="http://www.mofangge.com" target="_blank"
+                                id="gohome_hr_2">魔方格学习社区</a>。</div>
+                    </div>
+                    <div class="secchkdiv"  id="q_indexkuai512">
+                        <div class="secchkPanel" id="secchkPanel">
+                            <span class="CheckedPanel" id="panel539" title="常数数列">常数数列</span><span class="unCheckPanel" id="panel506" title="函数的单调性与导数的关系" >函数的单调性与导数的关系</span><span class="unCheckPanel" id="panel541" title="递增数列和递减数列" >递增数列和递减数列</span><span class="unCheckPanel" id="panel625" title="直线的倾斜角与斜率" >直线的倾斜角与斜率</span>
+                            <div class="clearfix">
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 20px; display: block; width: 300px;">
+                    </div>
+                    <div class="q_bot" id="secinfoPanel">
+                        <div class="q_bot" id="secInfo_539"><div class="secinfo">考点名称：<span class="secname">常数数列</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>常数列的定义：</STRONG></P>
+<P>各项相等的数列叫做常数列。</P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>构造常数数列巧求数列的通项公式：</STRONG></P>
+<P>非零常数列既是公比为1的等比数列也是公差为0的等差数列。在数列{a<SUB>n</SUB>}中，若a<SUB>n+1</SUB>=a<SUB>n</SUB>,则数列{a<SUB>n</SUB>}为常数列，其通项公式为a<SUB>n</SUB>=a<SUB>1</SUB>。在求某些递推数列的通项公式时，若能构造出一个新的常数列，便能简捷地求出通项公式。</P></div></li></ul></div><div class="q_bot" style="display:none"  id="secInfo_506"><div class="secinfo">考点名称：<span class="secname">函数的单调性与导数的关系</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>导数和函数的单调性的关系：</STRONG> </P>
+<P>（1）若f′（x）&gt;0在（a，b）上恒成立，则f（x）在（a，b）上是增函数，f′（x）&gt;0的解集与定义域的交集的对应区间为增区间； <BR>（2）若f′（x）&lt;0在（a，b）上恒成立，则f（x）在（a，b）上是减函数，f′（x）&lt;0的解集与定义域的交集的对应区间为减区间。 </P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>利用导数求解多项式函数单调性的一般步骤： </STRONG></P>
+<P>①确定f（x）的定义域； <BR>②计算导数f′（x）； <BR>③求出f′（x）=0的根； <BR>④用f′（x）=0的根将f（x）的定义域分成若干个区间，列表考察这若干个区间内f′（x）的符号，进而确定f（x）的单调区间：f′（x）&gt;0，则f（x）在对应区间上是增函数，对应区间为增区间；f′（x）&lt;0，则f（x）在对应区间上是减函数，对应区间为减区间。</P>
+<P><STRONG>函数的导数和函数的单调性关系特别提醒：</STRONG></P>
+<P>若在某区间上有有限个点使f′(x)=0，在其余的点恒有f′（x）&gt;0，则f(x)仍为增函数（减函数的情形完全类似）．即在区间内f′(x)&gt;0是f(x)在此区间上为增函数的充分条件，而不是必要条件。&nbsp;<BR></P></div></li></ul></div><div class="q_bot" style="display:none"  id="secInfo_541"><div class="secinfo">考点名称：<span class="secname">递增数列和递减数列</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>递增数列的定义：</STRONG></P>
+<P>一般地，一个数列{a<SUB>n</SUB>}，如果从第2项起，每一项都大于它的前一项的数列叫做递增数列。 </P>
+<P><STRONG>递减数列的定义：</STRONG></P>
+<P>如果从第2项起，每一项都小于它的前一项的数列叫做递减数列。</P>
+<P><STRONG>单调数列：</STRONG></P>
+<P>递增数列和递减数列通称为单调数列.&nbsp;</P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>数列的单调性:</STRONG></P>
+<P>1.对单调数列的理解:数列是特殊的函数,特殊在于其定义域为正整数集或它的子集.有些数列不存在单调性.有些数列在正整数集上有多个单调情况,有些数列在正整数集上单调性一定;<BR>2.单调数列的判定方法:已知数列{a<SUB>n</SUB>}的通项公式，要讨论这个数列的单调性，即比较a<SUB>n</SUB>与a<SUB>n+1</SUB>的大小关系，可以作差比较；也可以作商比较，前提条件是数列各项为正。</P></div></li></ul></div><div class="q_bot" style="display:none"  id="secInfo_625"><div class="secinfo">考点名称：<span class="secname">直线的倾斜角与斜率</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>直线的倾斜角的定义：</STRONG></P>
+<P>x轴正向与直线向上方向之间所成的角叫直线的倾斜角。特别地，当直线与x轴平行或重合时，我们规定它的倾斜角为0度。因此，倾斜角的取值范围是0°≤α＜180°。 </P>
+<P><STRONG>直线的斜率的定义：</STRONG></P>
+<P>倾斜角不是90°的直线，它的倾斜角的正切值叫做这条直线的斜率。直线的斜率常用k表示。即k=tanα。斜率反映直线与x轴的倾斜程度。<BR></P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>直线斜率的性质：</STRONG></P>
+<P>当<IMG style="HEIGHT: 26px; WIDTH: 80px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/02/20120829/20120829134821491691.png">时，k≥0；当<IMG style="HEIGHT: 28px; WIDTH: 94px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/02/20120829/20120829134821511826.png">时，k＜0；当<IMG style="HEIGHT: 18px; WIDTH: 49px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/02/20120829/20120829134821546402.png">时，k不存在。 </P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>直线倾斜角的理解：</STRONG></P>
+<P>（1）注意“两个方向”：直线向上的方向、x轴的正方向；<BR><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20140103/201401031013126675294.jpg"> <BR>（2）规定当直线和x轴平行或重合时，它的倾斜角为0度。<BR><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20140103/2014010310131385325450.jpg"> </P>
+<P><STRONG>直线倾斜角的意义：</STRONG></P>
+<P>①直线的倾斜角，体现了直线对x轴正向的倾斜程度；<BR>②在平面直角坐标系中，每一条直线都有一个确定的倾斜角；<BR>③倾斜角相同，未必表示同一条直线。</P>
+<P><STRONG>直线斜率的理解：</STRONG></P>
+<P>每条直线都有倾斜角，但每条直线不一定都有斜率，<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20140103/201401031013143214887.jpg"> 斜率不存在；当<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20140103/201401031013152415369.jpg"> 也逐渐增大；<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20140103/201401031013156315701.jpg"> 且逐渐增大。</P></div></li></ul></div>
+                        <div class="seccopyright">
+                            以上内容为魔方格学习社区（www.mofangge.com）原创内容，未经允许不得转载！</div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai"  id="q_indexkuai6">
+                <div class="q_indextitle" id="q_indexkuai61"> 
+                    <div class="q_indextitle3" id="q_indextitle3">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai7">
+                <div class="q_mktitle" id="q_indexkuai71">
+                    发现相似题</div>
+                <div class="q_content" id="q_indexkuai72">
+                    <div class="q_sameline" id="q_indexkuai721">
+                        与<span>“已知An（an，bn）（n∈N*）是曲线y=ex上的点，a1=a，Sn是数列{an}的前..”</span>考查相似的试题有：</div>
+                    <div class="q_bot" id="q_indexkuai722">
+                        <!-- $xiangsiqidlist$ -->
+                        <table border="0" cellpadding="1" class="nearQues" style="line-height: 24px;">
+                            <thead>
+                                <tr>
+                                    <th width="15%">
+                                        试题ID
+                                    </th>
+                                    <th>
+                                        试题题文
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>254088</td><td><a href="http://www.mofangge.com/html/qDetail/02/g2/201108/k9lag202254088.html">已知Sk表示数列{ak}的前k项和，且Sk+Sk+1=ak+1(k∈N*），那么此数列..</a></td></tr><tr><td>268881</td><td><a href="http://www.mofangge.com/html/qDetail/02/g2/201112/ms38g202268881.html">下列叙述正确的是[]A．数列1，3，5，7与7，5，3，1是相同的数列B．..</a></td></tr><tr><td>272727</td><td><a href="http://www.mofangge.com/html/qDetail/02/g3/201203/gqn2g302272727.html">设Sn为数列{an}的前n项和（n=1，2，3，……）。按如下方式定义数列{a..</a></td></tr><tr><td>269655</td><td><a href="http://www.mofangge.com/html/qDetail/02/g3/201202/rrzsg302269655.html">已知An（an，bn）（n∈N*）是曲线y=ex上的点，a1=a，Sn是数列{an}的前..</a></td></tr><tr><td>249180</td><td><a href="http://www.mofangge.com/html/qDetail/02/g3/201105/pe8hg302249180.html">数列{an}满足：an+1=3an-3an2，n=1，2，3，…。（Ⅰ）若数列{an}为常数..</a></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="q_right">
+            <!--<script type="text/javascript">BAIDU_CLB_fillSlot("762611");</script>-->
+            <div id="container_ext">
+            </div>
+            <!--<div class="Extra_right" id="Extra_right">
+            <div class="Extra_right1">
+                    <div class="div1" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_3">
+                        <div class="image1">
+                        </div>
+                    </div>
+                    <div class="div2" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_4">
+                    </div>
+                    <div class="div1" onclick="addfavorite()">
+                        <div class="image2">
+                        </div>
+                    </div>
+                    <div class="div2" id="keep_detail" onclick="addfavorite()">
+                    </div>
+                    <div class="div4">
+                        <div class="image3">
+                        </div>
+                        <div class="div3">
+                        </div>
+                        <div id="turn_weixin">
+                        </div>
+                        <p class="dttaildes">
+                            扫一扫，有惊喜</p>
+                    </div>
+                    <div class="div6">
+                        <iframe src="http://open.qzone.qq.com/like?url=http%3A%2F%2Fuser.qzone.qq.com%2F17175515&type=button_num&width=400&height=30&style=2 
+
+" allowtransparency="true" scrolling="no" border="0" frameborder="0" style="width: 400px; height: 30px; border: none;
+                            overflow: hidden;"></iframe>
+                            <iframe id="review" height="24" marginheight="0" src="http://follow.v.t.qq.com/index.php?c=follow&amp;a=quick&amp;appkey=801507580&amp;sign=bab9dd3a&amp;v=2&amp;name=mofangge520&amp;style=5&amp;t=1400310722678&amp;f=0" frameborder="0" width="125" allowtransparency="" marginwidth="0"></iframe>
+                        <p>
+                           <img src="/css/style1/forqdetail/threejt.png" width="54px" height="21px" style="vertical-align:middle;"> 关注QQ空间<br>
+                            学习秘籍，尽在此地</p>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+     </div>
+    <div class="copyright">
+        <div id="MFG_Features">“魔方格学习社区”各栏目介绍之--试题搜索：千万道试题，涵盖中小学十二学年九大学科，绝无仅有的学习领地，访问www.mofangge.com，只会让你更多的惊讶。</div><script type="text/javascript" src="/js/comm/mfgconfig.js"></script>
+        © 2014 <a href="http://www.mofangge.com" style="color: White">魔方格</a> 版权所有
+        <span id="thispage_lastlog_time"> 最后访问时间：2015-08-30 20:42:15</span>
+    </div>
+</body>
+
+<script src="/js/inc/mootools-core.js" type="text/javascript"></script>
+
+<script src="/js/comm/comm.js" type="text/javascript"></script>
+
+<script src="/js/comm/mfg_debug.js" type="text/javascript"></script>
+
+<script src="/js/comm/Ques_comm.js" type="text/javascript"></script>
+
+<script src="/js/app/qdetail/qdetail1.js?v=20150130" type="text/javascript"></script>
+
+</html>

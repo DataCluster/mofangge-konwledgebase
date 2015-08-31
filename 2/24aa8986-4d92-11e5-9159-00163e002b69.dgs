@@ -1,0 +1,247 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>有一匀强电场，电场线与坐标平面xOy平行，以原点为圆心，半径r=5cm的圆周上任意一点P的电势U=[40sin（θ+45°）+25]V，θ为O、P两点连线与x轴的夹角，如图所示，则该匀强电场的电-物理-魔方格</title>
+    <meta name="renderer" content="webkit" />
+    <link id="favicon" href="/logo.ico" rel="icon" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="有一匀强电场，电场线与坐标平面xOy平行，以原点为圆心，半径r=5cm的圆周上任意一点P的电势U=[40sin（θ+45°）+25]V，θ为O、P两点连线与x轴的夹角，如图所示，则该匀强电场的电-物理-魔方格" />
+    <meta name="keywords" content="有一匀强电场，电场线与坐标平面xOy平行，以原点为圆心，半径r=5cm的圆周上任意一点P的电势U=[40sin（θ+45°）+25]V，θ为O、P两点连线与x轴的夹角，如图所示，则该匀强电场的电-物理-魔方格" />
+    <link href="/css/style1/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style1/forqdetail1.css" rel="stylesheet" type="text/css" />
+    <link href="http://bdimg.share.baidu.com/static/css/bdsstyle.css?cdnversion=20130704"
+        rel="stylesheet" type="text/css">
+
+    <script src="http://bdimg.share.baidu.com/static/js/logger.js?cdnversion=382066"></script>
+
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+
+</head>
+<body>
+    <div class="head">
+        <a class="goback1" href="javascript:void(0)" id="gohome_cl_1"></a>
+        <ul id="menu_daohang" class="menu">
+            <a href="javascript:void(0)" id="gohome_cl_2">首页</a> <span class="current">试题专页</span>
+        </ul>
+        <ul class="user_but" id="main_user_info">
+            <li id="gohome_reg_1">注册</li>
+            <li id="gohome_login_1">登录</li>
+        </ul>
+    </div>
+    <div class="bgcolorshow">
+        <!--为了兼容占位-->
+    </div>
+    <div class="content">
+        <div class="nagetivebanner">
+            <div class="teach_note">
+                <div id="teach_notetxt" class="teach_notepic">
+                </div>
+            </div>
+            <div id="teach_detail" class="teach_detail">
+                <span id="teach_detail1"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail2"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail3"></span>
+            </div>
+        </div>
+        <div class="nagetivebanner1">
+            <div class="seotop">
+                <span class="seotops">当前位置：<a href="http://www.mofangge.com" id="gohome_hr_1">魔方格</a>
+                    ＞<a href="http://www.mofangge.com/qlist/wuli/" title="物理">物理</a>＞<a href="http://www.mofangge.com/qlist/wuli/483/" title="匀强电场">匀强电场</a>＞有一匀强电场，电场线与坐标平面xOy平行，以原点为圆心，半径r=5..</span>
+            </div>
+        </div>
+        <div style="float: left; width: 720px;">
+            <div class="q_mokuai" id="q_indexkuai1">
+                <div class="q_indextitle" id="q_indexkuai11">
+                    <div class="q_indextitle1" id="q_indextitle1">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai2">
+                <div class="q_mktitle" id="q_indexkuai21">
+                    题文</div>
+                <div class="q_content" id="q_indexkuai22">
+                    <div class="q_bot" id="q_indexkuai221">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><span ></span>有一匀强电场，电场线与 坐标平面xOy平行，以原点为圆心，半径r=5cm的圆周上任意一点P的电势U=[40sin（θ+45°）+25]V，θ为O、P两点连线与x轴的夹角，如图所示，则该匀强电场的电场强度大小为______V/m，方向______．<div><img alt="魔方格" src="http://pic2.mofangge.com/upload/papers//20131203/201312031228083802213.png" ></div></TD></TR></TBODY></TABLE>
+                        <div class="provider" id="q_indexkuai2211">
+                            <div class="splitline">
+                            </div>
+                            <div class="right rightDiv" id="q_indexkuai22111">
+                                <span>题型：填空题</span><span>难度：中档</span><span>来源：上海模拟</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai3">
+                <div class="q_mktitle" id="q_indextitle4">
+                    答案</div>
+                <div class="q_content" id="q_indexkuai32">
+                    <div class="q_bot" id="q_indexkuai321">
+                        <TABLE style="WORD-BREAK: break-all" width=650 ><TBODY><TR><TD>任意一点P的电势U=[40sin（θ+45°）+25]V，θ=0°和90°的时候，电势相等，<br>从数学角度可以看出θ是关于与x、y轴负向都夹45°角轴对称时 电势总相等．<br>那么就是说每1条垂直于与x、y轴负向都夹45°角轴的直线都是等势面，<br>那么与x、y轴负向都夹45°角方向就是场强方向．<br>当θ=45°时，P的电势最大，为65V，<br>当θ=180°+45°时，P的电势最小，为-15V，<br>根据U=Ed得<br>E=<span  mathtag="math" ><table cellspacing="-1" cellpadding="-1" style="width:auto;display:inline-table;*display:inline;vertical-align:middle;margin:0;padding:0;text-align:center;line-height:normal;" style="display:inline-table;vertical-align:middle"><tr><td style="border-bottom:1px solid black">U</td></tr><tr><td>d</td></tr></table></span>=800V/m，<br>故答案为：800，与x、y轴负向都夹45°角．</TD></TR></TBODY></TABLE>
+                        <div class="right beShare" id="q_indexkuai3211">
+                            <span class="share_note">马上分享给同学</span>
+                            <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
+                                <a class="bds_qzone"></a><a class="bds_tieba"></a><a class="bds_hi"></a><a class="bds_sqq">
+                                </a><span class="bds_more"></span><a class="shareCount"></a>
+                            </div>
+
+                            <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=523656"></script>
+
+                            <script type="text/javascript" id="bdshell_js"></script>
+
+                            <script type="text/javascript">
+                                document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                            </script>
+
+                            <!-- Baidu Button END -->
+                        </div>
+                        <div class="provider" id="q_indexkuai3212">
+                            <div class="splitline">
+                            </div>
+                            <ul class="qditaltools" id="ques_tools">
+                                <li><a class="tools_jc" id="qdebug">揪错</a></li>
+                                <li><a class="tools_sc" id="b2tocollect">收藏</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="ad_center">
+
+               <!-- <script type="text/javascript">                    BAIDU_CLB_fillSlot("762612");</script>-->
+
+            </div>
+            <div class="q_mokuai" id="q_indexkuai4">
+                <div class="q_indextitle" id="q_indexkuai41">
+                    <div class="q_indextitle2" id="q_indextitle2">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai5">
+                <div class="q_content" id="q_indexkuai51">
+                    <div class="q_bot" id="q_indexkuai511">
+                        <div class="SecTotal">
+                            据魔方格专家权威分析，试题“有一匀强电场，电场线与坐标平面xOy平行，以原点为圆心，半径r=5..”主要考查你对&nbsp;&nbsp;<span id="seclist"><span class="secname">匀强电场</span></span>&nbsp;&nbsp;等考点的理解。关于这些考点的“档案”如下：</div>
+                        <div class="linote">
+                            现在没空？<span class="btn" onclick="addfavorite()">点击收藏</span>，以后再看。</div>
+                        <div class="linote">
+                            因为篇幅有限，只列出部分考点，详细请访问<a class="btn" href="http://www.mofangge.com" target="_blank"
+                                id="gohome_hr_2">魔方格学习社区</a>。</div>
+                    </div>
+                    <div class="secchkdiv"  id="q_indexkuai512">
+                        <div class="secchkPanel" id="secchkPanel">
+                            <span class="CheckedPanel" id="panel483" title="匀强电场">匀强电场</span>
+                            <div class="clearfix">
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 20px; display: block; width: 300px;">
+                    </div>
+                    <div class="q_bot" id="secinfoPanel">
+                        <div class="q_bot" id="secInfo_483"><div class="secinfo">考点名称：<span class="secname">匀强电场</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><STRONG>匀强电场：<BR><BR></STRONG>1、定义：在电场中，如果各点的场强的大小和方向都相同，这样的电场叫匀强电场。匀强电场中的电场线是间距相等且互相平行的直线。<BR>2、场源：相距很近，带有等量异种电荷的一对平行金属板之间的电场，除边缘部分外，可以看做匀强电场</div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>电场中图像类问题的解法：</STRONG></P>
+<P>&nbsp;1．电场的E—x图像与φ一x图像<BR>在给定了电场的E—x图像时，可以由图线确定x 轴上各点场强的大小及方向。此外还可以确定x轴上各点的电势变化情况：E—x图线与x轴所围图形的面积表示电势差。<BR>在给定了电场的φ—x图像时，除了可以直接确定x轴上各点电势的高低及电势变化情况，还可以确定x 轴上各点场强(或沿x轴方向上的场强分量)的大小及方向：图线斜率大小表示场强大小，斜率正负表示场强方向。<BR>当E一x图像或φ一x图像与粒子运动相结合时，可利用电场力与场强、加速度的关系及电场力做功与动能、电势能和电势等的关系来解决涉及粒子电性、电场力、电势能、动能、速度、加速度等的相关问题。<BR>在这类题目中，还可以把E—x图像或φ一x图像假设为我们熟悉的、符合给定变化规律的某一种电场，利用这种已知电场的电场线分布、等势面分布或场源电荷来处理相关问题。 <BR>2．粒子运动的v一t图像当带电粒子只在电场力作用下运动时，如果给出了粒子运动的速度图像，则从速度图像上能确定粒子运动的加速度方向、加速度大小变化情况，进而可将粒子运动中经历的各点的场强方向、场强大小、电势高低等情况判定出来。<BR>3．粒子运动的v一x图像<BR>在v一x图像中，图像的斜率并不是粒子运动的加速度，虽然从 v一x图像仍可判定粒子是加速运动还是减速运动，但加速度的大小变化情况却不一定能够判定出来，如在图中，图线的某点切线斜率：<IMG style="WIDTH: 171px; HEIGHT: 43px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131230/201312301713076983560.png"><IMG style="WIDTH: 46px; HEIGHT: 43px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131230/20131230171307760832.png">所以在粒子经过某位置时的加速度a=kv。图线①③所表示的粒子在运动中加速度增大，图线④⑤ 所表示的粒子在运动中加速度减小，而图线②⑥表示的粒子在运动中加速度变化情况不能确定。<BR>在能够确定粒子运动中加速度的变化情况之后，解决问题的方法与已知v—t图像相同。<BR><BR><STRONG>给定带电粒子运动轨迹类问题的解法：</STRONG></P>
+<P>在涉及带电粒子运动轨迹的问题中，主要有三种类型：一是与电场线相结合，其中有给定电场方向和电场线方向未知的两种情况；二是与等势线相结合，有标出等势线电势数值和未标出电势数值的两种情况；三是给定场源电荷的情况。<BR>解决这类问题的第一步先要根据带电粒子运动轨迹弯曲的方向范围，判定出带电粒子受到合外力的方向范围，由运动轨迹的切线判定出带电粒子的初速度、末速度及特殊位置的速度方向。<BR>第二步由电场线分布、等势线分布、场源电荷的位置确定电场力的方向。电场力的方向应与所在处电场线、等势面的垂线在同一直线上，至于给定的是场源电荷时，单一场源电荷看该点与场源电荷的连线，多个场源电荷时利用场的叠加原理。<BR>第三步由电场力的方向与速度方向问的夹角，确定粒子运动中电场力做功情况、动能变化情况，电势能变化情况。若是粒子的电性已知或电场线的方向已知、等势线的电势高低已知、场源电荷电性已知时，可由其一判定另一种情况。<BR>第四步在涉及受力大小、加速度大小变化情况时，可将电场线分布疏密程度、等势线分布疏密程度与场源电荷相对位置的变化等情况相联系。</P></div></li></ul></div>
+                        <div class="seccopyright">
+                            以上内容为魔方格学习社区（www.mofangge.com）原创内容，未经允许不得转载！</div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai"  id="q_indexkuai6">
+                <div class="q_indextitle" id="q_indexkuai61"> 
+                    <div class="q_indextitle3" id="q_indextitle3">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai7">
+                <div class="q_mktitle" id="q_indexkuai71">
+                    发现相似题</div>
+                <div class="q_content" id="q_indexkuai72">
+                    <div class="q_sameline" id="q_indexkuai721">
+                        与<span>“有一匀强电场，电场线与坐标平面xOy平行，以原点为圆心，半径r=5..”</span>考查相似的试题有：</div>
+                    <div class="q_bot" id="q_indexkuai722">
+                        <!-- $xiangsiqidlist$ -->
+                        <table border="0" cellpadding="1" class="nearQues" style="line-height: 24px;">
+                            <thead>
+                                <tr>
+                                    <th width="15%">
+                                        试题ID
+                                    </th>
+                                    <th>
+                                        试题题文
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>92672</td><td><a href="http://www.mofangge.com/html/qDetail/04/g3/201104/f7m0g30492672.html">如图所示，圆O处在匀强电场中，场强方向与圆O所在平面平行，带正..</a></td></tr><tr><td>90535</td><td><a href="http://www.mofangge.com/html/qDetail/04/g2/201103/txjwg20490535.html">如图所示各图中，A、B两点电场强度相等的是[]A．B．C．D．</a></td></tr><tr><td>159401</td><td><a href="http://www.mofangge.com/html/qDetail/04/g0/201310/3vl5g004159401.html">下列哪个电场线图正确描述了两块靠近的、分别带等量正负电荷的平..</a></td></tr><tr><td>90503</td><td><a href="http://www.mofangge.com/html/qDetail/04/g2/201103/dm8rg20490503.html">如图所示的各电场中，A、B两点电场强度相等的图是[]A、B、C、D、</a></td></tr><tr><td>107504</td><td><a href="http://www.mofangge.com/html/qDetail/04/g3/201109/f81qg304107504.html">某空间存在水平方向的匀强电场（图中未画出），带电小球沿如图所示..</a></td></tr><tr><td>113669</td><td><a href="http://www.mofangge.com/html/qDetail/04/g3/201201/8kw0g304113669.html">在竖直向下的匀强电场中，有a、b、c、d四个带电质点，各以水平向..</a></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="q_right">
+            <!--<script type="text/javascript">BAIDU_CLB_fillSlot("762611");</script>-->
+            <div id="container_ext">
+            </div>
+            <!--<div class="Extra_right" id="Extra_right">
+            <div class="Extra_right1">
+                    <div class="div1" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_3">
+                        <div class="image1">
+                        </div>
+                    </div>
+                    <div class="div2" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_4">
+                    </div>
+                    <div class="div1" onclick="addfavorite()">
+                        <div class="image2">
+                        </div>
+                    </div>
+                    <div class="div2" id="keep_detail" onclick="addfavorite()">
+                    </div>
+                    <div class="div4">
+                        <div class="image3">
+                        </div>
+                        <div class="div3">
+                        </div>
+                        <div id="turn_weixin">
+                        </div>
+                        <p class="dttaildes">
+                            扫一扫，有惊喜</p>
+                    </div>
+                    <div class="div6">
+                        <iframe src="http://open.qzone.qq.com/like?url=http%3A%2F%2Fuser.qzone.qq.com%2F17175515&type=button_num&width=400&height=30&style=2 
+
+" allowtransparency="true" scrolling="no" border="0" frameborder="0" style="width: 400px; height: 30px; border: none;
+                            overflow: hidden;"></iframe>
+                            <iframe id="review" height="24" marginheight="0" src="http://follow.v.t.qq.com/index.php?c=follow&amp;a=quick&amp;appkey=801507580&amp;sign=bab9dd3a&amp;v=2&amp;name=mofangge520&amp;style=5&amp;t=1400310722678&amp;f=0" frameborder="0" width="125" allowtransparency="" marginwidth="0"></iframe>
+                        <p>
+                           <img src="/css/style1/forqdetail/threejt.png" width="54px" height="21px" style="vertical-align:middle;"> 关注QQ空间<br>
+                            学习秘籍，尽在此地</p>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+     </div>
+    <div class="copyright">
+        <div id="MFG_Features">“魔方格学习社区”各栏目介绍之--考点百科：涵盖中小学十二学年九大学科所有的考点百科知识，定义类、定理类、导图类、特性类、点拨类，应有尽有，绝对是你的课前预习好帮手，前往www.mofangge.com，垂手可得。</div><script type="text/javascript" src="/js/comm/mfgconfig.js"></script>
+        © 2014 <a href="http://www.mofangge.com" style="color: White">魔方格</a> 版权所有
+        <span id="thispage_lastlog_time"> 最后访问时间：2015-08-31 13:06:45</span>
+    </div>
+</body>
+
+<script src="/js/inc/mootools-core.js" type="text/javascript"></script>
+
+<script src="/js/comm/comm.js" type="text/javascript"></script>
+
+<script src="/js/comm/mfg_debug.js" type="text/javascript"></script>
+
+<script src="/js/comm/Ques_comm.js" type="text/javascript"></script>
+
+<script src="/js/app/qdetail/qdetail1.js?v=20150130" type="text/javascript"></script>
+
+</html>

@@ -1,0 +1,256 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>已知幂函数y=f(x)的图象过点（2，），试求出此函数的解析式，并写出其定义域，判断奇偶性，单调性．-高二数学-魔方格</title>
+    <meta name="renderer" content="webkit" />
+    <link id="favicon" href="/logo.ico" rel="icon" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="已知幂函数y=f(x)的图象过点（2，），试求出此函数的解析式，并写出其定义域，判断奇偶性，单调性．-高二数学-魔方格" />
+    <meta name="keywords" content="已知幂函数y=f(x)的图象过点（2，），试求出此函数的解析式，并写出其定义域，判断奇偶性，单调性．-高二数学-魔方格" />
+    <link href="/css/style1/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style1/forqdetail1.css" rel="stylesheet" type="text/css" />
+    <link href="http://bdimg.share.baidu.com/static/css/bdsstyle.css?cdnversion=20130704"
+        rel="stylesheet" type="text/css">
+
+    <script src="http://bdimg.share.baidu.com/static/js/logger.js?cdnversion=382066"></script>
+
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+
+</head>
+<body>
+    <div class="head">
+        <a class="goback1" href="javascript:void(0)" id="gohome_cl_1"></a>
+        <ul id="menu_daohang" class="menu">
+            <a href="javascript:void(0)" id="gohome_cl_2">首页</a> <span class="current">试题专页</span>
+        </ul>
+        <ul class="user_but" id="main_user_info">
+            <li id="gohome_reg_1">注册</li>
+            <li id="gohome_login_1">登录</li>
+        </ul>
+    </div>
+    <div class="bgcolorshow">
+        <!--为了兼容占位-->
+    </div>
+    <div class="content">
+        <div class="nagetivebanner">
+            <div class="teach_note">
+                <div id="teach_notetxt" class="teach_notepic">
+                </div>
+            </div>
+            <div id="teach_detail" class="teach_detail">
+                <span id="teach_detail1"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail2"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail3"></span>
+            </div>
+        </div>
+        <div class="nagetivebanner1">
+            <div class="seotop">
+                <span class="seotops">当前位置：<a href="http://www.mofangge.com" id="gohome_hr_1">魔方格</a>
+                    ＞<a href="http://www.mofangge.com/qlist/shuxue/" title="数学">数学</a>＞<a href="http://www.mofangge.com/qlist/shuxue/494/" title="幂函数">幂函数</a>＞已知幂函数y=f(x)的图象过点（2，），试求出此函数的解析式，并写出..</span>
+            </div>
+        </div>
+        <div style="float: left; width: 720px;">
+            <div class="q_mokuai" id="q_indexkuai1">
+                <div class="q_indextitle" id="q_indexkuai11">
+                    <div class="q_indextitle1" id="q_indextitle1">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai2">
+                <div class="q_mktitle" id="q_indexkuai21">
+                    题文</div>
+                <div class="q_content" id="q_indexkuai22">
+                    <div class="q_bot" id="q_indexkuai221">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><div>已知幂函数y=f(x)的图象过点（2，<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824055928390411.png" style="vertical-align:middle;" />），试求出此函数的解析式，并写出其定义域，判断奇偶性，单调性．</div></TD></TR></TBODY></TABLE>
+                        <div class="provider" id="q_indexkuai2211">
+                            <div class="splitline">
+                            </div>
+                            <div class="right rightDiv" id="q_indexkuai22111">
+                                <span>题型：解答题</span><span>难度：偏易</span><span>来源：不详</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai3">
+                <div class="q_mktitle" id="q_indextitle4">
+                    答案</div>
+                <div class="q_content" id="q_indexkuai32">
+                    <div class="q_bot" id="q_indexkuai321">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><div>f(x)= <img src="http://pic2.mofangge.com/upload/papers//20140824/20140824055928405395.png" style="vertical-align:middle;" />,其定义域为（0，<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824055928421335.png" style="vertical-align:middle;" />）; 无奇偶性，f(x)在(0, <img src="http://pic2.mofangge.com/upload/papers//20140824/20140824055928421335.png" style="vertical-align:middle;" />)上单调递减。</div></TD></TR></TBODY></TABLE><TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><div><br />试题分析：用待定系数法：设幂函数的解析式为<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824055928468471.png" style="vertical-align:middle;" />，由图象过点（2，<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824055928390411.png" style="vertical-align:middle;" />）代入解析式可求得<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824055928499310.png" style="vertical-align:middle;" />的值，从而求出函数的解析式，进而就可写出其定义域，判断奇偶性，单调性．<br />试题解析：设幂函数的解析式为<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824055928468471.png" style="vertical-align:middle;" />，因为图象过点（2，<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824055928390411.png" style="vertical-align:middle;" />），所以有：<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824055928561797.png" style="vertical-align:middle;" /><br /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824055928592195.png" style="vertical-align:middle;" />f(x)= <img src="http://pic2.mofangge.com/upload/papers//20140824/20140824055928405395.png" style="vertical-align:middle;" />,其定义域为（0，<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824055928421335.png" style="vertical-align:middle;" />）;由于定义域不关于原点对称，所心无奇偶性，又<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824055928639556.png" style="vertical-align:middle;" />f(x)在(0, <img src="http://pic2.mofangge.com/upload/papers//20140824/20140824055928421335.png" style="vertical-align:middle;" />)上单调递减。</div></TD></TR></TBODY></TABLE>
+                        <div class="right beShare" id="q_indexkuai3211">
+                            <span class="share_note">马上分享给同学</span>
+                            <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
+                                <a class="bds_qzone"></a><a class="bds_tieba"></a><a class="bds_hi"></a><a class="bds_sqq">
+                                </a><span class="bds_more"></span><a class="shareCount"></a>
+                            </div>
+
+                            <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=523656"></script>
+
+                            <script type="text/javascript" id="bdshell_js"></script>
+
+                            <script type="text/javascript">
+                                document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                            </script>
+
+                            <!-- Baidu Button END -->
+                        </div>
+                        <div class="provider" id="q_indexkuai3212">
+                            <div class="splitline">
+                            </div>
+                            <ul class="qditaltools" id="ques_tools">
+                                <li><a class="tools_jc" id="qdebug">揪错</a></li>
+                                <li><a class="tools_sc" id="b2tocollect">收藏</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="ad_center">
+
+               <!-- <script type="text/javascript">                    BAIDU_CLB_fillSlot("762612");</script>-->
+
+            </div>
+            <div class="q_mokuai" id="q_indexkuai4">
+                <div class="q_indextitle" id="q_indexkuai41">
+                    <div class="q_indextitle2" id="q_indextitle2">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai5">
+                <div class="q_content" id="q_indexkuai51">
+                    <div class="q_bot" id="q_indexkuai511">
+                        <div class="SecTotal">
+                            据魔方格专家权威分析，试题“已知幂函数y=f(x)的图象过点（2，），试求出此函数的解析式，并写出..”主要考查你对&nbsp;&nbsp;<span id="seclist"><span class="secname">幂函数</span></span>&nbsp;&nbsp;等考点的理解。关于这些考点的“档案”如下：</div>
+                        <div class="linote">
+                            现在没空？<span class="btn" onclick="addfavorite()">点击收藏</span>，以后再看。</div>
+                        <div class="linote">
+                            因为篇幅有限，只列出部分考点，详细请访问<a class="btn" href="http://www.mofangge.com" target="_blank"
+                                id="gohome_hr_2">魔方格学习社区</a>。</div>
+                    </div>
+                    <div class="secchkdiv"  id="q_indexkuai512">
+                        <div class="secchkPanel" id="secchkPanel">
+                            <span class="CheckedPanel" id="panel494" title="幂函数">幂函数</span>
+                            <div class="clearfix">
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 20px; display: block; width: 300px;">
+                    </div>
+                    <div class="q_bot" id="secinfoPanel">
+                        <div class="q_bot" id="secInfo_494"><div class="secinfo">考点名称：<span class="secname">幂函数</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>冥函数的定义</STRONG>：</P>
+<P>一般地，函数y=x<SUP>α</SUP>叫做幂函数，其中x是自变量，α是常数。 </P>
+<P><STRONG>幂函数的解析式：</STRONG></P>
+<P>y=x<SUP>α</SUP></P>
+<P><STRONG>幂函数的图像：</STRONG></P>
+<P><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131127/2013112721443034631822.jpg"> </P><!--StartFragment -->
+<DIV>&nbsp;</DIV>
+<P><STRONG></STRONG>&nbsp;</P></div></li><li><div class="splitline"></div><div  class="notes"><P>&nbsp;<STRONG>幂函数图像的性质：</STRONG></P>
+<P>所有幂函数在(0，+∞)上都有定义．<BR>①α＞0，图像都过定点（0，0）和（1，1）；在区间（0，+∞）上单调递增；&nbsp;<BR>②α＜0，图像都过定点（1，1）；在区间（0，+∞）上单调递减;<BR>③当O&lt;a&lt;l时，曲线上凸，当a&gt;l时，曲线下凸．<BR>④当a=l时，图象为过点(0，0)和(1，1)的直线．<BR>⑤当a=0时，<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131127/20131127214430643915.jpg">表示过点(1，1)且平行于x轴的直线(除去点(0，1))&nbsp;。</P>
+<P><STRONG>幂函数图象的其他性质：</STRONG></P>
+<P>(1)图象的对称性：<BR>把幂函数<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131127/20131127214430643915.jpg">的幂指数a（只讨论a是有理数的情况）表示成既约分数的形式（整数看作是分母1的分数），则不论a&gt;0还是a&lt;0，幂函数<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131127/20131127214430643915.jpg">的图象的对称性用口诀记为：“子奇母偶孤单单；母奇子偶分两边；分子分母均为奇，原点对称莫忘记”，<BR>&nbsp;(2)图象的形状：<BR>&nbsp;①若a&gt;0，则幂函数<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131127/20131127214430643915.jpg">的图象为抛物线形，当a&gt;l时，图象在[0，+∞）上是向下凸的（称为凸函数）；当O&lt;a&lt;l时，图象在[o，+∞）上是向上凸的（称为凹函数）．<BR>&nbsp;②若a&lt;0，则幂函数y=x“的图象是双曲线形，图象与x轴、y轴无限接近，在(0，+∞)上图象都是向下凸的。</P>
+<P><STRONG>幂函数的单调性和奇偶性：<BR></STRONG>对于幂函数<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131127/20131127214430643915.jpg">（a∈R)．<BR>(1)单调性<BR>当a&gt;0时，函数<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131127/20131127214430643915.jpg">在第一象限内是增函数；当a&lt;0时，函数<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131127/20131127214430643915.jpg">在第一象限内是减函数．<BR>(2)奇偶性<BR>①当a为整数时，<BR>若a为偶数，则<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131127/20131127214430643915.jpg">是偶函数；若a为奇数，则<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131127/20131127214430643915.jpg">是奇函数。<BR>②当n为分数，即<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131127/201311272144332011319.jpg">（p，q互素，p，q∈Z）时，若分母q为奇数，则分子p为奇数时，<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131127/20131127214430643915.jpg">为奇函数；分子p为偶数时，<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131127/20131127214430643915.jpg">为偶函数，&nbsp;若分母q为偶数，则<IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20131127/20131127214430643915.jpg">为非奇非偶函数．<BR></P></div></li><li><div class="splitline"></div><div  class="notes"><P>&nbsp;</P></div></li></ul></div>
+                        <div class="seccopyright">
+                            以上内容为魔方格学习社区（www.mofangge.com）原创内容，未经允许不得转载！</div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai"  id="q_indexkuai6">
+                <div class="q_indextitle" id="q_indexkuai61"> 
+                    <div class="q_indextitle3" id="q_indextitle3">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai7">
+                <div class="q_mktitle" id="q_indexkuai71">
+                    发现相似题</div>
+                <div class="q_content" id="q_indexkuai72">
+                    <div class="q_sameline" id="q_indexkuai721">
+                        与<span>“已知幂函数y=f(x)的图象过点（2，），试求出此函数的解析式，并写出..”</span>考查相似的试题有：</div>
+                    <div class="q_bot" id="q_indexkuai722">
+                        <!-- $xiangsiqidlist$ -->
+                        <table border="0" cellpadding="1" class="nearQues" style="line-height: 24px;">
+                            <thead>
+                                <tr>
+                                    <th width="15%">
+                                        试题ID
+                                    </th>
+                                    <th>
+                                        试题题文
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>402715</td><td><a href="http://www.mofangge.com/html/qDetail/02/g0/201312/cr6ng002402715.html">若幂函数f（x）=xa在（0，+∞）上是增函数，则（）A．a＞0B．a＜0C．a=0D．不能..</a></td></tr><tr><td>251860</td><td><a href="http://www.mofangge.com/html/qDetail/02/g1/201106/f6ltg102251860.html">当α∈{-1，，1，3}时，幂函数y=xα的图象不可能经过第（）象限．</a></td></tr><tr><td>396993</td><td><a href="http://www.mofangge.com/html/qDetail/02/g0/201312/eu1tg002396993.html">下列所给出的函数中，是幂函数的是（）A．y=-x3B．y=x-3C．y=2x3D．y=x..</a></td></tr><tr><td>246385</td><td><a href="http://www.mofangge.com/html/qDetail/02/g1/201104/vpc4g102246385.html">已知幂函数的图象经过点（4，2），则f（16）=[]A.2B.4C.4D.8</a></td></tr><tr><td>814353</td><td><a href="http://www.mofangge.com/html/qDetail/02/g1/201408/b1yfg102814353.html">幂函数的图象过点，则等于_________。</a></td></tr><tr><td>276377</td><td><a href="http://www.mofangge.com/html/qDetail/02/g3/201205/srvgg302276377.html">设a∈{1，，3，}，则使函数y=xa的定义域为R且为奇函数的所有a的值..</a></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="q_right">
+            <!--<script type="text/javascript">BAIDU_CLB_fillSlot("762611");</script>-->
+            <div id="container_ext">
+            </div>
+            <!--<div class="Extra_right" id="Extra_right">
+            <div class="Extra_right1">
+                    <div class="div1" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_3">
+                        <div class="image1">
+                        </div>
+                    </div>
+                    <div class="div2" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_4">
+                    </div>
+                    <div class="div1" onclick="addfavorite()">
+                        <div class="image2">
+                        </div>
+                    </div>
+                    <div class="div2" id="keep_detail" onclick="addfavorite()">
+                    </div>
+                    <div class="div4">
+                        <div class="image3">
+                        </div>
+                        <div class="div3">
+                        </div>
+                        <div id="turn_weixin">
+                        </div>
+                        <p class="dttaildes">
+                            扫一扫，有惊喜</p>
+                    </div>
+                    <div class="div6">
+                        <iframe src="http://open.qzone.qq.com/like?url=http%3A%2F%2Fuser.qzone.qq.com%2F17175515&type=button_num&width=400&height=30&style=2 
+
+" allowtransparency="true" scrolling="no" border="0" frameborder="0" style="width: 400px; height: 30px; border: none;
+                            overflow: hidden;"></iframe>
+                            <iframe id="review" height="24" marginheight="0" src="http://follow.v.t.qq.com/index.php?c=follow&amp;a=quick&amp;appkey=801507580&amp;sign=bab9dd3a&amp;v=2&amp;name=mofangge520&amp;style=5&amp;t=1400310722678&amp;f=0" frameborder="0" width="125" allowtransparency="" marginwidth="0"></iframe>
+                        <p>
+                           <img src="/css/style1/forqdetail/threejt.png" width="54px" height="21px" style="vertical-align:middle;"> 关注QQ空间<br>
+                            学习秘籍，尽在此地</p>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+     </div>
+    <div class="copyright">
+        <div id="MFG_Features">“魔方格学习社区”各栏目介绍之--试题搜索：千万道试题，涵盖中小学十二学年九大学科，绝无仅有的学习领地，访问www.mofangge.com，只会让你更多的惊讶。</div><script type="text/javascript" src="/js/comm/mfgconfig.js"></script>
+        © 2014 <a href="http://www.mofangge.com" style="color: White">魔方格</a> 版权所有
+        <span id="thispage_lastlog_time"> 最后访问时间：2015-08-30 20:33:27</span>
+    </div>
+</body>
+
+<script src="/js/inc/mootools-core.js" type="text/javascript"></script>
+
+<script src="/js/comm/comm.js" type="text/javascript"></script>
+
+<script src="/js/comm/mfg_debug.js" type="text/javascript"></script>
+
+<script src="/js/comm/Ques_comm.js" type="text/javascript"></script>
+
+<script src="/js/app/qdetail/qdetail1.js?v=20150130" type="text/javascript"></script>
+
+</html>

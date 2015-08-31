@@ -1,0 +1,247 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>如图所示，电源电动势E=9V，内阻r=0.5Ω，电阻R1=5.0Ω，R2=3.5Ω，R3=6.0Ω，R4=3.0Ω，电容C=2.0μF。两板间距离为0.17m。（1）求电键接到a时，电容的带电量是多少？上极板带-高一物理-魔方格</title>
+    <meta name="renderer" content="webkit" />
+    <link id="favicon" href="/logo.ico" rel="icon" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="如图所示，电源电动势E=9V，内阻r=0.5Ω，电阻R1=5.0Ω，R2=3.5Ω，R3=6.0Ω，R4=3.0Ω，电容C=2.0μF。两板间距离为0.17m。（1）求电键接到a时，电容的带电量是多少？上极板带-高一物理-魔方格" />
+    <meta name="keywords" content="如图所示，电源电动势E=9V，内阻r=0.5Ω，电阻R1=5.0Ω，R2=3.5Ω，R3=6.0Ω，R4=3.0Ω，电容C=2.0μF。两板间距离为0.17m。（1）求电键接到a时，电容的带电量是多少？上极板带-高一物理-魔方格" />
+    <link href="/css/style1/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style1/forqdetail1.css" rel="stylesheet" type="text/css" />
+    <link href="http://bdimg.share.baidu.com/static/css/bdsstyle.css?cdnversion=20130704"
+        rel="stylesheet" type="text/css">
+
+    <script src="http://bdimg.share.baidu.com/static/js/logger.js?cdnversion=382066"></script>
+
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+
+</head>
+<body>
+    <div class="head">
+        <a class="goback1" href="javascript:void(0)" id="gohome_cl_1"></a>
+        <ul id="menu_daohang" class="menu">
+            <a href="javascript:void(0)" id="gohome_cl_2">首页</a> <span class="current">试题专页</span>
+        </ul>
+        <ul class="user_but" id="main_user_info">
+            <li id="gohome_reg_1">注册</li>
+            <li id="gohome_login_1">登录</li>
+        </ul>
+    </div>
+    <div class="bgcolorshow">
+        <!--为了兼容占位-->
+    </div>
+    <div class="content">
+        <div class="nagetivebanner">
+            <div class="teach_note">
+                <div id="teach_notetxt" class="teach_notepic">
+                </div>
+            </div>
+            <div id="teach_detail" class="teach_detail">
+                <span id="teach_detail1"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail2"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail3"></span>
+            </div>
+        </div>
+        <div class="nagetivebanner1">
+            <div class="seotop">
+                <span class="seotops">当前位置：<a href="http://www.mofangge.com" id="gohome_hr_1">魔方格</a>
+                    ＞<a href="http://www.mofangge.com/qlist/wuli/" title="物理">物理</a>＞<a href="http://www.mofangge.com/qlist/wuli/501/" title="电容器的概念和原理">电容器的概..</a>＞如图所示，电源电动势E=9V，内阻r=0.5Ω，电阻R1=5.0Ω，R2=3.5..</span>
+            </div>
+        </div>
+        <div style="float: left; width: 720px;">
+            <div class="q_mokuai" id="q_indexkuai1">
+                <div class="q_indextitle" id="q_indexkuai11">
+                    <div class="q_indextitle1" id="q_indextitle1">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai2">
+                <div class="q_mktitle" id="q_indexkuai21">
+                    题文</div>
+                <div class="q_content" id="q_indexkuai22">
+                    <div class="q_bot" id="q_indexkuai221">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><div>如图所示，电源电动势E=9V，内阻r=0.5Ω，电阻R<sub>1</sub>=5.0Ω，R<sub>2</sub>=3.5Ω，R<sub>3</sub>=6.0Ω，R<sub>4</sub>=3.0Ω，电容C=2.0μF。两板间距离为0.17 m。<br /><img src="http://pic2.mofangge.com/upload/papers//20140825/201408250052303453769.jpg" style="vertical-align:middle;" /><br />（1）求电键接到a时，电容的带电量是多少？上极板带何种电荷？<br />（2）求电键从与a接触到与b接触时，通过R<sub>3</sub>的电荷量是多少？上极板带何种电荷？<br />（3）若两极板中央有一个带电粒子，当电键与a接触时，正好处于静止状态，若电键与b接触后，带电粒子向哪极板运动？经过多长时间到达极板？（不考虑电容充放电时间，g=10m/s<sup>2</sup>）</div></TD></TR></TBODY></TABLE>
+                        <div class="provider" id="q_indexkuai2211">
+                            <div class="splitline">
+                            </div>
+                            <div class="right rightDiv" id="q_indexkuai22111">
+                                <span>题型：计算题</span><span>难度：中档</span><span>来源：不详</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai3">
+                <div class="q_mktitle" id="q_indextitle4">
+                    答案</div>
+                <div class="q_content" id="q_indexkuai32">
+                    <div class="q_bot" id="q_indexkuai321">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><div>（1）2×10<sup>-5</sup>C；正电；（2）1.7×10<sup>-5</sup>C；负电；（3）向下极板运动；0.1s。</div></TD></TR></TBODY></TABLE><TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><div><br />试题分析：（1）当开关接a时，电容器的电压 <img src="http://pic2.mofangge.com/upload/papers//20140825/201408250052303611647.png" style="vertical-align:middle;" /><br />电量 Q<sub>1</sub>=CU<sub>1</sub>=2×10<sup>-6</sup>×5C=2×10<sup>-5</sup>C，由于上极板电势高，则上极板带正电荷．<br />（2）电键与b接触时，电容器的电压 <img src="http://pic2.mofangge.com/upload/papers//20140825/201408250052303761764.png" style="vertical-align:middle;" /><br />则由Q=CU可知，开关由a接b的过程中，电量变化△Q=（U<sub>1</sub>+U<sub>2</sub>）C=8.5×2.0×10<sup>-6</sup>=1.7×10<sup>-5</sup>C<br />即通过R<sub>3</sub>的电荷量为1.7×10<sup>-5</sup>C．由于上极板电势低，则上极板带负电荷．<br />（3）当电键与a接触时，粒子正好处于静止状态，电场力与重力平衡，则知电场力方向竖直向上，且有：<img src="http://pic2.mofangge.com/upload/papers//20140825/20140825005230407847.png" style="vertical-align:middle;" /><br />若电键与b接触后，场强反向，电场力反向，则小球向下极板做加速运动．<br />根据牛顿第二定律得：<img src="http://pic2.mofangge.com/upload/papers//20140825/201408250052304851024.png" style="vertical-align:middle;" /><br />联立得：<img src="http://pic2.mofangge.com/upload/papers//20140825/201408250052305011883.png" style="vertical-align:middle;" /><br />由<img src="http://pic2.mofangge.com/upload/papers//20140825/20140825005230532751.png" style="vertical-align:middle;" />得：<img src="http://pic2.mofangge.com/upload/papers//20140825/201408250052305481144.png" style="vertical-align:middle;" /></div></TD></TR></TBODY></TABLE>
+                        <div class="right beShare" id="q_indexkuai3211">
+                            <span class="share_note">马上分享给同学</span>
+                            <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
+                                <a class="bds_qzone"></a><a class="bds_tieba"></a><a class="bds_hi"></a><a class="bds_sqq">
+                                </a><span class="bds_more"></span><a class="shareCount"></a>
+                            </div>
+
+                            <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=523656"></script>
+
+                            <script type="text/javascript" id="bdshell_js"></script>
+
+                            <script type="text/javascript">
+                                document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                            </script>
+
+                            <!-- Baidu Button END -->
+                        </div>
+                        <div class="provider" id="q_indexkuai3212">
+                            <div class="splitline">
+                            </div>
+                            <ul class="qditaltools" id="ques_tools">
+                                <li><a class="tools_jc" id="qdebug">揪错</a></li>
+                                <li><a class="tools_sc" id="b2tocollect">收藏</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="ad_center">
+
+               <!-- <script type="text/javascript">                    BAIDU_CLB_fillSlot("762612");</script>-->
+
+            </div>
+            <div class="q_mokuai" id="q_indexkuai4">
+                <div class="q_indextitle" id="q_indexkuai41">
+                    <div class="q_indextitle2" id="q_indextitle2">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai5">
+                <div class="q_content" id="q_indexkuai51">
+                    <div class="q_bot" id="q_indexkuai511">
+                        <div class="SecTotal">
+                            据魔方格专家权威分析，试题“如图所示，电源电动势E=9V，内阻r=0.5Ω，电阻R1=5.0Ω，R2=3.5..”主要考查你对&nbsp;&nbsp;<span id="seclist"><span class="secname">电容器的概念和原理</span></span>&nbsp;&nbsp;等考点的理解。关于这些考点的“档案”如下：</div>
+                        <div class="linote">
+                            现在没空？<span class="btn" onclick="addfavorite()">点击收藏</span>，以后再看。</div>
+                        <div class="linote">
+                            因为篇幅有限，只列出部分考点，详细请访问<a class="btn" href="http://www.mofangge.com" target="_blank"
+                                id="gohome_hr_2">魔方格学习社区</a>。</div>
+                    </div>
+                    <div class="secchkdiv"  id="q_indexkuai512">
+                        <div class="secchkPanel" id="secchkPanel">
+                            <span class="CheckedPanel" id="panel501" title="电容器的概念和原理">电容器的概念和原理</span>
+                            <div class="clearfix">
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 20px; display: block; width: 300px;">
+                    </div>
+                    <div class="q_bot" id="secinfoPanel">
+                        <div class="q_bot" id="secInfo_501"><div class="secinfo">考点名称：<span class="secname">电容器的概念和原理</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>电容器：</STRONG></P>
+<P><IMG style="WIDTH: 629px; HEIGHT: 312px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131230/2013123019093743182401.png"><BR><IMG style="WIDTH: 629px; HEIGHT: 145px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131230/2013123019093754047228.png"></P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>电容器动态过程分析方法：</STRONG></P>
+<P>类型一：C、Q、U、E变化情况分析：<BR><IMG style="WIDTH: 645px; HEIGHT: 385px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131230/2013123019251318399148.png"><BR>类型二：板间某点φ、带电粒子E<SUB>p</SUB>变化情况分析<BR><IMG style="WIDTH: 646px; HEIGHT: 338px; VERTICAL-ALIGN: middle" src="http://pic2.mofangge.com/upload/knowlageEx/04/20131230/2013123019251335467278.png"><BR><BR></P></div></li></ul></div>
+                        <div class="seccopyright">
+                            以上内容为魔方格学习社区（www.mofangge.com）原创内容，未经允许不得转载！</div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai"  id="q_indexkuai6">
+                <div class="q_indextitle" id="q_indexkuai61"> 
+                    <div class="q_indextitle3" id="q_indextitle3">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai7">
+                <div class="q_mktitle" id="q_indexkuai71">
+                    发现相似题</div>
+                <div class="q_content" id="q_indexkuai72">
+                    <div class="q_sameline" id="q_indexkuai721">
+                        与<span>“如图所示，电源电动势E=9V，内阻r=0.5Ω，电阻R1=5.0Ω，R2=3.5..”</span>考查相似的试题有：</div>
+                    <div class="q_bot" id="q_indexkuai722">
+                        <!-- $xiangsiqidlist$ -->
+                        <table border="0" cellpadding="1" class="nearQues" style="line-height: 24px;">
+                            <thead>
+                                <tr>
+                                    <th width="15%">
+                                        试题ID
+                                    </th>
+                                    <th>
+                                        试题题文
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>434226</td><td><a href="http://www.mofangge.com/html/qDetail/04/g3/201408/gostg304434226.html">如图所示，A、B是水平放置的平行板电容器的极板，重力可以忽略不..</a></td></tr><tr><td>382838</td><td><a href="http://www.mofangge.com/html/qDetail/04/g3/201408/0sx9g304382838.html">某交变电压为u＝8sin(157t)V，则A．用此交变电流作打点计时器的电源..</a></td></tr><tr><td>389801</td><td><a href="http://www.mofangge.com/html/qDetail/04/g2/201408/b8jbg204389801.html">电源给电容器充电使平行板电容器所带量为Q=4×l0-6C，它的两极板之..</a></td></tr><tr><td>377159</td><td><a href="http://www.mofangge.com/html/qDetail/04/g2/201408/x3ayg204377159.html">如图所示，已充电的平行板电容器，带正电的极板接地，两极板间于..</a></td></tr><tr><td>381245</td><td><a href="http://www.mofangge.com/html/qDetail/04/g2/201408/xk88g204381245.html">对于一个电容器，下列说法中正确的是A．电容器所带的电量越多，电..</a></td></tr><tr><td>293746</td><td><a href="http://www.mofangge.com/html/qDetail/04/g2/201406/5ryhg204293746.html">如图所示，L为一电阻可忽略的线圈．D为一灯泡，C为电容器，S闭合，..</a></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="q_right">
+            <!--<script type="text/javascript">BAIDU_CLB_fillSlot("762611");</script>-->
+            <div id="container_ext">
+            </div>
+            <!--<div class="Extra_right" id="Extra_right">
+            <div class="Extra_right1">
+                    <div class="div1" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_3">
+                        <div class="image1">
+                        </div>
+                    </div>
+                    <div class="div2" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_4">
+                    </div>
+                    <div class="div1" onclick="addfavorite()">
+                        <div class="image2">
+                        </div>
+                    </div>
+                    <div class="div2" id="keep_detail" onclick="addfavorite()">
+                    </div>
+                    <div class="div4">
+                        <div class="image3">
+                        </div>
+                        <div class="div3">
+                        </div>
+                        <div id="turn_weixin">
+                        </div>
+                        <p class="dttaildes">
+                            扫一扫，有惊喜</p>
+                    </div>
+                    <div class="div6">
+                        <iframe src="http://open.qzone.qq.com/like?url=http%3A%2F%2Fuser.qzone.qq.com%2F17175515&type=button_num&width=400&height=30&style=2 
+
+" allowtransparency="true" scrolling="no" border="0" frameborder="0" style="width: 400px; height: 30px; border: none;
+                            overflow: hidden;"></iframe>
+                            <iframe id="review" height="24" marginheight="0" src="http://follow.v.t.qq.com/index.php?c=follow&amp;a=quick&amp;appkey=801507580&amp;sign=bab9dd3a&amp;v=2&amp;name=mofangge520&amp;style=5&amp;t=1400310722678&amp;f=0" frameborder="0" width="125" allowtransparency="" marginwidth="0"></iframe>
+                        <p>
+                           <img src="/css/style1/forqdetail/threejt.png" width="54px" height="21px" style="vertical-align:middle;"> 关注QQ空间<br>
+                            学习秘籍，尽在此地</p>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+     </div>
+    <div class="copyright">
+        <div id="MFG_Features">“魔方格学习社区”各栏目介绍之--考点百科：涵盖中小学十二学年九大学科所有的考点百科知识，定义类、定理类、导图类、特性类、点拨类，应有尽有，绝对是你的课前预习好帮手，前往www.mofangge.com，垂手可得。</div><script type="text/javascript" src="/js/comm/mfgconfig.js"></script>
+        © 2014 <a href="http://www.mofangge.com" style="color: White">魔方格</a> 版权所有
+        <span id="thispage_lastlog_time"> 最后访问时间：2015-08-31 13:10:37</span>
+    </div>
+</body>
+
+<script src="/js/inc/mootools-core.js" type="text/javascript"></script>
+
+<script src="/js/comm/comm.js" type="text/javascript"></script>
+
+<script src="/js/comm/mfg_debug.js" type="text/javascript"></script>
+
+<script src="/js/comm/Ques_comm.js" type="text/javascript"></script>
+
+<script src="/js/app/qdetail/qdetail1.js?v=20150130" type="text/javascript"></script>
+
+</html>

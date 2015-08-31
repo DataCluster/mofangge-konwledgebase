@@ -1,0 +1,249 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>如图，已知圆心坐标为的圆与轴及直线均相切，切点分别为、，另一圆与圆、轴及直线均相切，切点分别为、。（1）求圆和圆的方程；（2）过点作的平行线，求直线被圆截得的弦的长度；-高一数学-魔方格</title>
+    <meta name="renderer" content="webkit" />
+    <link id="favicon" href="/logo.ico" rel="icon" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="如图，已知圆心坐标为的圆与轴及直线均相切，切点分别为、，另一圆与圆、轴及直线均相切，切点分别为、。（1）求圆和圆的方程；（2）过点作的平行线，求直线被圆截得的弦的长度；-高一数学-魔方格" />
+    <meta name="keywords" content="如图，已知圆心坐标为的圆与轴及直线均相切，切点分别为、，另一圆与圆、轴及直线均相切，切点分别为、。（1）求圆和圆的方程；（2）过点作的平行线，求直线被圆截得的弦的长度；-高一数学-魔方格" />
+    <link href="/css/style1/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style1/forqdetail1.css" rel="stylesheet" type="text/css" />
+    <link href="http://bdimg.share.baidu.com/static/css/bdsstyle.css?cdnversion=20130704"
+        rel="stylesheet" type="text/css">
+
+    <script src="http://bdimg.share.baidu.com/static/js/logger.js?cdnversion=382066"></script>
+
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+
+</head>
+<body>
+    <div class="head">
+        <a class="goback1" href="javascript:void(0)" id="gohome_cl_1"></a>
+        <ul id="menu_daohang" class="menu">
+            <a href="javascript:void(0)" id="gohome_cl_2">首页</a> <span class="current">试题专页</span>
+        </ul>
+        <ul class="user_but" id="main_user_info">
+            <li id="gohome_reg_1">注册</li>
+            <li id="gohome_login_1">登录</li>
+        </ul>
+    </div>
+    <div class="bgcolorshow">
+        <!--为了兼容占位-->
+    </div>
+    <div class="content">
+        <div class="nagetivebanner">
+            <div class="teach_note">
+                <div id="teach_notetxt" class="teach_notepic">
+                </div>
+            </div>
+            <div id="teach_detail" class="teach_detail">
+                <span id="teach_detail1"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail2"></span>
+                <div class="teach_detailsplit">
+                </div>
+                <span id="teach_detail3"></span>
+            </div>
+        </div>
+        <div class="nagetivebanner1">
+            <div class="seotop">
+                <span class="seotops">当前位置：<a href="http://www.mofangge.com" id="gohome_hr_1">魔方格</a>
+                    ＞<a href="http://www.mofangge.com/qlist/shuxue/" title="数学">数学</a>＞<a href="http://www.mofangge.com/qlist/shuxue/631/" title="点到直线的距离">点到直线的..</a>＞如图，已知圆心坐标为的圆与轴及直线均相切，切点分别为、，另一..</span>
+            </div>
+        </div>
+        <div style="float: left; width: 720px;">
+            <div class="q_mokuai" id="q_indexkuai1">
+                <div class="q_indextitle" id="q_indexkuai11">
+                    <div class="q_indextitle1" id="q_indextitle1">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai2">
+                <div class="q_mktitle" id="q_indexkuai21">
+                    题文</div>
+                <div class="q_content" id="q_indexkuai22">
+                    <div class="q_bot" id="q_indexkuai221">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><div>如图，已知圆心坐标为<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622040658.png" style="vertical-align:middle;" />的圆<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622071399.png" style="vertical-align:middle;" />与<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622087266.png" style="vertical-align:middle;" />轴及直线<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622102527.png" style="vertical-align:middle;" />均相切，切点分别为<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622134300.png" style="vertical-align:middle;" />、<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622149309.png" style="vertical-align:middle;" />，另一圆<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622180357.png" style="vertical-align:middle;" />与圆<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622071399.png" style="vertical-align:middle;" />、<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622087266.png" style="vertical-align:middle;" />轴及直线<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622102527.png" style="vertical-align:middle;" />均相切，切点分别为<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622258313.png" style="vertical-align:middle;" />、<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622274315.png" style="vertical-align:middle;" />。<br />（1）求圆<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622071399.png" style="vertical-align:middle;" />和圆<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622180357.png" style="vertical-align:middle;" />的方程；<br />（2）过<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622149309.png" style="vertical-align:middle;" />点作<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622336513.png" style="vertical-align:middle;" />的平行线<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622368280.png" style="vertical-align:middle;" />，求直线<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622368280.png" style="vertical-align:middle;" />被圆<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622180357.png" style="vertical-align:middle;" />截得的弦的长度；<br /><img src="http://pic2.mofangge.com/upload/papers//20140824/201408240606224466598.png" style="vertical-align:middle;" /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622087266.png" style="vertical-align:middle;" />&nbsp;</div></TD></TR></TBODY></TABLE>
+                        <div class="provider" id="q_indexkuai2211">
+                            <div class="splitline">
+                            </div>
+                            <div class="right rightDiv" id="q_indexkuai22111">
+                                <span>题型：解答题</span><span>难度：偏易</span><span>来源：不详</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai3">
+                <div class="q_mktitle" id="q_indextitle4">
+                    答案</div>
+                <div class="q_content" id="q_indexkuai32">
+                    <div class="q_bot" id="q_indexkuai321">
+                        <TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><div>（1）圆<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622071399.png" style="vertical-align:middle;" />的方程为<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622508957.png" style="vertical-align:middle;" />，圆<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622180357.png" style="vertical-align:middle;" />的方程为<img src="http://pic2.mofangge.com/upload/papers//20140824/201408240606225551030.png" style="vertical-align:middle;" /><br />（2）<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622570366.png" style="vertical-align:middle;" /></div></TD></TR></TBODY></TABLE><TABLE style="WORD-BREAK: break-all" border=0 width=650><TBODY><TR><TD><div><br />试题分析:（1）根据圆的圆心坐标和半径求圆的标准方程.（2）直线和圆相交，根据半径，弦长的一半，圆心距求弦长.（3）圆的弦长的常用求法：（1）几何法：求圆的半径<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622602260.png" style="vertical-align:middle;" />，弦心距<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622617321.png" style="vertical-align:middle;" />，弦长<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622368280.png" style="vertical-align:middle;" />，则<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622664928.png" style="vertical-align:middle;" /><br />（2）代数方法：运用根与系数的关系及弦长公式<img src="http://pic2.mofangge.com/upload/papers//20140824/201408240606226801523.png" style="vertical-align:middle;" />.<br />试题解析:解（1）由于圆<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622071399.png" style="vertical-align:middle;" />与<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622726511.png" style="vertical-align:middle;" />的两边相切，故<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622071399.png" style="vertical-align:middle;" />到<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622758376.png" style="vertical-align:middle;" />及<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622789370.png" style="vertical-align:middle;" />的距离均为圆<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622071399.png" style="vertical-align:middle;" />的半径，则<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622071399.png" style="vertical-align:middle;" />在<br /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622726511.png" style="vertical-align:middle;" />的角平分线上，同理，<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622180357.png" style="vertical-align:middle;" />也在<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622726511.png" style="vertical-align:middle;" />的角平分线上，<br />即<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622898619.png" style="vertical-align:middle;" />三点共线，且<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622914567.png" style="vertical-align:middle;" />为<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622726511.png" style="vertical-align:middle;" />的角平分线，<br /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622960235.png" style="vertical-align:middle;" /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622071399.png" style="vertical-align:middle;" />的坐标为<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622040658.png" style="vertical-align:middle;" />，<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060623023427.png" style="vertical-align:middle;" />到<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622087266.png" style="vertical-align:middle;" />轴的距离为1，即：圆<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622071399.png" style="vertical-align:middle;" />的半径为1，<br /><img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060623085195.png" style="vertical-align:middle;" />圆<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622071399.png" style="vertical-align:middle;" />的方程为<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060623116851.png" style="vertical-align:middle;" />；&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3分<br />设圆<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622180357.png" style="vertical-align:middle;" />的半径为<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622602260.png" style="vertical-align:middle;" />，由<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060623163923.png" style="vertical-align:middle;" />，得：<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060623179857.png" style="vertical-align:middle;" />,<br />即<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060623210712.png" style="vertical-align:middle;" />，<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060623226568.png" style="vertical-align:middle;" />，<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060623085195.png" style="vertical-align:middle;" />圆<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622180357.png" style="vertical-align:middle;" />的方程为：<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060623304900.png" style="vertical-align:middle;" />；&nbsp; 6分<br />（2）由对称性可知，所求弦长等于过<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622134300.png" style="vertical-align:middle;" />点的<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622336513.png" style="vertical-align:middle;" />的平行线被圆<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622180357.png" style="vertical-align:middle;" />截得的弦长，<br />此弦所在直线方程为<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060623366808.png" style="vertical-align:middle;" />，即<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060623382641.png" style="vertical-align:middle;" />，<br />圆心<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060622180357.png" style="vertical-align:middle;" />到该直线的距离<img src="http://pic2.mofangge.com/upload/papers//20140824/201408240606234281135.png" style="vertical-align:middle;" />，则弦长=<img src="http://pic2.mofangge.com/upload/papers//20140824/20140824060623444750.png" style="vertical-align:middle;" />&nbsp;&nbsp;&nbsp; 3分</div></TD></TR></TBODY></TABLE>
+                        <div class="right beShare" id="q_indexkuai3211">
+                            <span class="share_note">马上分享给同学</span>
+                            <!-- Baidu Button BEGIN -->
+                            <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
+                                <a class="bds_qzone"></a><a class="bds_tieba"></a><a class="bds_hi"></a><a class="bds_sqq">
+                                </a><span class="bds_more"></span><a class="shareCount"></a>
+                            </div>
+
+                            <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=523656"></script>
+
+                            <script type="text/javascript" id="bdshell_js"></script>
+
+                            <script type="text/javascript">
+                                document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                            </script>
+
+                            <!-- Baidu Button END -->
+                        </div>
+                        <div class="provider" id="q_indexkuai3212">
+                            <div class="splitline">
+                            </div>
+                            <ul class="qditaltools" id="ques_tools">
+                                <li><a class="tools_jc" id="qdebug">揪错</a></li>
+                                <li><a class="tools_sc" id="b2tocollect">收藏</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="ad_center">
+
+               <!-- <script type="text/javascript">                    BAIDU_CLB_fillSlot("762612");</script>-->
+
+            </div>
+            <div class="q_mokuai" id="q_indexkuai4">
+                <div class="q_indextitle" id="q_indexkuai41">
+                    <div class="q_indextitle2" id="q_indextitle2">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai5">
+                <div class="q_content" id="q_indexkuai51">
+                    <div class="q_bot" id="q_indexkuai511">
+                        <div class="SecTotal">
+                            据魔方格专家权威分析，试题“如图，已知圆心坐标为的圆与轴及直线均相切，切点分别为、，另一..”主要考查你对&nbsp;&nbsp;<span id="seclist"><span class="secname">点到直线的距离</span></span>&nbsp;&nbsp;等考点的理解。关于这些考点的“档案”如下：</div>
+                        <div class="linote">
+                            现在没空？<span class="btn" onclick="addfavorite()">点击收藏</span>，以后再看。</div>
+                        <div class="linote">
+                            因为篇幅有限，只列出部分考点，详细请访问<a class="btn" href="http://www.mofangge.com" target="_blank"
+                                id="gohome_hr_2">魔方格学习社区</a>。</div>
+                    </div>
+                    <div class="secchkdiv"  id="q_indexkuai512">
+                        <div class="secchkPanel" id="secchkPanel">
+                            <span class="CheckedPanel" id="panel631" title="点到直线的距离">点到直线的距离</span>
+                            <div class="clearfix">
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 20px; display: block; width: 300px;">
+                    </div>
+                    <div class="q_bot" id="secinfoPanel">
+                        <div class="q_bot" id="secInfo_631"><div class="secinfo">考点名称：<span class="secname">点到直线的距离</span></div><ul class="quesExtra"><li><div class="splitline"></div><div  class="notes"><P><STRONG>点到直线的距离公式：</STRONG></P>
+<P>1、若点P（x<SUB>0</SUB>，y<SUB>0</SUB>）在直线Ax+By+C=0（A，B不同时为0）上，则Ax<SUB>0</SUB>+By<SUB>0</SUB>+C=0。 <BR>2、若点P（x<SUB>0</SUB>，y<SUB>0</SUB>）不在直线Ax+By+C=0（A，B不同时为0）上，则Ax<SUB>0</SUB>+By<SUB>0</SUB>+C≠0，此时点P（x<SUB>0</SUB>，y<SUB>0</SUB>）直线Ax+By+C=0（A，B不同时为0）的距离d=<IMG style="HEIGHT: 51px; WIDTH: 103px; VERTICAL-ALIGN: middle" src="http://pic1.mofangge.com/upload/papers/02/20120829/201208291357261381165.png">。 <BR></P></div></li><li><div class="splitline"></div><div  class="notes"><P><STRONG>点到直线的距离公式的理解：</STRONG></P>
+<P>①点到直线的距离是直线上的点与直线外一点的连线的最短距离（这是从运动观点来看的）．<BR>②若给出的直线方程不是一般式，则应先把方程化为一般式，再利用公式求距离．<BR>③点到直线的距离公式适用于任何情况，其中点P在直线l上时，它到直线的距离为0．<BR>④点到几种特殊直线的距离：<BR><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20140103/201401031542536484825.jpg">&nbsp;<BR><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20140103/201401031542538664932.jpg"><BR><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20140103/201401031542540536742.jpg"><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20140103/201401031542542091147.jpg">&nbsp;<BR><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20140103/201401031542543816950.jpg"><IMG src="http://pic2.mofangge.com/upload/knowlageEx/02/20140103/201401031542545521156.jpg"> </P><!--StartFragment -->
+<DIV>&nbsp;</DIV><!--StartFragment -->
+<DIV>&nbsp;</DIV></div></li></ul></div>
+                        <div class="seccopyright">
+                            以上内容为魔方格学习社区（www.mofangge.com）原创内容，未经允许不得转载！</div>
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai"  id="q_indexkuai6">
+                <div class="q_indextitle" id="q_indexkuai61"> 
+                    <div class="q_indextitle3" id="q_indextitle3">
+                    </div>
+                </div>
+            </div>
+            <div class="q_mokuai" id="q_indexkuai7">
+                <div class="q_mktitle" id="q_indexkuai71">
+                    发现相似题</div>
+                <div class="q_content" id="q_indexkuai72">
+                    <div class="q_sameline" id="q_indexkuai721">
+                        与<span>“如图，已知圆心坐标为的圆与轴及直线均相切，切点分别为、，另一..”</span>考查相似的试题有：</div>
+                    <div class="q_bot" id="q_indexkuai722">
+                        <!-- $xiangsiqidlist$ -->
+                        <table border="0" cellpadding="1" class="nearQues" style="line-height: 24px;">
+                            <thead>
+                                <tr>
+                                    <th width="15%">
+                                        试题ID
+                                    </th>
+                                    <th>
+                                        试题题文
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>821245</td><td><a href="http://www.mofangge.com/html/qDetail/02/g1/201408/ued3g102821245.html">直线与轴的交点分别为A、B，O为坐标原点，则内切圆的方程为．</a></td></tr><tr><td>827415</td><td><a href="http://www.mofangge.com/html/qDetail/02/g2/201408/u3vhg202827415.html">（本小题满分12分）已知点是圆上任意一点，点与点关于原点对称．线段..</a></td></tr><tr><td>620934</td><td><a href="http://www.mofangge.com/html/qDetail/02/g0/201406/lmfrg002620934.html">在平面直角坐标系中，点A（1，2），B（7，10）到直线l距离分别为2和6..</a></td></tr><tr><td>398937</td><td><a href="http://www.mofangge.com/html/qDetail/02/g0/201312/fq8ug002398937.html">在极坐标系中，圆p=2上的点到直线p（cosθ+3sinθ）=6的距离的最小值..</a></td></tr><tr><td>440919</td><td><a href="http://www.mofangge.com/html/qDetail/02/g0/201401/1f2pg002440919.html">点P（4，0）到直线4x-3y-a=0的距离不大于3，则a的取值范围是______..</a></td></tr><tr><td>887519</td><td><a href="http://www.mofangge.com/html/qDetail/02/g3/201408/ubing302887519.html">以Rt△ABC的直角边AB为直径的圆O交AC边于点E，点D在BC上，且DE与圆..</a></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="q_right">
+            <!--<script type="text/javascript">BAIDU_CLB_fillSlot("762611");</script>-->
+            <div id="container_ext">
+            </div>
+            <!--<div class="Extra_right" id="Extra_right">
+            <div class="Extra_right1">
+                    <div class="div1" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_3">
+                        <div class="image1">
+                        </div>
+                    </div>
+                    <div class="div2" onclick="javascript:window.location.href='http://www.mofangge.com'"
+                        id="gohome_cl_4">
+                    </div>
+                    <div class="div1" onclick="addfavorite()">
+                        <div class="image2">
+                        </div>
+                    </div>
+                    <div class="div2" id="keep_detail" onclick="addfavorite()">
+                    </div>
+                    <div class="div4">
+                        <div class="image3">
+                        </div>
+                        <div class="div3">
+                        </div>
+                        <div id="turn_weixin">
+                        </div>
+                        <p class="dttaildes">
+                            扫一扫，有惊喜</p>
+                    </div>
+                    <div class="div6">
+                        <iframe src="http://open.qzone.qq.com/like?url=http%3A%2F%2Fuser.qzone.qq.com%2F17175515&type=button_num&width=400&height=30&style=2 
+
+" allowtransparency="true" scrolling="no" border="0" frameborder="0" style="width: 400px; height: 30px; border: none;
+                            overflow: hidden;"></iframe>
+                            <iframe id="review" height="24" marginheight="0" src="http://follow.v.t.qq.com/index.php?c=follow&amp;a=quick&amp;appkey=801507580&amp;sign=bab9dd3a&amp;v=2&amp;name=mofangge520&amp;style=5&amp;t=1400310722678&amp;f=0" frameborder="0" width="125" allowtransparency="" marginwidth="0"></iframe>
+                        <p>
+                           <img src="/css/style1/forqdetail/threejt.png" width="54px" height="21px" style="vertical-align:middle;"> 关注QQ空间<br>
+                            学习秘籍，尽在此地</p>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+     </div>
+    <div class="copyright">
+        <div id="MFG_Features">“魔方格学习社区”各栏目介绍之--试题搜索：千万道试题，涵盖中小学十二学年九大学科，绝无仅有的学习领地，访问www.mofangge.com，只会让你更多的惊讶。</div><script type="text/javascript" src="/js/comm/mfgconfig.js"></script>
+        © 2014 <a href="http://www.mofangge.com" style="color: White">魔方格</a> 版权所有
+        <span id="thispage_lastlog_time"> 最后访问时间：2015-08-30 22:50:42</span>
+    </div>
+</body>
+
+<script src="/js/inc/mootools-core.js" type="text/javascript"></script>
+
+<script src="/js/comm/comm.js" type="text/javascript"></script>
+
+<script src="/js/comm/mfg_debug.js" type="text/javascript"></script>
+
+<script src="/js/comm/Ques_comm.js" type="text/javascript"></script>
+
+<script src="/js/app/qdetail/qdetail1.js?v=20150130" type="text/javascript"></script>
+
+</html>
